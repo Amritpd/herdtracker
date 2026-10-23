@@ -5,6 +5,7 @@
 /fresh-powder/
 /investors/
 /exits/
+/herd/
 /about/
 /methodology/
 /privacy/

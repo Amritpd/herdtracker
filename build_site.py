@@ -59,7 +59,8 @@ def page(title, desc, active, body, depth=0, extra_head="", cow=False):
                  ("Rounds", f"{p}rounds/", "rounds"),
                  ("Fresh Powder", f"{p}fresh-powder/", "funds"),
                  ("Investors", f"{p}investors/", "investors"),
-                 ("Exits", f"{p}exits/", "exits")]
+                 ("Exits", f"{p}exits/", "exits"),
+                 ("The Herd", f"{p}herd/", "herd")]
     nav = "".join(f'<a href="{href}" class="{"on" if key==active else ""}">{label}</a>'
                   for label, href, key in nav_items)
     COWIMG = f'<img class="cow" src="{p}assets/cow-256.webp" alt="The Herd Tracker cow — our proprietary herd mark">' if cow else ""
@@ -445,6 +446,27 @@ def exits_page():
   <p class="note">Method: rule-based extraction over newsletter text; prices are figures reported in the same item (deal-adjacent numbers can slip in — verify against the linked edition). An exit is de-duplicated per company and type, dated to its first mention.</p>"""
     return page("Exits", "The Exit Door: acquisitions, IPOs, mergers and shutdowns — who got paid, who got screwed.", "exits", body, depth=1)
 
+# ---------------- the herd (troll page) ----------------
+def herd_page():
+    ai_share = round(100 * len([r for r in rounds if r["sector"] == "AI / ML"]) / max(len(rounds), 1))
+    body = f"""
+  <h2>The Herd</h2>
+  <p class="h2sub">Our correspondents in the field. Live, unbothered, and entirely uninterested in your term sheet.</p>
+  <img src="../assets/herd.webp" alt="The herd, grazing — a woodcut engraving of twelve cows in a field, two of them judging you" style="width:100%;border-radius:18px;mix-blend-mode:multiply;display:block">
+  <p class="note" style="text-align:center">THE HERD, AT GRAZE — Twelve head. The two in the centre have seen your pitch deck. (Staff engraving)</p>
+  {kpis([("12", "head counted"), ("10", "currently grazing"), ("2", "judging you"), (f"{ai_share}%", "of rounds are AI — stampede in progress")])}
+  <h2>Field Notes</h2>
+  <div class="panel">{table(["Observation", "Reading"], [
+      "<tr><td>Heads down, eating</td><td>Normal market. Capital is chewing.</td></tr>",
+      "<tr><td>Heads up, staring</td><td>A new thesis has been spotted on the horizon.</td></tr>",
+      "<tr><td>All heads turn the same way at once</td><td>Stampede imminent. See <a href='../trends/'>Trends</a>.</td></tr>",
+      "<tr><td>The field is empty</td><td>Everyone exited. See <a href='../exits/'>The Exit Door</a>.</td></tr>",
+      "<tr><td>One cow stands apart, alone</td><td>Contrarian. Either early or wrong; the archive will decide. See <a href='../trends/'>Thesis Archaeology</a>.</td></tr>",
+  ])}</div>
+  <p style="line-height:1.65;font-size:15.5px">The Herd is the control group for everything else on this site. The rounds, the funds, the stampedes into AI and out of cannabis — all of it is what the herd does when it stops grazing and starts running. The cows above have never raised a round, never missed payroll, and have correctly ignored every bubble since 2014 by the simple expedient of eating grass. We check on them weekly. They have never once checked on us.</p>
+  <p class="note">No cows were consulted in the making of this publication. The masthead cow is proprietary. Please do not feed the investors.</p>"""
+    return page("The Herd", "The herd, grazing. Twelve head, unbothered.", "herd", body, depth=1)
+
 # ---------------- utility ----------------
 def utility(slug, title, body_md):
     paras = "".join(f"<p style='line-height:1.65;font-size:15.5px'>{p}</p>" for p in body_md)
@@ -478,6 +500,7 @@ if __name__ == "__main__":
         "fresh-powder/index.html": funds_page(),
         "investors/index.html": investors_page(),
         "exits/index.html": exits_page(),
+        "herd/index.html": herd_page(),
         "about/index.html": utility("about", "About", ABOUT),
         "methodology/index.html": utility("methodology", "Methodology & Sources", METHOD),
         "privacy/index.html": utility("privacy", "Privacy Policy", PRIVACY),

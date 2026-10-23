@@ -266,25 +266,40 @@ def region_block(name, subset):
   <h2>Top Sectors — {name}</h2><div class="panel">{bars(sorted(sec.items(), key=lambda kv: -kv[1])[:6])}</div>
   <h2>Biggest Rounds — {name}</h2><div class="panel">{table(["Company", "Amount", "Stage", "City"], rows)}</div>"""
 
+INDIA_HUBS = {"mumbai", "bengaluru", "bangalore", "delhi", "new delhi", "hyderabad", "chennai", "pune", "gurugram", "gurgaon", "noida", "kolkata", "ahmedabad", "jaipur", "kochi", "indore"}
+
+def india_rounds():
+    return [r for r in rounds if r.get("source") == "Inc42" or (r.get("city") or "").lower() in INDIA_HUBS]
+
 def regions_page():
     tagged = [r for r in rounds if r["region"]]
     sections, buttons = [], []
-    all_names = ["Global"] + REGIONS
+    all_names = ["Global", "Americas", "Europe", "APAC", "India", "MEA"]
     for i, name in enumerate(all_names):
-        subset = rounds if name == "Global" else [r for r in rounds if r["region"] == name]
+        if name == "Global":
+            subset = rounds
+        elif name == "India":
+            subset = india_rounds()
+        else:
+            subset = [r for r in rounds if r["region"] == name]
         buttons.append(f'<button class="subtab {"on" if i == 0 else ""}" onclick="showRegion(\'{name}\')">{name}</button>')
         display = "" if i == 0 else "display:none"
-        inner = (kpis([(str(len(rounds)), "rounds, all regions"), (money(TOTAL), "total raised")]) +
-                 '<p class="note">The Global view is the full window. Pick an edition above for its own board.</p>'
-                 if name == "Global" else region_block(name, subset))
+        if name == "Global":
+            inner = (kpis([(str(len(rounds)), "rounds, all regions"), (money(TOTAL), "total raised")]) +
+                     '<p class="note">The Global view is the full window. Pick an edition above for its own board.</p>')
+        elif name == "India":
+            inner = ('<p class="note">Carved out of APAC — India out-produces the rest of the region combined in our window (Inc42 alone pulled as many rounds as all of EU-Startups), so it gets its own board. Indian rounds also remain counted inside APAC above.</p>' +
+                     region_block(name, subset))
+        else:
+            inner = region_block(name, subset)
         sections.append(f'<div id="region-{name}" style="{display}">{inner}</div>')
     cov = f"{rstats['tagged']}/{len(rounds)}"
     body = f"""
   <h2>Regional Editions</h2>
-  <p class="h2sub">The same herd, four pastures. North &amp; South America run as one edition (US volume dominates; LatAm alone would be an empty page). Europe, APAC and MEA stand alone.</p>
+  <p class="h2sub">The same herd, five pastures. North &amp; South America run as one edition (US volume dominates; LatAm alone would be an empty page). Europe, APAC and MEA stand alone — and India, APAC&rsquo;s engine, gets its own board.</p>
   <div class="subtabs">{''.join(buttons)}</div>
   {''.join(sections)}
-  <p class="note">Coverage honesty: in this FinSMEs-only snapshot, region was identified for {cov} rounds ({rstats['by_region']}) — FinSMEs states HQ cities inconsistently and skews American. Rounds are never guessed into a region. Coverage rises as regional-native sources (EU-Startups, Inc42, e27, LatamList, MENAbytes — all verified free) are wired into the pipeline.</p>
+  <p class="note">Coverage honesty: region was identified for {cov} rounds ({rstats['by_region']}) — FinSMEs states HQ cities inconsistently and skews American. Rounds are never guessed into a region. EU-Startups, Inc42 and e27 are now wired; coverage rises further as LatamList and MENAbytes come online. China is tracked on the watchlist only: English-language primary sources are thin and offshore access to Chinese private rounds is restricted, so a China edition would be coverage without access — noted, not faked.</p>
   <script>
   function showRegion(name){{
     {json.dumps(all_names)}.forEach(n => {{

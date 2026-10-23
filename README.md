@@ -29,6 +29,21 @@ Re-run:
 python3 fetch.py && python3 extract.py && python3 build_dashboard.py
 ```
 
+## Multi-page site (v2 — the site split)
+`build_site.py` generates `site/` — one page per section, shared broadsheet template:
+Front Page · **Trends** (thesis waves, graveyard, hype gap) · Regions (Americas /
+Europe / APAC / MEA editions) · Rounds (filters + CSV) · Fresh Powder · Investors,
+plus About / Methodology / Privacy / Terms / Contact, robots.txt and an ads.txt
+placeholder. `region.py` tags rounds with city/region mined from article text
+(coverage is printed on the Regions page — never guessed).
+
+```bash
+python3 build_site.py
+cd site && python3 -m http.server 8000   # preview at localhost:8000
+```
+Set `BASE_URL` in build_site.py once a domain is live to also emit sitemap.xml.
+See SITE_STRUCTURE.md for the tab map and UPGRADE_PLAN.md for hosting/AdSense.
+
 ## Sources
 See `SOURCES_VERIFIED.md` — every source checked live (feed/API status, date).
 Primary strategy: go upstream to wires (PR Newswire, BusinessWire) + SEC EDGAR

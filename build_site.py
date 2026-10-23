@@ -46,10 +46,11 @@ def load_css():
     font-size:13.5px;font-weight:700;padding:6px 14px;cursor:pointer;color:var(--sub)}
   .subtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
   .note{color:var(--mut);font-size:13px;font-style:italic;margin:10px 0}
+  .cow{display:block;margin:2px auto 0;height:96px;width:auto;mix-blend-mode:multiply}
 """
 
 CSS = None
-def page(title, desc, active, body, depth=0, extra_head=""):
+def page(title, desc, active, body, depth=0, extra_head="", cow=False):
     p = "../" * depth
     nav_items = [("Front Page", f"{p}index.html", "front"),
                  ("Trends", f"{p}trends/", "trends"),
@@ -59,11 +60,13 @@ def page(title, desc, active, body, depth=0, extra_head=""):
                  ("Investors", f"{p}investors/", "investors")]
     nav = "".join(f'<a href="{href}" class="{"on" if key==active else ""}">{label}</a>'
                   for label, href, key in nav_items)
+    COWIMG = f'<img class="cow" src="{p}assets/cow-256.webp" alt="The Herd Tracker cow — our proprietary herd mark">' if cow else ""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="{p}assets/favicon.png">
 <title>{title} — The Herd Tracker</title>
 <meta name="description" content="{desc}">
 <meta property="og:title" content="{title} — The Herd Tracker">
@@ -79,6 +82,7 @@ def page(title, desc, active, body, depth=0, extra_head=""):
 <div class="wrap">
   <header>
     <div class="mast-top">Vol. I · No. 1 — The Funding Weather</div>
+    {COWIMG}
     <h1>The Herd Tracker</h1>
     <div class="tag"><i>The herd, measured.</i> Every round, every new fund, every stampede — extracted from the newsletters the herd reads about itself.</div>
     <div class="meta">Window: {WINDOW} · Sources: Finsmes, EU-Startups, Inc42, e27 (rounds), StrictlyVC archive, VCWire · Rule-based extraction (no paid APIs)</div>
@@ -182,7 +186,7 @@ def front_page():
     <div><h2>Herd Leaderboard</h2><div class="panel">{table(["Investor", "Rounds"], lead_rows)}</div></div>
   </div>
   <p class="note">Full slices: <a href="rounds/">every round, filterable</a> · <a href="regions/">regional editions</a> · <a href="investors/">investor leaderboard</a> · <a href="trends/">thesis waves since 2014</a>.</p>"""
-    return page("Front Page", "VC funding rounds, new funds and thesis stampedes — measured weekly.", "front", body)
+    return page("Front Page", "VC funding rounds, new funds and thesis stampedes — measured weekly.", "front", body, cow=True)
 
 # ---------------- trends ----------------
 KW_SECTOR = {"Artificial intelligence": "AI / ML", "Fintech": "Fintech",
@@ -412,6 +416,8 @@ if __name__ == "__main__":
         urls = "".join(f"<url><loc>{BASE_URL}/" + p.replace("index.html", "") + "</loc></url>" for p in pages)
         write("sitemap.xml", f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
     print(f"\n{len(pages)} pages · window {WINDOW} · region coverage {rstats}")
+    import shutil as _sh
+    _sh.copytree("assets", os.path.join(OUT, "assets"), dirs_exist_ok=True)
     # GitHub Pages branch deploy only serves /(root) or /docs — mirror site/ into docs/
     import shutil
     if os.path.exists("docs"): shutil.rmtree("docs")

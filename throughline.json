@@ -1,0 +1,103 @@
+{
+ "exits_total": 309,
+ "with_pre_mentions": 131,
+ "top": [
+  {
+   "company": "LinkedIn",
+   "type": "Acquisition",
+   "exit_date": "2016-06-17",
+   "acquirer": "Microsoft",
+   "pre_mentions": 130,
+   "first_mention": "2013-09-16"
+  },
+  {
+   "company": "Spotify",
+   "type": "IPO",
+   "exit_date": "2018-11-17",
+   "acquirer": null,
+   "pre_mentions": 95,
+   "first_mention": "2013-10-17"
+  },
+  {
+   "company": "WeWork",
+   "type": "IPO",
+   "exit_date": "2019-10-04",
+   "acquirer": null,
+   "pre_mentions": 90,
+   "first_mention": "2014-04-30"
+  },
+  {
+   "company": "Time Warner",
+   "type": "Acquisition",
+   "exit_date": "2016-11-10",
+   "acquirer": "AT&T",
+   "pre_mentions": 40,
+   "first_mention": "2013-11-23"
+  },
+  {
+   "company": "Fitbit",
+   "type": "IPO",
+   "exit_date": "2016-06-10",
+   "acquirer": null,
+   "pre_mentions": 40,
+   "first_mention": "2013-10-31"
+  },
+  {
+   "company": "Product Hunt",
+   "type": "Acquisition",
+   "exit_date": "2017-06-04",
+   "acquirer": "AngelList",
+   "pre_mentions": 19,
+   "first_mention": "2014-08-06"
+  },
+  {
+   "company": "Delivery Hero",
+   "type": "IPO",
+   "exit_date": "2017-06-23",
+   "acquirer": null,
+   "pre_mentions": 17,
+   "first_mention": "2014-01-13"
+  },
+  {
+   "company": "Cloudera",
+   "type": "IPO",
+   "exit_date": "2017-05-29",
+   "acquirer": null,
+   "pre_mentions": 17,
+   "first_mention": "2013-10-24"
+  },
+  {
+   "company": "Sidecar",
+   "type": "Acquisition",
+   "exit_date": "2016-04-01",
+   "acquirer": "GM",
+   "pre_mentions": 17,
+   "first_mention": "2013-09-20"
+  },
+  {
+   "company": "Business Insider",
+   "type": "Acquisition",
+   "exit_date": "2014-01-07",
+   "acquirer": "AOL",
+   "pre_mentions": 17,
+   "first_mention": "2013-09-26"
+  },
+  {
+   "company": "Peloton",
+   "type": "IPO",
+   "exit_date": "2019-09-25",
+   "acquirer": null,
+   "pre_mentions": 15,
+   "first_mention": "2014-04-25"
+  },
+  {
+   "company": "Match",
+   "type": "IPO",
+   "exit_date": "2015-11-21",
+   "acquirer": null,
+   "pre_mentions": 15,
+   "first_mention": "2014-01-22"
+  }
+ ],
+ "rounds_overlap": []
+}

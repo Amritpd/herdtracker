@@ -147,6 +147,7 @@ for _r in rounds_raw:
 rounds_raw = _cleaned
 archive = json.load(open("archive.json"))
 exits = json.load(open("exits.json")) if os.path.exists("exits.json") else []
+throughline = json.load(open("throughline.json")) if os.path.exists("throughline.json") else None
 try:
     raw_posts = json.load(open("raw/finsmes.json"))
 except FileNotFoundError:
@@ -427,7 +428,26 @@ def exits_page():
     shut = [e for e in exits if e["type"] == "Shutdown"]
     shut_rows = [f'<tr><td>{e["date"]}</td><td>{e["company"]}</td><td>Shutdown</td></tr>' for e in shut]
     sample = exits[:20]
-    sample_rows = [f'<tr><td>{e["date"]}</td><td>{e["company"]}</td><td>{e["type"]}</td><td>{e["acquirer"] or "—"}</td><td class="amt">{money(e["price"]) if e["price"] else "undisclosed"}</td><td><a href="{e["url"]}" target="_blank" rel="noopener">edition</a></td></tr>' for e in sample]
+    def srclink(e):
+        if e.get("source_url"):
+            return f'<a href="{e["source_url"]}" target="_blank" rel="noopener">{e.get("source_name") or "source"}</a>'
+        return "—"
+    sample_rows = [f'<tr><td>{e["date"]}</td><td>{e["company"]}</td><td>{e["type"]}</td><td>{e["acquirer"] or "—"}</td><td class="amt">{money(e["price"]) if e["price"] else "undisclosed"}</td><td>{srclink(e)}</td></tr>' for e in sample]
+    tl_html = ""
+    if throughline:
+        CURATED = ["LinkedIn", "Spotify", "WeWork", "Time Warner", "Fitbit", "Product Hunt", "Delivery Hero", "Cloudera"]
+        byname = {r["company"]: r for r in throughline["top"]}
+        tlrows = []
+        for nm in CURATED:
+            r = byname.get(nm)
+            if not r: continue
+            tlrows.append(f'<tr><td>{r["company"]}</td><td>{r["first_mention"]}</td><td>{r["exit_date"]}</td><td>{r["type"]}</td><td>{r["acquirer"] or "—"}</td><td class="amt">{r["pre_mentions"]}</td></tr>')
+        pct = round(100 * throughline["with_pre_mentions"] / max(throughline["exits_total"], 1))
+        tl_html = f"""
+  <h2>The Through Line</h2>
+  <p style="line-height:1.65;font-size:15.5px">Did the newsletter watch them come in, too? For <b>{pct}%</b> of these {throughline['exits_total']} exits, yes — the company appears in the archive <i>before</i> its exit, in raise coverage, in roundups, in the herd's field of vision. The most-covered names before they left:</p>
+  <div class="panel">{table(["Company", "First covered", "Exit", "Type", "Acquirer", "Pre-exit mentions"], tlrows)}</div>
+  <p class="note">And the current window? Zero of today's 2026 rounds have exited — of course. They're this year's herd; the through line for them gets written over the next decade, and the join key now exists so this dataset accrues it automatically. Check back in five years.</p>"""
     body = f"""
   <h2>The Exit Door <span style="font-size:13px;vertical-align:middle" class="tagpill">Analysis free · Full ledger = Pro</span></h2>
   <p class="h2sub">Every lifecycle ends somewhere. Raises get announced with confetti; exits are where the money is actually divided. Mined from the StrictlyVC archive mirror (2013–2019 editions): {len(exits)} exit events, classified as they were reported.</p>
@@ -441,9 +461,10 @@ def exits_page():
   <h2>Who Got Screwed</h2>
   <p style="line-height:1.65;font-size:15.5px">Two ways to lose. The loud way: shutdown — {len(shut)} in the archive, every dollar of preference stack worthless. The quiet way: an acquisition with <b>undisclosed terms</b> — {undisclosed_pct}% of acquisitions here. Undisclosed occasionally means "too big to say"; far more often it means acqui-hire math, where the team lands softly and the investors' stack does not. The number they won't print is the number that tells the story.</p>
   <div class="panel">{table(["Date", "Company", "Outcome"], shut_rows)}</div>
+  {tl_html}
   <h2>Latest in the Ledger</h2><div class="panel">{table(["Date", "Company", "Type", "Acquirer", "Reported $", "Source"], sample_rows)}</div>
   <div class="panel"><b>The full Exit Ledger is a Pro feature.</b> All {len(exits)} events with per-exit payout classification (paid / soft landing / wiped out), acquirer rollups (which platforms buy the herd, and at what reported prices), and exit-vs-last-round analysis — the survivorship counterweight to everything else on this site. Aggregates and this analysis stay free.</div>
-  <p class="note">Method: rule-based extraction over newsletter text; prices are figures reported in the same item (deal-adjacent numbers can slip in — verify against the linked edition). An exit is de-duplicated per company and type, dated to its first mention.</p>"""
+  <p class="note">Method: rule-based extraction over newsletter text; prices are figures reported in the same item (deal-adjacent numbers can slip in — verify against the linked source). Source links point to the original reporting the newsletter itself cited (TechCrunch, WSJ, Bloomberg, …), never to the newsletter. Shutdowns are hand-verified in context — the naive pattern also flags giants closing products (Facebook's Parse, AOL Instant Messenger); those are excluded. An exit is de-duplicated per company and type, dated to its first mention.</p>"""
     return page("Exits", "The Exit Door: acquisitions, IPOs, mergers and shutdowns — who got paid, who got screwed.", "exits", body, depth=1)
 
 # ---------------- the herd (troll page) ----------------

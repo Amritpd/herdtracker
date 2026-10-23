@@ -44,3 +44,9 @@ Checked live: Oct 22, 2026 (HTTP 200 = feed/API open, free, no login)
 ## Legal note shaping the pipeline
 Facts (company, amount, stage, investors, date) are not copyrightable; the wording/expression summarizing them is. Pipeline model stays: extract facts, write own summaries, link to source. Do not republish StrictlyVC (or any source) full text.
 Safest live strategy: drop StrictlyVC as a live source, go upstream to wires + Form D + Tier A templated sites.
+
+## Exit-specific sources (checked Oct 23, 2026)
+- **PR Newswire M&A RSS** — dedicated mergers-and-acquisitions feed returned 200. Live current-exit source; wire copy is the acquirer's own announcement (primary).
+- **BusinessWire** — general RSS 200 (earlier sweep); M&A is a standard subject category there too.
+- **TheyGotAcquired.com** — WordPress; robots.txt allows crawling (crawl-delay 10), sitemap_index.xml present, /feed/ RSS 200, REST API restricted by a security plugin. Content is founder-interview exit stories with real prices ($4.5M–$25M range in feed samples) — mostly bootstrapped/indie SaaS exits, a different segment from VC-backed exits; ideal "who got paid" colour + small-exit ledger. Extraction route: RSS + sitemap, honour crawl-delay.
+- **StrictlyVC current letters** — NOT programmatically available: the public WP-API archive ends Nov 2019 (site moved CMS after acquisition). Current editions are email-only, same class as Term Sheet / Pro Rata. Exit facts in our ledger are mined from the 2013–2019 mirror; outbound links resolve one level deeper, to the original reporting the edition cited (TechCrunch 109, Crunchbase News, WSJ, Bloomberg…).

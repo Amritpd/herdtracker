@@ -6,7 +6,9 @@
   "acquirer": "Amazon",
   "price": null,
   "edition": "October 24, 2019",
-  "url": "https://strictlyvc.com/2020/04/26/october-24-2020/"
+  "url": "https://strictlyvc.com/2020/04/26/october-24-2020/",
+  "source_url": "https://techcrunch.com/2019/10/23/amazon-acquires-health-navigator-for-amazon-care-its-pilot-employee-healthcare-program/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2019-10-04",
@@ -15,7 +17,9 @@
   "acquirer": null,
   "price": 380000000,
   "edition": "October 4, 2019",
-  "url": "https://strictlyvc.com/2019/10/04/october-4-2019/"
+  "url": "https://strictlyvc.com/2019/10/04/october-4-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-10-01",
@@ -24,7 +28,20 @@
   "acquirer": "Tesla",
   "price": null,
   "edition": "October 1, 2019",
-  "url": "https://strictlyvc.com/2019/10/01/october-1-2019/"
+  "url": "https://strictlyvc.com/2019/10/01/october-1-2019/",
+  "source_url": null,
+  "source_name": null
+ },
+ {
+  "date": "2019-10-01",
+  "company": "BlackJet",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "October 1, 2019",
+  "url": "https://strictlyvc.com/2019/10/01/october-1-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-25",
@@ -33,7 +50,9 @@
   "acquirer": "Amazon",
   "price": null,
   "edition": "September 25, 2019",
-  "url": "https://strictlyvc.com/2019/09/25/september-25-2019/"
+  "url": "https://strictlyvc.com/2019/09/25/september-25-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-25",
@@ -42,7 +61,9 @@
   "acquirer": null,
   "price": null,
   "edition": "September 25, 2019",
-  "url": "https://strictlyvc.com/2019/09/25/september-25-2019/"
+  "url": "https://strictlyvc.com/2019/09/25/september-25-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-23",
@@ -51,7 +72,9 @@
   "acquirer": "Facebook",
   "price": null,
   "edition": "September 23, 2019",
-  "url": "https://strictlyvc.com/2019/09/23/september-23-2019/"
+  "url": "https://strictlyvc.com/2019/09/23/september-23-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-23",
@@ -60,7 +83,20 @@
   "acquirer": "HP",
   "price": 115000000,
   "edition": "September 23, 2019",
-  "url": "https://strictlyvc.com/2019/09/23/september-23-2019/"
+  "url": "https://strictlyvc.com/2019/09/23/september-23-2019/",
+  "source_url": null,
+  "source_name": null
+ },
+ {
+  "date": "2019-09-23",
+  "company": "Kik",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "September 23, 2019",
+  "url": "https://strictlyvc.com/2019/09/23/september-23-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-18",
@@ -69,7 +105,9 @@
   "acquirer": "GitHub",
   "price": null,
   "edition": "September 18, 2019",
-  "url": "https://strictlyvc.com/2019/09/18/september-18-2019/"
+  "url": "https://strictlyvc.com/2019/09/18/september-18-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-12",
@@ -78,7 +116,9 @@
   "acquirer": "Spotify",
   "price": null,
   "edition": "September 12, 2019",
-  "url": "https://strictlyvc.com/2019/09/12/september-12-2019/"
+  "url": "https://strictlyvc.com/2019/09/12/september-12-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-09-04",
@@ -87,7 +127,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "September 4, 2019",
-  "url": "https://strictlyvc.com/2019/09/04/september-4-2019/"
+  "url": "https://strictlyvc.com/2019/09/04/september-4-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-27",
@@ -96,7 +138,9 @@
   "acquirer": "Airship",
   "price": null,
   "edition": "August 27, 2019",
-  "url": "https://strictlyvc.com/2019/08/27/august-27-2019/"
+  "url": "https://strictlyvc.com/2019/08/27/august-27-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-27",
@@ -105,7 +149,9 @@
   "acquirer": "Cisco",
   "price": null,
   "edition": "August 27, 2019",
-  "url": "https://strictlyvc.com/2019/08/27/august-27-2019/"
+  "url": "https://strictlyvc.com/2019/08/27/august-27-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-27",
@@ -114,7 +160,9 @@
   "acquirer": "Playtika",
   "price": 28000000,
   "edition": "August 27, 2019",
-  "url": "https://strictlyvc.com/2019/08/27/august-27-2019/"
+  "url": "https://strictlyvc.com/2019/08/27/august-27-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-26",
@@ -123,7 +171,9 @@
   "acquirer": "Hasbro",
   "price": null,
   "edition": "August 26, 2019",
-  "url": "https://strictlyvc.com/2019/08/26/august-26-2019/"
+  "url": "https://strictlyvc.com/2019/08/26/august-26-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-23",
@@ -132,7 +182,9 @@
   "acquirer": "Sphero",
   "price": null,
   "edition": "August 23, 2019",
-  "url": "https://strictlyvc.com/2019/08/23/august-23-2019/"
+  "url": "https://strictlyvc.com/2019/08/23/august-23-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-20",
@@ -141,7 +193,9 @@
   "acquirer": "Sony",
   "price": null,
   "edition": "August 20, 2019",
-  "url": "https://strictlyvc.com/2019/08/20/august-20-2019/"
+  "url": "https://strictlyvc.com/2019/08/20/august-20-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-09",
@@ -150,7 +204,9 @@
   "acquirer": "McAfee",
   "price": null,
   "edition": "August 9, 2019",
-  "url": "https://strictlyvc.com/2019/08/09/august-9-2019/"
+  "url": "https://strictlyvc.com/2019/08/09/august-9-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-07",
@@ -159,7 +215,9 @@
   "acquirer": "Cisco",
   "price": null,
   "edition": "August 7, 2019",
-  "url": "https://strictlyvc.com/2019/08/07/august-7-2019/"
+  "url": "https://strictlyvc.com/2019/08/07/august-7-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-07",
@@ -168,7 +226,9 @@
   "acquirer": "Nike",
   "price": null,
   "edition": "August 7, 2019",
-  "url": "https://strictlyvc.com/2019/08/07/august-7-2019/"
+  "url": "https://strictlyvc.com/2019/08/07/august-7-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-06",
@@ -177,7 +237,9 @@
   "acquirer": "SurveyMonkey",
   "price": null,
   "edition": "August 6, 2019",
-  "url": "https://strictlyvc.com/2019/08/06/august-6-2019/"
+  "url": "https://strictlyvc.com/2019/08/06/august-6-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-08-05",
@@ -186,7 +248,9 @@
   "acquirer": "Airbnb",
   "price": null,
   "edition": "August 5, 2019",
-  "url": "https://strictlyvc.com/2019/08/05/august-5-2019/"
+  "url": "https://strictlyvc.com/2019/08/05/august-5-2019/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2019-04-11",
@@ -195,7 +259,9 @@
   "acquirer": "City National Bank",
   "price": null,
   "edition": "StrictlyVC: August 15, 2018",
-  "url": "https://strictlyvc.com/2019/04/11/strictlyvc-august-15-2018/"
+  "url": "https://strictlyvc.com/2019/04/11/strictlyvc-august-15-2018/",
+  "source_url": "https://www.youtube.com/watch?v=UqszUNk_vQU",
+  "source_name": "youtube.com"
  },
  {
   "date": "2019-04-06",
@@ -204,7 +270,9 @@
   "acquirer": "Galvanize",
   "price": 1000000,
   "edition": "StrictlyVC: July 20, 2018",
-  "url": "https://strictlyvc.com/2019/04/06/strictlyvc-july-20-2018/"
+  "url": "https://strictlyvc.com/2019/04/06/strictlyvc-july-20-2018/",
+  "source_url": "https://techcrunch.com/2018/07/17/self-driving-car-startup-zoox-is-raising-500-million-at-a-3-2-billion-valuation/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2019-04-06",
@@ -213,7 +281,9 @@
   "acquirer": "Facebook",
   "price": null,
   "edition": "StrictlyVC: July 26, 2018",
-  "url": "https://strictlyvc.com/2019/04/06/strictlyvc-july-26-2018/"
+  "url": "https://strictlyvc.com/2019/04/06/strictlyvc-july-26-2018/",
+  "source_url": "https://www.cnbc.com/2018/07/26/facebook-is-on-pace-for-its-worst-day-ever.html",
+  "source_name": "CNBC"
  },
  {
   "date": "2019-04-01",
@@ -222,16 +292,20 @@
   "acquirer": "LendingTree",
   "price": 60000000,
   "edition": "StrictlyVC: July 17, 2018",
-  "url": "https://strictlyvc.com/2019/04/01/strictlyvc-july-17-2018/"
+  "url": "https://strictlyvc.com/2019/04/01/strictlyvc-july-17-2018/",
+  "source_url": "https://www.eventbrite.com/e/strictlyvcs-10th-insider-event-tickets-46073852132",
+  "source_name": "eventbrite.com"
  },
  {
   "date": "2019-03-11",
-  "company": "London-based Bloomsbury AI",
+  "company": "Bloomsbury AI",
   "type": "Acquisition",
   "acquirer": "Facebook",
   "price": null,
   "edition": "StrictlyVC, July 2, 2018",
-  "url": "https://strictlyvc.com/2019/03/11/strictlyvc-july-2-2018/"
+  "url": "https://strictlyvc.com/2019/03/11/strictlyvc-july-2-2018/",
+  "source_url": "https://techcrunch.com/2018/07/02/anthony-levandowski-is-back-with-a-new-self-driving-startup-called-kache-ai/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2019-03-11",
@@ -240,7 +314,9 @@
   "acquirer": "Unilever",
   "price": null,
   "edition": "StrictlyVC, July 9, 2018",
-  "url": "https://strictlyvc.com/2019/03/11/strictlyvc-july-9-2018/"
+  "url": "https://strictlyvc.com/2019/03/11/strictlyvc-july-9-2018/",
+  "source_url": "https://www.eventbrite.com/e/strictlyvcs-10th-insider-event-tickets-46073852132",
+  "source_name": "eventbrite.com"
  },
  {
   "date": "2019-03-09",
@@ -249,7 +325,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: June 21, 2018",
-  "url": "https://strictlyvc.com/2019/03/09/strictlyvc-june-21-2018/"
+  "url": "https://strictlyvc.com/2019/03/09/strictlyvc-june-21-2018/",
+  "source_url": "https://www.bloomberg.com/news/articles/2018-06-21/states-can-require-internet-tax-collection-supreme-court-rules-jiomtl5c",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2019-03-05",
@@ -258,16 +336,9 @@
   "acquirer": "Microsoft",
   "price": 17000000,
   "edition": "StrictlyVC: June 18, 2018",
-  "url": "https://strictlyvc.com/2019/03/05/strictlyvc-june-18-2018/"
- },
- {
-  "date": "2019-03-03",
-  "company": "Top News Facebook",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: June 1, 2018",
-  "url": "https://strictlyvc.com/2019/03/03/strictlyvc-june-1-2018/"
+  "url": "https://strictlyvc.com/2019/03/05/strictlyvc-june-18-2018/",
+  "source_url": "https://www.nytimes.com/2018/06/18/us/politics/senate-zte-trump.html",
+  "source_name": "NYT"
  },
  {
   "date": "2019-03-02",
@@ -276,16 +347,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: May 21, 2018",
-  "url": "https://strictlyvc.com/2019/03/02/strictlyvc-may-21-2018/"
- },
- {
-  "date": "2019-03-02",
-  "company": "Lyft",
-  "type": "Acquisition",
-  "acquirer": "Didi",
-  "price": null,
-  "edition": "StrictlyVC: May 25, 2018",
-  "url": "https://strictlyvc.com/2019/03/02/strictlyvc-may-25-2018/"
+  "url": "https://strictlyvc.com/2019/03/02/strictlyvc-may-21-2018/",
+  "source_url": "https://www.theverge.com/2018/5/21/17366462/facebook-qualcomm-high-speed-wireless-internet",
+  "source_name": "The Verge"
  },
  {
   "date": "2019-02-26",
@@ -294,7 +358,9 @@
   "acquirer": "Nokia",
   "price": 65000000,
   "edition": "StrictlyVC: May 7, 2018",
-  "url": "https://strictlyvc.com/2019/02/26/may-7-2018/"
+  "url": "https://strictlyvc.com/2019/02/26/may-7-2018/",
+  "source_url": "https://www.bloomberg.com/news/articles/2018-05-07/apple-needs-an-8-6-rally-to-reach-1-trillion-milestone",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2019-02-23",
@@ -303,7 +369,20 @@
   "acquirer": "Cisco",
   "price": 270000000,
   "edition": "StrictlyVC: May 2, 2018",
-  "url": "https://strictlyvc.com/2019/02/23/strictlyvc-may-2-2018/"
+  "url": "https://strictlyvc.com/2019/02/23/strictlyvc-may-2-2018/",
+  "source_url": "https://techcrunch.com/2018/05/02/tesla-earnings-q1-2018/",
+  "source_name": "TechCrunch"
+ },
+ {
+  "date": "2019-02-23",
+  "company": "Cambridge Analytica",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: May 2, 2018",
+  "url": "https://strictlyvc.com/2019/02/23/strictlyvc-may-2-2018/",
+  "source_url": "https://techcrunch.com/2018/05/02/tesla-earnings-q1-2018/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2019-02-20",
@@ -312,7 +391,9 @@
   "acquirer": "Coinbase",
   "price": null,
   "edition": "StrictlyVC: April 13, 2018",
-  "url": "https://strictlyvc.com/2019/02/20/strictlyvc-april-13-2018/"
+  "url": "https://strictlyvc.com/2019/02/20/strictlyvc-april-13-2018/",
+  "source_url": "https://techcrunch.com/2018/04/13/google-is-testing-self-destructing-emails-in-new-gmail/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2019-02-20",
@@ -321,7 +402,9 @@
   "acquirer": "Goldman Sachs",
   "price": 14500000,
   "edition": "StrictlyVC: April 16, 2018",
-  "url": "https://strictlyvc.com/2019/02/20/strictlyvc-april-16-2018/"
+  "url": "https://strictlyvc.com/2019/02/20/strictlyvc-april-16-2018/",
+  "source_url": "https://www.reuters.com/article/us-china-zte/u-s-bans-american-companies-from-selling-to-chinese-phone-maker-zte-idUSKBN1HN1P1",
+  "source_name": "Reuters"
  },
  {
   "date": "2019-02-20",
@@ -330,7 +413,9 @@
   "acquirer": "Oracle",
   "price": null,
   "edition": "StrictlyVC: April 24, 2018",
-  "url": "https://strictlyvc.com/2019/02/20/strictlyvc-april-24-2018/"
+  "url": "https://strictlyvc.com/2019/02/20/strictlyvc-april-24-2018/",
+  "source_url": "https://techcrunch.com/2018/04/24/instagram-export/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-11-17",
@@ -339,7 +424,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: March 26, 2018",
-  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-march-26-2018/"
+  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-march-26-2018/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2018-11-17",
@@ -348,7 +435,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: March 27, 2018",
-  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-march-27-2018/"
+  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-march-27-2018/",
+  "source_url": "https://www.crunchbase.com/organization/tenor-inc",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2018-11-17",
@@ -357,7 +446,9 @@
   "acquirer": "Warner Music Group",
   "price": null,
   "edition": "StrictlyVC: March 29, 2018",
-  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-march-29-2018/"
+  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-march-29-2018/",
+  "source_url": "https://www.billboard.com/articles/business/8265161/warner-music-acquires-sodatone-ar-data-platform",
+  "source_name": "billboard.com"
  },
  {
   "date": "2018-11-17",
@@ -366,7 +457,9 @@
   "acquirer": "Ssense",
   "price": null,
   "edition": "StrictlyVC: April 5, 2018",
-  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-april-5-2018/"
+  "url": "https://strictlyvc.com/2018/11/17/strictlyvc-april-5-2018/",
+  "source_url": "https://techcrunch.com/2018/04/05/polyvore-is-shutting-down-after-being-acquired-by-fashion-e-commerce-site-ssense/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-11-05",
@@ -375,7 +468,9 @@
   "acquirer": "Nutanix",
   "price": 5700000,
   "edition": "StrictlyVC: March 12, 2018",
-  "url": "https://strictlyvc.com/2018/11/05/strictlyvc-march-12-2018/"
+  "url": "https://strictlyvc.com/2018/11/05/strictlyvc-march-12-2018/",
+  "source_url": "http://www.zdnet.com/article/nutanix-buys-app-discovery-startup-netsil/",
+  "source_name": "zdnet.com"
  },
  {
   "date": "2018-11-05",
@@ -384,7 +479,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: March 21, 2018",
-  "url": "https://strictlyvc.com/2018/11/05/strictlyvc-march-21-2018/"
+  "url": "https://strictlyvc.com/2018/11/05/strictlyvc-march-21-2018/",
+  "source_url": "https://www.crunchbase.com/organization/lytro",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2018-11-04",
@@ -393,7 +490,9 @@
   "acquirer": "WeWork",
   "price": null,
   "edition": "StrictlyVC: March 6, 2018",
-  "url": "https://strictlyvc.com/2018/11/04/strictlyvc-march-6-2018/"
+  "url": "https://strictlyvc.com/2018/11/04/strictlyvc-march-6-2018/",
+  "source_url": "https://techcrunch.com/2018/03/06/wework-acquires-conductor/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-11-04",
@@ -402,7 +501,9 @@
   "acquirer": "Penske Media",
   "price": null,
   "edition": "StrictlyVC: March 7, 2018",
-  "url": "https://strictlyvc.com/2018/11/04/strictlyvc-march-7-2018/"
+  "url": "https://strictlyvc.com/2018/11/04/strictlyvc-march-7-2018/",
+  "source_url": "https://www.wsj.com/articles/penske-media-purchases-sheknows-media-1520362753",
+  "source_name": "WSJ"
  },
  {
   "date": "2018-09-16",
@@ -411,7 +512,9 @@
   "acquirer": "SEAT",
   "price": null,
   "edition": "StrictlyVC: February 19, 2018",
-  "url": "https://strictlyvc.com/2018/09/16/strictlyvc-february-19-2018/"
+  "url": "https://strictlyvc.com/2018/09/16/strictlyvc-february-19-2018/",
+  "source_url": "https://www.crunchbase.com/organization/respiro#section-funding-rounds",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2018-09-16",
@@ -420,7 +523,31 @@
   "acquirer": "Nokia",
   "price": null,
   "edition": "StrictlyVC: February 26, 2018",
-  "url": "https://strictlyvc.com/2018/09/16/strictlyvc-february-26-2018/"
+  "url": "https://strictlyvc.com/2018/09/16/strictlyvc-february-26-2018/",
+  "source_url": "https://www.crunchbase.com/organization/coco-communications-corp-",
+  "source_name": "crunchbase.com"
+ },
+ {
+  "date": "2018-09-16",
+  "company": "LittleThings",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: March 1, 2018",
+  "url": "https://strictlyvc.com/2018/09/16/strictlyvc-march-1-2018/",
+  "source_url": "https://techcrunch.com/2018/02/28/littlethings-shutdown/",
+  "source_name": "TechCrunch"
+ },
+ {
+  "date": "2018-09-16",
+  "company": "New Matter",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: February 20, 2018",
+  "url": "https://strictlyvc.com/2018/09/16/strictlyvc-february-20-2018/",
+  "source_url": "https://techcrunch.com/2018/02/18/3d-printing-company-new-matter-is-shutting-down-this-month/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-08-14",
@@ -429,7 +556,9 @@
   "acquirer": "American Express",
   "price": null,
   "edition": "StrictlyVC: January 30, 2018",
-  "url": "https://strictlyvc.com/2018/08/14/strictlyvc-january-30-2018/"
+  "url": "https://strictlyvc.com/2018/08/14/strictlyvc-january-30-2018/",
+  "source_url": "https://techcrunch.com/2018/01/30/virtual-travel-assistant-mezi-acquired-by-american-express/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-08-14",
@@ -438,7 +567,9 @@
   "acquirer": "Microsoft",
   "price": 13000000,
   "edition": "StrictlyVC: January 30, 2018",
-  "url": "https://strictlyvc.com/2018/08/14/strictlyvc-january-30-2018/"
+  "url": "https://strictlyvc.com/2018/08/14/strictlyvc-january-30-2018/",
+  "source_url": "https://www.crunchbase.com/organization/playfab-inc",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2018-08-13",
@@ -447,16 +578,9 @@
   "acquirer": "Square",
   "price": null,
   "edition": "StrictlyVC: January 25, 2018",
-  "url": "https://strictlyvc.com/2018/08/13/strictlyvc-january-25-2018/"
- },
- {
-  "date": "2018-08-13",
-  "company": "CNN",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": 25000000,
-  "edition": "StrictlyVC: January 25, 2018",
-  "url": "https://strictlyvc.com/2018/08/13/strictlyvc-january-25-2018/"
+  "url": "https://strictlyvc.com/2018/08/13/strictlyvc-january-25-2018/",
+  "source_url": "https://techcrunch.com/2018/01/25/square-has-acquired-entrees-on-trays/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-08-11",
@@ -465,7 +589,9 @@
   "acquirer": "Aurora Cannabis",
   "price": 1000000000,
   "edition": "StrictlyVC: January 24, 2018",
-  "url": "https://strictlyvc.com/2018/08/11/strictlyvc-january-24-2018/"
+  "url": "https://strictlyvc.com/2018/08/11/strictlyvc-january-24-2018/",
+  "source_url": "https://www.bloomberg.com/news/articles/2018-01-24/marijuana-growers-aurora-cannimed-said-to-reach-deal-on-merger",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2018-08-11",
@@ -474,7 +600,20 @@
   "acquirer": "GoDaddy",
   "price": 125000000,
   "edition": "StrictlyVC: January 24, 2018",
-  "url": "https://strictlyvc.com/2018/08/11/strictlyvc-january-24-2018/"
+  "url": "https://strictlyvc.com/2018/08/11/strictlyvc-january-24-2018/",
+  "source_url": "https://techcrunch.com/2018/01/23/godaddy-is-acquiring-social-media-marketing-platform-main-street-hub-for-125m/",
+  "source_name": "TechCrunch"
+ },
+ {
+  "date": "2018-08-11",
+  "company": "Primary Data",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: January 22, 2018",
+  "url": "https://strictlyvc.com/2018/08/11/strictlyvc-january-22-2018/",
+  "source_url": "http://www.primarydata.com/",
+  "source_name": "primarydata.com"
  },
  {
   "date": "2018-08-10",
@@ -483,16 +622,9 @@
   "acquirer": "London-headquartered BeMyEye",
   "price": null,
   "edition": "StrictlyVC: January 16, 2018",
-  "url": "https://strictlyvc.com/2018/08/10/strictlyvc-january-16-2018/"
- },
- {
-  "date": "2018-08-10",
-  "company": "Toronto-based",
-  "type": "Acquisition",
-  "acquirer": "Instacart",
-  "price": 65000000,
-  "edition": "StrictlyVC: January 16, 2018",
-  "url": "https://strictlyvc.com/2018/08/10/strictlyvc-january-16-2018/"
+  "url": "https://strictlyvc.com/2018/08/10/strictlyvc-january-16-2018/",
+  "source_url": "https://techcrunch.com/2018/01/16/bemyeye-task360",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-08-09",
@@ -501,7 +633,9 @@
   "acquirer": "Salesforce",
   "price": 8000000,
   "edition": "StrictlyVC: January 9, 2018",
-  "url": "https://strictlyvc.com/2018/08/09/strictlyvc-january-9-2018/"
+  "url": "https://strictlyvc.com/2018/08/09/strictlyvc-january-9-2018/",
+  "source_url": "https://techcrunch.com/2018/01/08/salesforce-acquires-attic-labs-the-startup-behind-decentralized-database-noms/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-08-09",
@@ -510,7 +644,9 @@
   "acquirer": "Marlin Equity Partners",
   "price": 9000000,
   "edition": "StrictlyVC: January 11, 2018",
-  "url": "https://strictlyvc.com/2018/08/09/strictlyvc-january-11-2018/"
+  "url": "https://strictlyvc.com/2018/08/09/strictlyvc-january-11-2018/",
+  "source_url": "https://techcrunch.com/2018/01/11/__trashed-20/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-08-08",
@@ -519,7 +655,31 @@
   "acquirer": "Nephew",
   "price": 210000000,
   "edition": "StrictlyVC: December 7, 2017",
-  "url": "https://strictlyvc.com/2018/08/08/strictlyvc-december-7-2017/"
+  "url": "https://strictlyvc.com/2018/08/08/strictlyvc-december-7-2017/",
+  "source_url": "http://www.proactiveinvestors.co.uk/companies/news/188335/smith-nephew-buys-rotation-medical-for-us125mln-188335.html",
+  "source_name": "proactiveinvestors.co.uk"
+ },
+ {
+  "date": "2018-08-08",
+  "company": "Lumoid",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: December 11, 2018",
+  "url": "https://strictlyvc.com/2018/08/08/strictlyvc-december-11-2018/",
+  "source_url": "https://www.recode.net/2017/12/10/16758266/lumoid-shut-down-best-buy-camera-rentals",
+  "source_name": "Recode"
+ },
+ {
+  "date": "2018-05-27",
+  "company": "Hellocar",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": 1000000,
+  "edition": "StrictlyVC: November 6, 2017",
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-6-2017/",
+  "source_url": "https://www.crunchbase.com/organization/hellocar",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2018-05-27",
@@ -528,7 +688,9 @@
   "acquirer": "Apple",
   "price": null,
   "edition": "StrictlyVC: November 10, 2017",
-  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-10-2017/"
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-10-2017/",
+  "source_url": "https://techcrunch.com/2017/11/09/apple-has-acquired-imaging-sensor-startup-invisage-technologies/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-05-27",
@@ -537,7 +699,9 @@
   "acquirer": null,
   "price": 120000000,
   "edition": "StrictlyVC: November 17, 2017",
-  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-17-2017/"
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-17-2017/",
+  "source_url": "https://www.cnbc.com/2017/11/16/stitch-fix-ipo-sees-orders-coming-in-under-range.html",
+  "source_name": "CNBC"
  },
  {
   "date": "2018-05-27",
@@ -546,7 +710,42 @@
   "acquirer": "Apple",
   "price": 30000000,
   "edition": "StrictlyVC: November 22, 2017",
-  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-22-2017/"
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-22-2017/",
+  "source_url": "https://www.crunchbase.com/organization/vrvana",
+  "source_name": "crunchbase.com"
+ },
+ {
+  "date": "2018-05-27",
+  "company": "Pronoun",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: November 10, 2017",
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-10-2017/",
+  "source_url": "https://techcrunch.com/2017/11/09/pronoun-an-ebook-service-for-writers-shuts-down",
+  "source_name": "TechCrunch"
+ },
+ {
+  "date": "2018-05-27",
+  "company": "Bluegogo",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: November 16, 2017",
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-16-2017/",
+  "source_url": null,
+  "source_name": null
+ },
+ {
+  "date": "2018-05-27",
+  "company": "Mingbike",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: November 27, 2017",
+  "url": "https://strictlyvc.com/2018/05/27/strictlyvc-november-27-2017/",
+  "source_url": "http://www.scmp.com/tech/start-ups/article/2121403/winter-descends-chinas-once-hot-bike-sharing-market-another-player",
+  "source_name": "scmp.com"
  },
  {
   "date": "2018-02-17",
@@ -555,7 +754,9 @@
   "acquirer": "ServiceNow",
   "price": 10500000,
   "edition": "StrictlyVC: October 26, 2017",
-  "url": "https://strictlyvc.com/2018/02/17/strictlyvc-october-26-2017/"
+  "url": "https://strictlyvc.com/2018/02/17/strictlyvc-october-26-2017/",
+  "source_url": "http://www.zdnet.com/article/servicenow-buys-mobile-platform-startup-skygiraffe/",
+  "source_name": "zdnet.com"
  },
  {
   "date": "2018-01-03",
@@ -564,7 +765,9 @@
   "acquirer": "L.A.-based Fandango",
   "price": null,
   "edition": "StrictlyVC: October 16, 2017",
-  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-16-2017/"
+  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-16-2017/",
+  "source_url": "https://techcrunch.com/2017/10/13/fandango-is-acquiring-rival-online-ticketer-movietickets-com/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2018-01-03",
@@ -573,7 +776,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: October 19, 2017",
-  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-19-2017/"
+  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-19-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2018-01-03",
@@ -582,7 +787,31 @@
   "acquirer": "Quest Diagnostics",
   "price": null,
   "edition": "StrictlyVC: October 20, 2017",
-  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-20-2017/"
+  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-20-2017/",
+  "source_url": null,
+  "source_name": null
+ },
+ {
+  "date": "2018-01-03",
+  "company": "Atlas Informatics",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: October 19, 2017",
+  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-19-2017/",
+  "source_url": "https://techcrunch.com/2017/10/18/atlas-informatics-calls-it-quits-after-less-than-a-year/",
+  "source_name": "TechCrunch"
+ },
+ {
+  "date": "2018-01-03",
+  "company": "Jinn",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: October 19, 2017",
+  "url": "https://strictlyvc.com/2018/01/03/strictlyvc-october-19-2017/",
+  "source_url": "https://techcrunch.com/2017/10/19/london-based-on-demand-delivery-startup-jinn-shutters/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-10-28",
@@ -591,7 +820,9 @@
   "acquirer": "Walmart",
   "price": 10000000,
   "edition": "StrictlyVC: October 3, 2017",
-  "url": "https://strictlyvc.com/2017/10/28/strictlyvc-october-3-2017/"
+  "url": "https://strictlyvc.com/2017/10/28/strictlyvc-october-3-2017/",
+  "source_url": "https://www.recode.net/2017/10/3/16405158/walmart-parcel-acquisition-logistics-same-day-delivery-startup",
+  "source_name": "Recode"
  },
  {
   "date": "2017-10-28",
@@ -600,25 +831,20 @@
   "acquirer": "Boston Scientific Corp",
   "price": 300000000,
   "edition": "StrictlyVC: October 4, 2017",
-  "url": "https://strictlyvc.com/2017/10/28/strictlyvc-october-4-2017/"
+  "url": "https://strictlyvc.com/2017/10/28/strictlyvc-october-4-2017/",
+  "source_url": "http://www.massdevice.com/boston-scientific-acquire-apama-medical-deal-worth-300m/",
+  "source_name": "massdevice.com"
  },
  {
-  "date": "2017-10-28",
-  "company": "AOL",
+  "date": "2017-10-06",
+  "company": "FatWallet",
   "type": "Shutdown",
   "acquirer": null,
   "price": null,
-  "edition": "StrictlyVC: October 6, 2017",
-  "url": "https://strictlyvc.com/2017/10/28/strictlyvc-october-6-2017/"
- },
- {
-  "date": "2017-10-02",
-  "company": "China-based Best",
-  "type": "IPO",
-  "acquirer": null,
-  "price": 450000000,
-  "edition": "StrictlyVC: September 20, 2017",
-  "url": "https://strictlyvc.com/2017/10/02/strictlyvc-september-20-2017/"
+  "edition": "StrictlyVC: September 25, 2017",
+  "url": "https://strictlyvc.com/2017/10/06/strictlyvc-september-25-207/",
+  "source_url": "https://www.fatwallet.com/forums/fatwallet/1586370",
+  "source_name": "fatwallet.com"
  },
  {
   "date": "2017-10-01",
@@ -627,7 +853,9 @@
   "acquirer": "Souq",
   "price": null,
   "edition": "StrictlyVC: September 6, 2017",
-  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-6-2017/"
+  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-6-2017/",
+  "source_url": "https://techcrunch.com/2017/09/06/amazons-souq-acquires-wing-ae-to-expand-prime-style-same-and-next-day-delivery/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-10-01",
@@ -636,7 +864,9 @@
   "acquirer": "Nestle",
   "price": null,
   "edition": "StrictlyVC: September 7, 2017",
-  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-7-2017/"
+  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-7-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-10-01",
@@ -645,7 +875,9 @@
   "acquirer": "Unilever",
   "price": null,
   "edition": "StrictlyVC: September 7, 2017",
-  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-7-2017/"
+  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-7-2017/",
+  "source_url": "https://www.bloomberg.com/news/articles/2017-09-07/unilever-adds-cuppa-turmeric-gold-to-lipton-tea-in-organic-push",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2017-10-01",
@@ -654,7 +886,20 @@
   "acquirer": "LiveXLive",
   "price": null,
   "edition": "StrictlyVC: September 15, 2017",
-  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-15-2017/"
+  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-15-2017/",
+  "source_url": "https://www.theverge.com/2017/9/15/16310314/livexlive-slacker-radio-aquires-50-million",
+  "source_name": "The Verge"
+ },
+ {
+  "date": "2017-10-01",
+  "company": "Aerosoles",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: September 15, 2017",
+  "url": "https://strictlyvc.com/2017/10/01/strictlyvc-september-15-2017/",
+  "source_url": "http://www.foxbusiness.com/markets/2017/09/15/aerosoles-files-for-bankruptcy-will-close-up-to-74-stores-and-focus-on-e-commerce.html",
+  "source_name": "foxbusiness.com"
  },
  {
   "date": "2017-09-16",
@@ -663,7 +908,9 @@
   "acquirer": "Siemens",
   "price": null,
   "edition": "StrictlyVC: August 31, 2017",
-  "url": "https://strictlyvc.com/2017/09/16/strictlyvc-august-31-2017/"
+  "url": "https://strictlyvc.com/2017/09/16/strictlyvc-august-31-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-09-04",
@@ -672,7 +919,9 @@
   "acquirer": "Hike",
   "price": null,
   "edition": "StrictlyVC: August 11, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-11-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-11-2017/",
+  "source_url": "https://techcrunch.com/2017/08/11/hike-creo/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-09-04",
@@ -681,7 +930,9 @@
   "acquirer": "PayPal",
   "price": null,
   "edition": "StrictlyVC: August 11, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-11-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-11-2017/",
+  "source_url": "http://www.reuters.com/article/us-paypal-m-a-swiftfinancial-idUSKBN1AQ1JM",
+  "source_name": "Reuters"
  },
  {
   "date": "2017-09-04",
@@ -690,7 +941,9 @@
   "acquirer": "WeWork",
   "price": null,
   "edition": "StrictlyVC: August 11, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-11-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-11-2017/",
+  "source_url": "https://techcrunch.com/2017/08/10/wework-unomy/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-09-04",
@@ -699,7 +952,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: August 15, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-15-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-15-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-09-04",
@@ -708,7 +963,9 @@
   "acquirer": "Target",
   "price": null,
   "edition": "StrictlyVC: August 15, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-15-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-15-2017/",
+  "source_url": "http://fortune.com/2017/08/14/target-grand-junction",
+  "source_name": "fortune.com"
  },
  {
   "date": "2017-09-04",
@@ -717,7 +974,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: August 17, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-17-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-17-2017/",
+  "source_url": "https://techcrunch.com/2017/08/16/google-acquires-aimatter-maker-of-the-fabby-computer-vision-app/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-09-04",
@@ -726,7 +985,9 @@
   "acquirer": "Twitch",
   "price": null,
   "edition": "StrictlyVC: August 21, 2017",
-  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-21-2017/"
+  "url": "https://strictlyvc.com/2017/09/04/strictlyvc-august-21-2017/",
+  "source_url": "https://techcrunch.com/2017/08/18/twitch-acquired-video-indexing-platform-clipmine-to-power-new-discovery-features",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-08-11",
@@ -735,7 +996,9 @@
   "acquirer": "SoftBank",
   "price": null,
   "edition": "StrictlyVC: July 31, 2017",
-  "url": "https://strictlyvc.com/2017/08/11/strictlyvc-july-31-2017/"
+  "url": "https://strictlyvc.com/2017/08/11/strictlyvc-july-31-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-08-11",
@@ -744,7 +1007,9 @@
   "acquirer": "Amazon",
   "price": null,
   "edition": "StrictlyVC: July 31, 2017",
-  "url": "https://strictlyvc.com/2017/08/11/strictlyvc-july-31-2017/"
+  "url": "https://strictlyvc.com/2017/08/11/strictlyvc-july-31-2017/",
+  "source_url": "https://techcrunch.com/2017/07/28/amazon-reportedly-acquired-gamesparks-for-10m-to-build-out-its-gaming-muscle/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-08-04",
@@ -753,7 +1018,9 @@
   "acquirer": "Nasdaq",
   "price": null,
   "edition": "StrictlyVC: July 27, 2017",
-  "url": "https://strictlyvc.com/2017/08/04/strictlyvc-july-27-2017/"
+  "url": "https://strictlyvc.com/2017/08/04/strictlyvc-july-27-2017/",
+  "source_url": "http://www.nasdaq.com/article/nasdaq-to-acquire-sybenetix-20170725-00090",
+  "source_name": "nasdaq.com"
  },
  {
   "date": "2017-08-04",
@@ -762,7 +1029,9 @@
   "acquirer": "Stripe",
   "price": null,
   "edition": "StrictlyVC: July 27, 2017",
-  "url": "https://strictlyvc.com/2017/08/04/strictlyvc-july-27-2017/"
+  "url": "https://strictlyvc.com/2017/08/04/strictlyvc-july-27-2017/",
+  "source_url": "https://techcrunch.com/2017/07/26/stripe-acquires-payable/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-07-21",
@@ -771,7 +1040,9 @@
   "acquirer": null,
   "price": 2000000000,
   "edition": "StrictlyVC: July 19, 2017",
-  "url": "https://strictlyvc.com/2017/07/21/strictlyvc-july-19-2017/"
+  "url": "https://strictlyvc.com/2017/07/21/strictlyvc-july-19-2017/",
+  "source_url": "https://www.wsj.com/articles/sizmek-to-acquire-fellow-ad-tech-company-rocket-fuel-for-125-5-million-1500379406",
+  "source_name": "WSJ"
  },
  {
   "date": "2017-07-14",
@@ -780,7 +1051,9 @@
   "acquirer": "Samsung",
   "price": null,
   "edition": "StrictlyVC: July 11, 2017",
-  "url": "https://strictlyvc.com/2017/07/14/strictlyvc-july-11-2017/"
+  "url": "https://strictlyvc.com/2017/07/14/strictlyvc-july-11-2017/",
+  "source_url": "https://techcrunch.com/2017/07/11/samsung-acquires-greek-text-to-speech-startup-innoetics-for-under-50m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-07-14",
@@ -789,7 +1062,9 @@
   "acquirer": "Cisco",
   "price": null,
   "edition": "StrictlyVC: July 13, 2017",
-  "url": "https://strictlyvc.com/2017/07/14/strictlyvc-july-13-2017/"
+  "url": "https://strictlyvc.com/2017/07/14/strictlyvc-july-13-2017/",
+  "source_url": "https://techcrunch.com/2017/07/13/cisco-acquires-network-security-startup-observable-networks/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-07-07",
@@ -798,7 +1073,9 @@
   "acquirer": "Baidu",
   "price": null,
   "edition": "StrictlyVC: July 5, 2017",
-  "url": "https://strictlyvc.com/2017/07/07/strictlyvc-july-5-2017/"
+  "url": "https://strictlyvc.com/2017/07/07/strictlyvc-july-5-2017/",
+  "source_url": "https://techcrunch.com/2017/07/05/baidu-acquires-natural-language-startup-kitt-ai-maker-of-chatbot-engine-chatflow/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-07-03",
@@ -807,7 +1084,20 @@
   "acquirer": "Apple",
   "price": null,
   "edition": "StrictlyVC: June 27, 2017",
-  "url": "https://strictlyvc.com/2017/07/03/strictlyvc-june-27-2017/"
+  "url": "https://strictlyvc.com/2017/07/03/strictlyvc-june-27-2017/",
+  "source_url": "https://www.macrumors.com/2017/06/26/apple-acquires-sensomotoric-instruments/",
+  "source_name": "macrumors.com"
+ },
+ {
+  "date": "2017-06-29",
+  "company": "Takata",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: June 26, 2017",
+  "url": "https://strictlyvc.com/2017/06/29/strictlyvc-june-26-2017/",
+  "source_url": "https://www.usatoday.com/story/money/cars/2017/06/26/takata-bankruptcy/427371001/",
+  "source_name": "usatoday.com"
  },
  {
   "date": "2017-06-23",
@@ -816,16 +1106,9 @@
   "acquirer": null,
   "price": 1100000000,
   "edition": "StrictlyVC: June 19, 2017",
-  "url": "https://strictlyvc.com/2017/06/23/strictlyvc-june-19-2017/"
- },
- {
-  "date": "2017-06-17",
-  "company": "Skype",
-  "type": "Acquisition",
-  "acquirer": "Bay",
-  "price": null,
-  "edition": "StrictlyVC: June 16, 2017",
-  "url": "https://strictlyvc.com/2017/06/17/strictlyvc-june-16-2017/"
+  "url": "https://strictlyvc.com/2017/06/23/strictlyvc-june-19-2017/",
+  "source_url": "http://www.cnbc.com/2017/06/19/delivery-hero-prices-ipo-could-raise-over-1-billion.html",
+  "source_name": "CNBC"
  },
  {
   "date": "2017-06-10",
@@ -834,7 +1117,9 @@
   "acquirer": "LexisNexis",
   "price": 14000000,
   "edition": "StrictlyVC: June 9, 2017",
-  "url": "https://strictlyvc.com/2017/06/10/strictlyvc-june-9-2017/"
+  "url": "https://strictlyvc.com/2017/06/10/strictlyvc-june-9-2017/",
+  "source_url": "http://ravellaw.com/next-step-in-our-journey/",
+  "source_name": "ravellaw.com"
  },
  {
   "date": "2017-06-09",
@@ -843,7 +1128,9 @@
   "acquirer": "Snap",
   "price": null,
   "edition": "StrictlyVC: June 6, 2017",
-  "url": "https://strictlyvc.com/2017/06/09/strictlyvc-june-6-2017/"
+  "url": "https://strictlyvc.com/2017/06/09/strictlyvc-june-6-2017/",
+  "source_url": "https://www.bloomberg.com/news/articles/2017-06-06/snap-said-to-acquire-placed-for-125-million-to-track-ad-effects",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2017-06-06",
@@ -852,7 +1139,9 @@
   "acquirer": "Accenture",
   "price": null,
   "edition": "StrictlyVC: June 5, 2017",
-  "url": "https://strictlyvc.com/2017/06/06/strictlyvc-june-5-2017/"
+  "url": "https://strictlyvc.com/2017/06/06/strictlyvc-june-5-2017/",
+  "source_url": "http://www.zdnet.com/article/accenture-acquires-consulting-firm-labanswer/",
+  "source_name": "zdnet.com"
  },
  {
   "date": "2017-06-05",
@@ -861,7 +1150,9 @@
   "acquirer": "Microsoft",
   "price": 100000000,
   "edition": "StrictlyVC: May 24, 2017",
-  "url": "https://strictlyvc.com/2017/06/05/strictlyvc-may-24-2017/"
+  "url": "https://strictlyvc.com/2017/06/05/strictlyvc-may-24-2017/",
+  "source_url": "https://venturebeat.com/2017/05/24/microsoft-reportedly-acquires-israeli-cybersecurity-startup-hexadite-for-100-million/",
+  "source_name": "VentureBeat"
  },
  {
   "date": "2017-06-05",
@@ -870,7 +1161,9 @@
   "acquirer": "ServiceNow",
   "price": null,
   "edition": "StrictlyVC: May 25, 2017",
-  "url": "https://strictlyvc.com/2017/06/05/strictlyvc-may-25-2017/"
+  "url": "https://strictlyvc.com/2017/06/05/strictlyvc-may-25-2017/",
+  "source_url": "http://www.bizjournals.com/sanjose/news/2017/05/17/servicenow-qlue-buildonme.html",
+  "source_name": "bizjournals.com"
  },
  {
   "date": "2017-06-04",
@@ -879,7 +1172,9 @@
   "acquirer": "Verizon",
   "price": 3100000000,
   "edition": "StrictlyVC: May 11, 2017",
-  "url": "https://strictlyvc.com/2017/06/04/strictlyvc-may-11-2017/"
+  "url": "https://strictlyvc.com/2017/06/04/strictlyvc-may-11-2017/",
+  "source_url": "https://www.wsj.com/articles/verizon-wins-bidding-war-for-straight-path-communications-sources-say-1494470230?mod=e2tw",
+  "source_name": "WSJ"
  },
  {
   "date": "2017-06-04",
@@ -888,16 +1183,20 @@
   "acquirer": "AngelList",
   "price": 20000000,
   "edition": "StrictlyVC: May 16, 2017",
-  "url": "https://strictlyvc.com/2017/06/04/strictlyvc-may-16-2017/"
+  "url": "https://strictlyvc.com/2017/06/04/strictlyvc-may-16-2017/",
+  "source_url": "https://www.recode.net/2016/12/1/13802154/angellist-product-hunt-acquisition",
+  "source_name": "Recode"
  },
  {
-  "date": "2017-06-03",
-  "company": "Russian",
-  "type": "Acquisition",
-  "acquirer": "Mail.ru",
-  "price": 20000000,
-  "edition": "StrictlyVC: May 8, 2017",
-  "url": "https://strictlyvc.com/2017/06/03/strictlyvc-may-8-2017/"
+  "date": "2017-06-02",
+  "company": "Lantern",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: May 3, 2017",
+  "url": "https://strictlyvc.com/2017/06/02/strictlyvc-may-3-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-06-01",
@@ -906,16 +1205,9 @@
   "acquirer": "LVMH",
   "price": 13000000000,
   "edition": "StrictlyVC: April 25, 2017",
-  "url": "https://strictlyvc.com/2017/06/01/strictlyvc-april-25-2017/"
- },
- {
-  "date": "2017-06-01",
-  "company": "New York",
-  "type": "Acquisition",
-  "acquirer": "Gett",
-  "price": 200000000,
-  "edition": "StrictlyVC: April 26, 2017",
-  "url": "https://strictlyvc.com/2017/06/01/strictlyvc-april-26-2017/"
+  "url": "https://strictlyvc.com/2017/06/01/strictlyvc-april-25-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-06-01",
@@ -924,7 +1216,9 @@
   "acquirer": "SiriusXM",
   "price": null,
   "edition": "StrictlyVC: April 27, 2017",
-  "url": "https://strictlyvc.com/2017/06/01/strictlyvc-april-27-2017/"
+  "url": "https://strictlyvc.com/2017/06/01/strictlyvc-april-27-2017/",
+  "source_url": "https://techcrunch.com/2017/04/27/siriusxm-acquires-connected-car-company-automatic-for-over-100m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-05-31",
@@ -933,7 +1227,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: April 19, 2017",
-  "url": "https://strictlyvc.com/2017/05/31/strictlyvc-april-19-2017/"
+  "url": "https://strictlyvc.com/2017/05/31/strictlyvc-april-19-2017/",
+  "source_url": "http://www.geekwire.com/2017/microsoft-acquiring-intentional-software-founded-office-pioneer-charles-simonyi/",
+  "source_name": "geekwire.com"
  },
  {
   "date": "2017-05-31",
@@ -942,16 +1238,9 @@
   "acquirer": "Marketo",
   "price": 21500000,
   "edition": "StrictlyVC: April 20, 2017",
-  "url": "https://strictlyvc.com/2017/05/31/strictlyvc-april-20-2017/"
- },
- {
-  "date": "2017-05-31",
-  "company": "Austin",
-  "type": "Acquisition",
-  "acquirer": "Insight Venture Partners",
-  "price": null,
-  "edition": "StrictlyVC: April 20, 2017",
-  "url": "https://strictlyvc.com/2017/05/31/strictlyvc-april-20-2017/"
+  "url": "https://strictlyvc.com/2017/05/31/strictlyvc-april-20-2017/",
+  "source_url": "https://www.crunchbase.com/organization/toutapp#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2017-05-30",
@@ -960,7 +1249,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: April 7, 2017",
-  "url": "https://strictlyvc.com/2017/05/30/strictlyvc-april-7-2017/"
+  "url": "https://strictlyvc.com/2017/05/30/strictlyvc-april-7-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-05-30",
@@ -969,7 +1260,9 @@
   "acquirer": "Insight Venture Partners",
   "price": 100000000,
   "edition": "StrictlyVC: April 13, 2017",
-  "url": "https://strictlyvc.com/2017/05/30/strictlyvc-april-13-2017/"
+  "url": "https://strictlyvc.com/2017/05/30/strictlyvc-april-13-2017/",
+  "source_url": "http://www.bizjournals.com/sanjose/news/2017/04/12/redwood-city-startup-has-new-majority-owner-in.html",
+  "source_name": "bizjournals.com"
  },
  {
   "date": "2017-05-29",
@@ -978,7 +1271,9 @@
   "acquirer": "Walmart",
   "price": null,
   "edition": "StrictlyVC: March 16, 2017",
-  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-march-16-2017/"
+  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-march-16-2017/",
+  "source_url": "http://jezebel.com/womens-retailer-modcloth-to-be-bought-by-jet-com-which-1793296461",
+  "source_name": "jezebel.com"
  },
  {
   "date": "2017-05-29",
@@ -987,7 +1282,9 @@
   "acquirer": "Amazon",
   "price": 650000000,
   "edition": "StrictlyVC: March 23, 2017",
-  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-march-23-2017/"
+  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-march-23-2017/",
+  "source_url": "https://techcrunch.com/2017/03/23/amazon-to-acquire-souq-a-middle-east-clone-once-valued-at-1b-for-650m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-05-29",
@@ -996,7 +1293,9 @@
   "acquirer": "Canon",
   "price": null,
   "edition": "StrictlyVC: March 28, 2017",
-  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-march-28-2017/"
+  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-march-28-2017/",
+  "source_url": "https://techcrunch.com/2017/03/28/canon-acquires-london-based-printing-tech-startup-kite/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-05-29",
@@ -1005,16 +1304,20 @@
   "acquirer": null,
   "price": 200000000,
   "edition": "StrictlyVC: April 3, 2017",
-  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-april-3-2017/"
+  "url": "https://strictlyvc.com/2017/05/29/strictlyvc-april-3-2017/",
+  "source_url": "https://techcrunch.com/2017/03/31/cloudera-posts-long-awaited-ipo-filing/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-05-28",
-  "company": "Essential Reads When Snap",
+  "company": "When Snap",
   "type": "IPO",
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: February 28, 2017",
-  "url": "https://strictlyvc.com/2017/05/28/strictlyvc-february-28-2017/"
+  "url": "https://strictlyvc.com/2017/05/28/strictlyvc-february-28-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-05-28",
@@ -1023,7 +1326,9 @@
   "acquirer": "Palo Alto Networks",
   "price": 105000000,
   "edition": "StrictlyVC: March 3, 2017",
-  "url": "https://strictlyvc.com/2017/05/28/strictlyvc-march-3-2017/"
+  "url": "https://strictlyvc.com/2017/05/28/strictlyvc-march-3-2017/",
+  "source_url": "https://www.theregister.co.uk/2017/03/01/palo_alto_buys_lightcyber/",
+  "source_name": "theregister.co.uk"
  },
  {
   "date": "2017-05-28",
@@ -1032,7 +1337,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: March 8, 2017",
-  "url": "https://strictlyvc.com/2017/05/28/strictlyvc-march-8-2017/"
+  "url": "https://strictlyvc.com/2017/05/28/strictlyvc-march-8-2017/",
+  "source_url": "https://techcrunch.com/2017/03/07/google-is-acquiring-data-science-community-kaggle/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-05-27",
@@ -1041,7 +1348,9 @@
   "acquirer": "Wix.com",
   "price": null,
   "edition": "StrictlyVC: February 23, 2017",
-  "url": "https://strictlyvc.com/2017/05/27/strictlyvc-february-23-2017/"
+  "url": "https://strictlyvc.com/2017/05/27/strictlyvc-february-23-2017/",
+  "source_url": "https://techcrunch.com/2017/02/23/website-builder-wix-acquires-art-community-deviantart-for-36m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-05-27",
@@ -1050,7 +1359,9 @@
   "acquirer": "Apple",
   "price": null,
   "edition": "StrictlyVC: February 27, 2017",
-  "url": "https://strictlyvc.com/2017/05/27/strictlyvc-february-27-2017/"
+  "url": "https://strictlyvc.com/2017/05/27/strictlyvc-february-27-2017/",
+  "source_url": "http://www.timesofisrael.com/apple-buys-israels-facial-recognition-firm-realface-report/",
+  "source_name": "timesofisrael.com"
  },
  {
   "date": "2017-05-06",
@@ -1059,7 +1370,9 @@
   "acquirer": "Nokia",
   "price": null,
   "edition": "StrictlyVC: February 13, 2017",
-  "url": "https://strictlyvc.com/2017/05/06/strictlyvc-february-13-2017/"
+  "url": "https://strictlyvc.com/2017/05/06/strictlyvc-february-13-2017/",
+  "source_url": "https://techcrunch.com/2017/02/08/nokia-to-buy-comptel-for-370m-as-it-pushes-deeper-into-carrier-software/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-04-05",
@@ -1068,7 +1381,9 @@
   "acquirer": "Take-Two Interactive",
   "price": 276000000,
   "edition": "StrictlyVC: February 1, 2017",
-  "url": "https://strictlyvc.com/2017/04/05/strictlyvc-february-1-2017/"
+  "url": "https://strictlyvc.com/2017/04/05/strictlyvc-february-1-2017/",
+  "source_url": "https://techcrunch.com/2017/02/01/take-two-buys-mobile-gaming-publisher-social-point-for-up-to-276m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-04-05",
@@ -1077,7 +1392,9 @@
   "acquirer": "Hewlett Packard Enterprise",
   "price": 30000000,
   "edition": "StrictlyVC: February 2, 2017",
-  "url": "https://strictlyvc.com/2017/04/05/strictlyvc-february-2-2017/"
+  "url": "https://strictlyvc.com/2017/04/05/strictlyvc-february-2-2017/",
+  "source_url": "http://www.eweek.com/security/hpe-acquires-security-user-behavior-and-entity-analytics-vendor-niara.html",
+  "source_name": "eweek.com"
  },
  {
   "date": "2017-04-05",
@@ -1086,7 +1403,9 @@
   "acquirer": "Three UK",
   "price": 373000000,
   "edition": "StrictlyVC: February 6, 2017",
-  "url": "https://strictlyvc.com/2017/04/05/strictlyvc-february-6-2017/"
+  "url": "https://strictlyvc.com/2017/04/05/strictlyvc-february-6-2017/",
+  "source_url": "http://techcrunch.com/2017/02/06/mobile-carrier-three-buys-uk-broadband-for-up-to-373m-in-spectrum-grab/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-02-18",
@@ -1095,16 +1414,9 @@
   "acquirer": "Microsoft",
   "price": 11000000,
   "edition": "StrictlyVC: January 17, 2017",
-  "url": "https://strictlyvc.com/2017/02/18/strictlyvc-january-17-2017/"
- },
- {
-  "date": "2017-01-13",
-  "company": "Coca-Cola",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: January 3, 2017",
-  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-3-2017/"
+  "url": "https://strictlyvc.com/2017/02/18/strictlyvc-january-17-2017/",
+  "source_url": "https://techcrunch.com/2017/01/13/microsoft-acquires-maluuba-a-startup-focused-on-general-artificial-intelligence/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-01-13",
@@ -1113,7 +1425,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: January 5, 2017",
-  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-5-2017/"
+  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-5-2017/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2017-01-13",
@@ -1122,43 +1436,31 @@
   "acquirer": "GoFundMe",
   "price": null,
   "edition": "StrictlyVC: January 11, 2017",
-  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-11-2017/"
+  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-11-2017/",
+  "source_url": "https://techcrunch.com/2017/01/10/alibaba-intime-2-6-billion/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2017-01-13",
-  "company": "Essential Reads Lily Robotics",
+  "company": "Lily Robotics",
   "type": "Shutdown",
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: January 13, 2017",
-  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-13-2017/"
+  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-january-13-2017/",
+  "source_url": "https://techcrunch.com/2017/01/12/sf-district-attorney-lawsuit-against-lily-may-have-prompted-refund/",
+  "source_name": "TechCrunch"
  },
  {
-  "date": "2016-12-29",
-  "company": "Redwood City",
-  "type": "Acquisition",
-  "acquirer": "Salesforce",
-  "price": 9500000,
-  "edition": "StrictlyVC: December 15, 2016",
-  "url": "https://strictlyvc.com/2016/12/29/strictlyvc-december-15-2016/"
- },
- {
-  "date": "2016-12-28",
-  "company": "San Francisco-based",
-  "type": "Acquisition",
-  "acquirer": "GoDaddy",
-  "price": null,
-  "edition": "StrictlyVC: December 6, 2016",
-  "url": "https://strictlyvc.com/2016/12/28/strictlyvc-december-6-2016/"
- },
- {
-  "date": "2016-12-12",
-  "company": "Yes",
+  "date": "2017-01-13",
+  "company": "ClusterHQ",
   "type": "Shutdown",
   "acquirer": null,
   "price": null,
-  "edition": "StrictlyVC: December 2, 2016",
-  "url": "https://strictlyvc.com/2016/12/12/strictlyvc-december-2-2016/"
+  "edition": "StrictlyVC: December 23, 2016",
+  "url": "https://strictlyvc.com/2017/01/13/strictlyvc-december-23-2016/",
+  "source_url": "https://techcrunch.com/2016/12/22/clusterhq-hits-the-deadpool/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-23",
@@ -1167,16 +1469,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: November 22, 2016",
-  "url": "https://strictlyvc.com/2016/11/23/strictlyvc-november-22-2016/"
- },
- {
-  "date": "2016-11-21",
-  "company": "Germany",
-  "type": "Acquisition",
-  "acquirer": "Tesla",
-  "price": null,
-  "edition": "StrictlyVC: November 8, 2016",
-  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-8-2016/"
+  "url": "https://strictlyvc.com/2016/11/23/strictlyvc-november-22-2016/",
+  "source_url": "https://techcrunch.com/2016/11/21/google-acquires-qwiklabs-to-teach-developers-cloud-skills/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-21",
@@ -1185,7 +1480,9 @@
   "acquirer": "Siemens",
   "price": 4500000000,
   "edition": "StrictlyVC: November 14, 2016",
-  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-14-2016/"
+  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-14-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-11-21",
@@ -1194,7 +1491,9 @@
   "acquirer": "Estee Lauder",
   "price": 1450000000,
   "edition": "StrictlyVC: November 15, 2016",
-  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-15-2016/"
+  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-15-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-11-21",
@@ -1203,7 +1502,9 @@
   "acquirer": "GE Digital",
   "price": null,
   "edition": "StrictlyVC: November 15, 2016",
-  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-15-2016/"
+  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-15-2016/",
+  "source_url": "https://techcrunch.com/2016/11/15/ge-acquires-wise-io-to-deepen-its-machine-learning-stack/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-21",
@@ -1212,7 +1513,9 @@
   "acquirer": "Verizon",
   "price": null,
   "edition": "StrictlyVC: November 17, 2016",
-  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-17-2016/"
+  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-17-2016/",
+  "source_url": "https://techcrunch.com/2016/11/16/verizon-acquires-socialradar-to-buff-up-mapquests-location-data/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-21",
@@ -1221,7 +1524,9 @@
   "acquirer": "Oracle",
   "price": null,
   "edition": "StrictlyVC: November 21, 2016",
-  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-21-2016/"
+  "url": "https://strictlyvc.com/2016/11/21/strictlyvc-november-21-2016/",
+  "source_url": "https://techcrunch.com/2016/11/21/oracle-acquires-dns-provider-dyn-subject-of-a-massive-ddos-attack-in-october/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-10",
@@ -1230,7 +1535,9 @@
   "acquirer": "Cisco",
   "price": null,
   "edition": "StrictlyVC: October 17, 2016",
-  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-17-2016/"
+  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-17-2016/",
+  "source_url": "https://techcrunch.com/2016/10/17/cisco-strengthens-spark-meetings-management-with-worklife-acquisition/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-10",
@@ -1239,7 +1546,9 @@
   "acquirer": "AT&T",
   "price": 85000000000,
   "edition": "StrictlyVC: October 24, 2016",
-  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-24-2016/"
+  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-24-2016/",
+  "source_url": "http://techcrunch.com/2016/10/22/confirmed-att-is-buying-time-warner-for-85-4b-in-cash-and-shares/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-10",
@@ -1248,7 +1557,9 @@
   "acquirer": "Google",
   "price": 21600000,
   "edition": "StrictlyVC: October 25, 2016",
-  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-25-2016/"
+  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-25-2016/",
+  "source_url": "https://techcrunch.com/2016/10/24/google-buys-eyefluence-eye-tracking-startup/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-10",
@@ -1257,7 +1568,9 @@
   "acquirer": "Groupon",
   "price": null,
   "edition": "StrictlyVC: October 27, 2016",
-  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-27-2016/"
+  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-27-2016/",
+  "source_url": "https://techcrunch.com/2016/10/26/groupon-is-buying-livingsocial-plans-to-downsize-business-to-15-markets-from-27/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-11-10",
@@ -1266,7 +1579,9 @@
   "acquirer": "Verizon",
   "price": null,
   "edition": "StrictlyVC: October 27, 2016",
-  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-27-2016/"
+  "url": "https://strictlyvc.com/2016/11/10/strictlyvc-october-27-2016/",
+  "source_url": "https://techcrunch.com/2016/10/26/verizon-acquires-vessel/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-10-30",
@@ -1275,7 +1590,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: October 12, 2016",
-  "url": "https://strictlyvc.com/2016/10/30/strictlyvc-october-12-2016/"
+  "url": "https://strictlyvc.com/2016/10/30/strictlyvc-october-12-2016/",
+  "source_url": "https://techcrunch.com/2016/10/11/google-acquires-famebit-to-connect-youtube-creators-with-brands/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-10-28",
@@ -1284,16 +1601,9 @@
   "acquirer": "Bay",
   "price": null,
   "edition": "StrictlyVC: October 6, 2016",
-  "url": "https://strictlyvc.com/2016/10/28/strictlyvc-october-6-2016/"
- },
- {
-  "date": "2016-10-23",
-  "company": "Uber",
-  "type": "IPO",
-  "acquirer": null,
-  "price": null,
-  "edition": "Watch: Marc Andreessen on Twitter, Secondary Sales, Pulling the Plug, and More",
-  "url": "https://strictlyvc.com/2016/10/23/8838/"
+  "url": "https://strictlyvc.com/2016/10/28/strictlyvc-october-6-2016/",
+  "source_url": "https://techcrunch.com/2016/10/05/ebay-acquires-visual-search-engine-corrigon-reportedly-for-30m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-10-08",
@@ -1302,7 +1612,9 @@
   "acquirer": "Etsy",
   "price": null,
   "edition": "StrictlyVC: September 20, 2016",
-  "url": "https://strictlyvc.com/2016/10/08/strictlyvc-september-20-2016/"
+  "url": "https://strictlyvc.com/2016/10/08/strictlyvc-september-20-2016/",
+  "source_url": "https://techcrunch.com/2016/09/19/etsy-buys-blackbird-ai-to-bring-more-machine-learning-into-its-search-platform/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-10-08",
@@ -1311,7 +1623,9 @@
   "acquirer": "Facebook",
   "price": null,
   "edition": "StrictlyVC: September 20, 2016",
-  "url": "https://strictlyvc.com/2016/10/08/strictlyvc-september-20-2016/"
+  "url": "https://strictlyvc.com/2016/10/08/strictlyvc-september-20-2016/",
+  "source_url": "http://www.recode.net/2016/9/19/12974572/facebook-nascent-objects-acquisition",
+  "source_name": "Recode"
  },
  {
   "date": "2016-09-17",
@@ -1320,7 +1634,9 @@
   "acquirer": "Oracle",
   "price": null,
   "edition": "September 7, 2016",
-  "url": "https://strictlyvc.com/2016/09/17/september-7-2016/"
+  "url": "https://strictlyvc.com/2016/09/17/september-7-2016/",
+  "source_url": "https://www.crunchbase.com/organization/logfire#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-09-04",
@@ -1329,7 +1645,9 @@
   "acquirer": "SAP",
   "price": null,
   "edition": "StrictlyVC: August 26, 2016",
-  "url": "https://strictlyvc.com/2016/09/04/strictlyvc-august-26-2016/"
+  "url": "https://strictlyvc.com/2016/09/04/strictlyvc-august-26-2016/",
+  "source_url": "http://venturebeat.com/2016/08/25/sap-altiscale/",
+  "source_name": "VentureBeat"
  },
  {
   "date": "2016-09-04",
@@ -1338,7 +1656,9 @@
   "acquirer": "Cisco",
   "price": null,
   "edition": "StrictlyVC: August 30, 2016",
-  "url": "https://strictlyvc.com/2016/09/04/august-30-2016/"
+  "url": "https://strictlyvc.com/2016/09/04/august-30-2016/",
+  "source_url": "http://siliconangle.com/blog/2015/11/13/startup-says-its-made-containers-enterprise-friendly/",
+  "source_name": "siliconangle.com"
  },
  {
   "date": "2016-09-03",
@@ -1347,7 +1667,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: August 22, 2016",
-  "url": "https://strictlyvc.com/2016/09/03/strictlyvc-august-22-2016/"
+  "url": "https://strictlyvc.com/2016/09/03/strictlyvc-august-22-2016/",
+  "source_url": "https://www.crunchbase.com/organization/genee#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-08-29",
@@ -1356,7 +1678,9 @@
   "acquirer": "Salesforce",
   "price": 9000000,
   "edition": "StrictlyVC: August 16, 2016",
-  "url": "https://strictlyvc.com/2016/08/29/strictlyvc-august-16-2016/"
+  "url": "https://strictlyvc.com/2016/08/29/strictlyvc-august-16-2016/",
+  "source_url": "https://techcrunch.com/2016/08/15/another-salesforce-acquisition-with-beyondcore-enterprise-analytics-grab",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-08-29",
@@ -1365,7 +1689,9 @@
   "acquirer": "Ford Motor Company",
   "price": null,
   "edition": "StrictlyVC: August 17, 2016",
-  "url": "https://strictlyvc.com/2016/08/29/8627/"
+  "url": "https://strictlyvc.com/2016/08/29/8627/",
+  "source_url": "https://techcrunch.com/2016/08/16/ford-acquires-saips-for-self-driving-machine-learning-and-computer-vision-tech/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-08-29",
@@ -1374,7 +1700,9 @@
   "acquirer": "Uber",
   "price": null,
   "edition": "StrictlyVC: August 18, 2016",
-  "url": "https://strictlyvc.com/2016/08/29/strictlyvc-august-18-2016/"
+  "url": "https://strictlyvc.com/2016/08/29/strictlyvc-august-18-2016/",
+  "source_url": "http://www.nytimes.com/2016/08/19/technology/uber-self-driving-cars-otto-trucks.html",
+  "source_name": "NYT"
  },
  {
   "date": "2016-08-20",
@@ -1383,7 +1711,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: August 11, 2016",
-  "url": "https://strictlyvc.com/2016/08/20/8590/"
+  "url": "https://strictlyvc.com/2016/08/20/8590/",
+  "source_url": "https://techcrunch.com/2016/05/11/beam-wins-techcrunch-disrupt-ny-2016/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-08-20",
@@ -1392,7 +1722,9 @@
   "acquirer": "Hewlett Packard Enterprise",
   "price": 275000000,
   "edition": "StrictlyVC: August 12, 2016",
-  "url": "https://strictlyvc.com/2016/08/20/strictlyvc-august-12-2016/"
+  "url": "https://strictlyvc.com/2016/08/20/strictlyvc-august-12-2016/",
+  "source_url": "https://techcrunch.com/2016/08/11/hpe-sgi/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-08-19",
@@ -1401,7 +1733,9 @@
   "acquirer": "Apple",
   "price": 200000000,
   "edition": "StrictlyVC: August 8, 2016",
-  "url": "https://strictlyvc.com/2016/08/19/strictlyvc-august-8-2016/"
+  "url": "https://strictlyvc.com/2016/08/19/strictlyvc-august-8-2016/",
+  "source_url": "https://techcrunch.com/2016/08/05/apple-acquires-turi-a-machine-learning-company/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-08-19",
@@ -1410,7 +1744,9 @@
   "acquirer": "Bridgepoint Development Capital",
   "price": 67800000,
   "edition": "StrictlyVC: August 8, 2016",
-  "url": "https://strictlyvc.com/2016/08/19/strictlyvc-august-8-2016/"
+  "url": "https://strictlyvc.com/2016/08/19/strictlyvc-august-8-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-08-19",
@@ -1419,7 +1755,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: August 8, 2016",
-  "url": "https://strictlyvc.com/2016/08/19/strictlyvc-august-8-2016/"
+  "url": "https://strictlyvc.com/2016/08/19/strictlyvc-august-8-2016/",
+  "source_url": "https://techcrunch.com/2016/08/08/google-buys-orbitera-a-platform-for-building-marketplaces-cloud-software/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-07-27",
@@ -1428,7 +1766,9 @@
   "acquirer": "Quikr",
   "price": 6000000,
   "edition": "StrictlyVC: July 25, 2016",
-  "url": "https://strictlyvc.com/2016/07/27/strictlyvc-july-25-2016/"
+  "url": "https://strictlyvc.com/2016/07/27/strictlyvc-july-25-2016/",
+  "source_url": "https://techcrunch.com/2016/07/25/indias-quikr-snaps-up-hiree-to-grow-its-recruitment-service/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-07-23",
@@ -1437,7 +1777,9 @@
   "acquirer": "Expedia",
   "price": null,
   "edition": "StrictlyVC: July 21, 2016",
-  "url": "https://strictlyvc.com/2016/07/23/strictlyvc-july-21-2016/"
+  "url": "https://strictlyvc.com/2016/07/23/strictlyvc-july-21-2016/",
+  "source_url": "https://www.crunchbase.com/organization/trover#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-07-23",
@@ -1446,7 +1788,20 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: July 21, 2016",
-  "url": "https://strictlyvc.com/2016/07/23/strictlyvc-july-21-2016/"
+  "url": "https://strictlyvc.com/2016/07/23/strictlyvc-july-21-2016/",
+  "source_url": "http://www.nasdaq.com/symbol/pi",
+  "source_name": "nasdaq.com"
+ },
+ {
+  "date": "2016-07-23",
+  "company": "Doppler Labs",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: July 21, 2016",
+  "url": "https://strictlyvc.com/2016/07/23/strictlyvc-july-21-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-07-17",
@@ -1455,7 +1810,9 @@
   "acquirer": "Funds Amazon Web Services",
   "price": null,
   "edition": "StrictlyVC: July 14, 2016",
-  "url": "https://strictlyvc.com/2016/07/17/strictlyvc-july-14-2016/"
+  "url": "https://strictlyvc.com/2016/07/17/strictlyvc-july-14-2016/",
+  "source_url": "https://techcrunch.com/2016/07/14/amazons-aws-buys-cloud9-to-add-more-development-tools-to-its-web-services-stack/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-07-17",
@@ -1464,7 +1821,9 @@
   "acquirer": "Hasbro",
   "price": null,
   "edition": "StrictlyVC: July 14, 2016",
-  "url": "https://strictlyvc.com/2016/07/17/strictlyvc-july-14-2016/"
+  "url": "https://strictlyvc.com/2016/07/17/strictlyvc-july-14-2016/",
+  "source_url": "http://www.marketwatch.com/story/hasbro-buys-irish-animation-company-boulder-media-2016-07-13",
+  "source_name": "marketwatch.com"
  },
  {
   "date": "2016-07-17",
@@ -1473,7 +1832,9 @@
   "acquirer": null,
   "price": 6400000000,
   "edition": "StrictlyVC: July 14, 2016",
-  "url": "https://strictlyvc.com/2016/07/17/strictlyvc-july-14-2016/"
+  "url": "https://strictlyvc.com/2016/07/17/strictlyvc-july-14-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-07-08",
@@ -1482,7 +1843,9 @@
   "acquirer": "Alibaba",
   "price": 200000000,
   "edition": "StrictlyVC: July 6, 2016",
-  "url": "https://strictlyvc.com/2016/07/08/strictlyvc-july-6-2016/"
+  "url": "https://strictlyvc.com/2016/07/08/strictlyvc-july-6-2016/",
+  "source_url": "https://techcrunch.com/2016/07/06/alibaba-snaps-up-chinese-android-app-store-wandoujia/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-07-08",
@@ -1491,7 +1854,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: July 6, 2016",
-  "url": "https://strictlyvc.com/2016/07/08/strictlyvc-july-6-2016/"
+  "url": "https://strictlyvc.com/2016/07/08/strictlyvc-july-6-2016/",
+  "source_url": "https://techcrunch.com/2016/07/06/google-buys-france-based-moodstocks-which-makes-image-recognition-tech-for-smartphones",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-06-24",
@@ -1500,7 +1865,9 @@
   "acquirer": "Twitter",
   "price": null,
   "edition": "StrictlyVC: June 20, 2016",
-  "url": "https://strictlyvc.com/2016/06/24/strictlyvc-june-20-2016/"
+  "url": "https://strictlyvc.com/2016/06/24/strictlyvc-june-20-2016/",
+  "source_url": "https://techcrunch.com/2016/06/20/twitter-is-buying-magic-pony-technology-which-uses-neural-networks-to-improve-images/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-06-18",
@@ -1509,7 +1876,9 @@
   "acquirer": "Samsung",
   "price": 126000000,
   "edition": "StrictlyVC: June 16, 2016",
-  "url": "https://strictlyvc.com/2016/06/18/strictlyvc-june-16-2016/"
+  "url": "https://strictlyvc.com/2016/06/18/strictlyvc-june-16-2016/",
+  "source_url": "https://www.crunchbase.com/organization/joyent#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-06-17",
@@ -1518,7 +1887,9 @@
   "acquirer": "Microsoft",
   "price": 26200000000,
   "edition": "StrictlyVC: June 13, 2016",
-  "url": "https://strictlyvc.com/2016/06/17/strictlyvc-june/"
+  "url": "https://strictlyvc.com/2016/06/17/strictlyvc-june/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-06-10",
@@ -1527,7 +1898,9 @@
   "acquirer": null,
   "price": null,
   "edition": "SoftTechVC Goes Big with Two New Funds Totaling $150 Million",
-  "url": "https://strictlyvc.com/2016/06/10/softtechvc-goes-big-with-two-new-funds-totaling-150-million/"
+  "url": "https://strictlyvc.com/2016/06/10/softtechvc-goes-big-with-two-new-funds-totaling-150-million/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-05-28",
@@ -1536,7 +1909,9 @@
   "acquirer": "Bay",
   "price": 165000000,
   "edition": "StrictlyVC: May 24, 2016",
-  "url": "https://strictlyvc.com/2016/05/28/strictlyvc-may-24-2016/"
+  "url": "https://strictlyvc.com/2016/05/28/strictlyvc-may-24-2016/",
+  "source_url": "https://www.crunchbase.com/organization/ticketbis#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-05-28",
@@ -1545,7 +1920,9 @@
   "acquirer": "Goldman Sachs",
   "price": null,
   "edition": "StrictlyVC: May 24, 2016",
-  "url": "https://strictlyvc.com/2016/05/28/strictlyvc-may-24-2016/"
+  "url": "https://strictlyvc.com/2016/05/28/strictlyvc-may-24-2016/",
+  "source_url": "https://www.crunchbase.com/organization/honest-dollar#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-05-26",
@@ -1554,7 +1931,9 @@
   "acquirer": "AT&T",
   "price": null,
   "edition": "StrictlyVC: May 16, 2016",
-  "url": "https://strictlyvc.com/2016/05/26/strictlyvc-may-16-2016/"
+  "url": "https://strictlyvc.com/2016/05/26/strictlyvc-may-16-2016/",
+  "source_url": "http://variety.com/2016/digital/news/att-quickplay-acquisition-directv-internet-video-1201775648/",
+  "source_name": "variety.com"
  },
  {
   "date": "2016-05-22",
@@ -1563,7 +1942,9 @@
   "acquirer": "Bay",
   "price": null,
   "edition": "StrictlyVC: May 6, 2016",
-  "url": "https://strictlyvc.com/2016/05/22/strictlyvc-may-6-2016-2/"
+  "url": "https://strictlyvc.com/2016/05/22/strictlyvc-may-6-2016-2/",
+  "source_url": "http://techcrunch.com/2016/05/05/ebay-acquires-ai-powered-big-data-processor-expertmaker/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-05-22",
@@ -1572,7 +1953,9 @@
   "acquirer": "Indiegogo",
   "price": null,
   "edition": "StrictlyVC: May 10, 2016",
-  "url": "https://strictlyvc.com/2016/05/22/strictlyvc-may-10-2016/"
+  "url": "https://strictlyvc.com/2016/05/22/strictlyvc-may-10-2016/",
+  "source_url": "http://techcrunch.com/2016/05/10/sell-your-stuff-after-you-go-go/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-05-21",
@@ -1581,7 +1964,9 @@
   "acquirer": "Chegg",
   "price": 25000000,
   "edition": "StrictlyVC: May 3, 2016",
-  "url": "https://strictlyvc.com/2016/05/21/8159/"
+  "url": "https://strictlyvc.com/2016/05/21/8159/",
+  "source_url": "http://techcrunch.com/2016/05/02/chegg-acquires-imagine-easy-solutions-the-company-behind-easybib-bibme-and-citation-machine/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-05-21",
@@ -1590,7 +1975,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: May 3, 2016",
-  "url": "https://strictlyvc.com/2016/05/21/8159/"
+  "url": "https://strictlyvc.com/2016/05/21/8159/",
+  "source_url": "http://techcrunch.com/2016/05/02/google-acquires-synergyse-an-interactive-training-service-for-google-apps/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-05-21",
@@ -1599,7 +1986,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: May 3, 2016",
-  "url": "https://strictlyvc.com/2016/05/21/8159/"
+  "url": "https://strictlyvc.com/2016/05/21/8159/",
+  "source_url": "http://techcrunch.com/2016/05/03/microsoft-acquires-italian-iot-company-solair/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-04-30",
@@ -1608,7 +1997,9 @@
   "acquirer": "Affirm",
   "price": null,
   "edition": "StrictlyVC: April 27, 2016",
-  "url": "https://strictlyvc.com/2016/04/30/7943/"
+  "url": "https://strictlyvc.com/2016/04/30/7943/",
+  "source_url": "https://www.crunchbase.com/organization/affirm#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-04-01",
@@ -1617,7 +2008,9 @@
   "acquirer": "Tinder",
   "price": null,
   "edition": "StrictlyVC: March 29, 2016",
-  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-march-29-2016/"
+  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-march-29-2016/",
+  "source_url": "http://techcrunch.com/2016/03/29/tinder-acquires-humin-as-it-broadens-out-from-dating-creates-sf-office/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-04-01",
@@ -1626,16 +2019,9 @@
   "acquirer": "Ebay",
   "price": null,
   "edition": "StrictlyVC: March 30, 2016",
-  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-march-30-2016/"
- },
- {
-  "date": "2016-04-01",
-  "company": "Nest",
-  "type": "Acquisition",
-  "acquirer": "Google",
-  "price": 3200000000,
-  "edition": "Is Tony Fadell in Nest&#8217;s Way?",
-  "url": "https://strictlyvc.com/2016/04/01/is-tony-fadell-in-nests-way/"
+  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-march-30-2016/",
+  "source_url": "http://techcrunch.com/2016/03/29/ebay-acquires-cargigi-to-expand-its-ebay-motors-team-improve-tech-for-auto-dealers/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-04-01",
@@ -1644,7 +2030,9 @@
   "acquirer": "IBM",
   "price": null,
   "edition": "StrictlyVC: March 31, 2016",
-  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-march-31-2016/"
+  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-march-31-2016/",
+  "source_url": "http://recode.net/2016/03/30/ibm-to-acquire-cloud-consulting-firm-bluewolf-for-about-200-million/",
+  "source_name": "Recode"
  },
  {
   "date": "2016-04-01",
@@ -1653,7 +2041,9 @@
   "acquirer": "GM",
   "price": null,
   "edition": "StrictlyVC: April 1, 2016",
-  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-april-1-2016/"
+  "url": "https://strictlyvc.com/2016/04/01/strictlyvc-april-1-2016/",
+  "source_url": "http://fortune.com/2016/03/31/sidecar-gm-uber/",
+  "source_name": "fortune.com"
  },
  {
   "date": "2016-03-27",
@@ -1662,7 +2052,9 @@
   "acquirer": "Ola",
   "price": null,
   "edition": "StrictlyVC: March 21, 2016",
-  "url": "https://strictlyvc.com/2016/03/27/strictlyvc-march-21-2016/"
+  "url": "https://strictlyvc.com/2016/03/27/strictlyvc-march-21-2016/",
+  "source_url": "http://techcrunch.com/2016/03/21/indian-ride-hailing-app-ola-acquires-mobile-payment-startup-qarth-to-expand-ola-money",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-03-19",
@@ -1671,7 +2063,9 @@
   "acquirer": "Verizon",
   "price": null,
   "edition": "StrictlyVC: March 16, 2016",
-  "url": "https://strictlyvc.com/2016/03/19/strictlyvc-march-16-2016/"
+  "url": "https://strictlyvc.com/2016/03/19/strictlyvc-march-16-2016/",
+  "source_url": "https://www.crunchbase.com/organization/volicon#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-03-19",
@@ -1680,7 +2074,9 @@
   "acquirer": "Kickstarter",
   "price": 1500000,
   "edition": "StrictlyVC: March 18, 2016",
-  "url": "https://strictlyvc.com/2016/03/19/strictlyvc-march-18-2016/"
+  "url": "https://strictlyvc.com/2016/03/19/strictlyvc-march-18-2016/",
+  "source_url": "http://www.engadget.com/2016/03/17/kickstarter-purchases-drip-music-community/",
+  "source_name": "engadget.com"
  },
  {
   "date": "2016-03-15",
@@ -1689,7 +2085,9 @@
   "acquirer": "Cisco Systems",
   "price": null,
   "edition": "StrictlyVC: March 9, 2016",
-  "url": "https://strictlyvc.com/2016/03/15/strictlyvc-march-9-2016/"
+  "url": "https://strictlyvc.com/2016/03/15/strictlyvc-march-9-2016/",
+  "source_url": "http://www.wsj.com/article_email/cisco-steps-up-investments-in-germany-slack-competitor-1457463551-lMyQjAxMTI2MDA1OTEwMjkwWj",
+  "source_name": "WSJ"
  },
  {
   "date": "2016-03-15",
@@ -1698,7 +2096,9 @@
   "acquirer": "Tableau Software",
   "price": null,
   "edition": "StrictlyVC: March 10, 2016",
-  "url": "https://strictlyvc.com/2016/03/15/strictlyvc-march-10-2016/"
+  "url": "https://strictlyvc.com/2016/03/15/strictlyvc-march-10-2016/",
+  "source_url": "https://www.crunchbase.com/organization/hyper-3#/entity",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2016-03-09",
@@ -1707,7 +2107,9 @@
   "acquirer": "BBVA",
   "price": null,
   "edition": "StrictlyVC: March 7, 2016",
-  "url": "https://strictlyvc.com/2016/03/09/strictlyvc-march-7-2016/"
+  "url": "https://strictlyvc.com/2016/03/09/strictlyvc-march-7-2016/",
+  "source_url": "http://techcrunch.com/2016/03/07/bbva-continues-its-fintech-acquisition-run-buys-holvi-an-online-only-business-bank",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-03-04",
@@ -1716,7 +2118,9 @@
   "acquirer": "Cisco",
   "price": 260000000,
   "edition": "StrictlyVC: March 1, 2016",
-  "url": "https://strictlyvc.com/2016/03/04/strictlyvc-march-1-2016/"
+  "url": "https://strictlyvc.com/2016/03/04/strictlyvc-march-1-2016/",
+  "source_url": "http://techcrunch.com/2016/03/01/cisco-is-buying-cliqr-for-260m-to-expand-in-hybrid-cloud-management-solutions/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-03-01",
@@ -1725,7 +2129,9 @@
   "acquirer": "Oracle",
   "price": null,
   "edition": "StrictlyVC: February 24, 2016",
-  "url": "https://strictlyvc.com/2016/03/01/strictlyvc-february-24-2016/"
+  "url": "https://strictlyvc.com/2016/03/01/strictlyvc-february-24-2016/",
+  "source_url": "http://venturebeat.com/2016/02/22/oracle-buys-cloud-software-startup-ravello-systems-for-500-million/",
+  "source_name": "VentureBeat"
  },
  {
   "date": "2016-03-01",
@@ -1734,7 +2140,9 @@
   "acquirer": "BlackBerry",
   "price": null,
   "edition": "StrictlyVC: February 25, 2016",
-  "url": "https://strictlyvc.com/2016/03/01/strictlyvc-february-25-2016/"
+  "url": "https://strictlyvc.com/2016/03/01/strictlyvc-february-25-2016/",
+  "source_url": "http://www.wsj.com/article_email/blackberry-buys-u-k-cyber-security-consulting-business-1456308001-lMyQjAxMTI2MjIzNDMyMTQwWj",
+  "source_name": "WSJ"
  },
  {
   "date": "2016-03-01",
@@ -1743,7 +2151,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: February 25, 2016",
-  "url": "https://strictlyvc.com/2016/03/01/strictlyvc-february-25-2016/"
+  "url": "https://strictlyvc.com/2016/03/01/strictlyvc-february-25-2016/",
+  "source_url": "http://techcrunch.com/2016/02/24/microsoft-is-buying-mobile-cross-platform-development-company-xamarin/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-02-18",
@@ -1752,7 +2162,9 @@
   "acquirer": "YouTube",
   "price": null,
   "edition": "StrictlyVC: February 16, 2016",
-  "url": "https://strictlyvc.com/2016/02/18/strictlyvc-february-16-2016/"
+  "url": "https://strictlyvc.com/2016/02/18/strictlyvc-february-16-2016/",
+  "source_url": "http://techcrunch.com/2016/02/12/youtube-acquires-bandpage",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-02-11",
@@ -1761,7 +2173,9 @@
   "acquirer": "Pocket Games",
   "price": 3500000,
   "edition": "StrictlyVC: February 11, 2016",
-  "url": "https://strictlyvc.com/2016/02/11/strictlyvc-february-11-2016/"
+  "url": "https://strictlyvc.com/2016/02/11/strictlyvc-february-11-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-02-11",
@@ -1770,16 +2184,20 @@
   "acquirer": "Time Inc",
   "price": null,
   "edition": "StrictlyVC: February 11, 2016",
-  "url": "https://strictlyvc.com/2016/02/11/strictlyvc-february-11-2016/"
+  "url": "https://strictlyvc.com/2016/02/11/strictlyvc-february-11-2016/",
+  "source_url": "http://techcrunch.com/2016/02/11/time-inc-acquires-viant-owner-of-myspace-and-a-vast-ad-tech-network/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-02-05",
-  "company": "London-based SwiftKey",
+  "company": "SwiftKey",
   "type": "Acquisition",
   "acquirer": "Microsoft",
   "price": 250000000,
   "edition": "StrictlyVC: February 3, 2016",
-  "url": "https://strictlyvc.com/2016/02/05/strictlyvc-february-3-2016/"
+  "url": "https://strictlyvc.com/2016/02/05/strictlyvc-february-3-2016/",
+  "source_url": "http://techcrunch.com/2016/02/02/microsoft-is-acquiring-londons-ai-driven-swiftkey-for-250m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-02-03",
@@ -1788,16 +2206,9 @@
   "acquirer": "FireEye",
   "price": null,
   "edition": "StrictlyVC: February 2, 2016",
-  "url": "https://strictlyvc.com/2016/02/03/strictlyvc-february-2-2016/"
- },
- {
-  "date": "2016-01-31",
-  "company": "Facebook",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": 85000000,
-  "edition": "StrictlyVC: January 29, 2016",
-  "url": "https://strictlyvc.com/2016/01/31/strictlyvc-january-29-2016/"
+  "url": "https://strictlyvc.com/2016/02/03/strictlyvc-february-2-2016/",
+  "source_url": "http://www.pcworld.com/article/3028963/fireeye-acquires-invotas-for-faster-incident-response.html",
+  "source_name": "pcworld.com"
  },
  {
   "date": "2016-01-25",
@@ -1806,7 +2217,9 @@
   "acquirer": "AOL",
   "price": null,
   "edition": "StrictlyVC: January 25, 2016",
-  "url": "https://strictlyvc.com/2016/01/25/strictlyvc-january-25-2016/"
+  "url": "https://strictlyvc.com/2016/01/25/strictlyvc-january-25-2016/",
+  "source_url": "http://techcrunch.com/2016/01/25/one-by-aol-publishers/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2016-01-11",
@@ -1815,7 +2228,9 @@
   "acquirer": "Baxalta",
   "price": 31000000000,
   "edition": "StrictlyVC: January 11, 2016",
-  "url": "https://strictlyvc.com/2016/01/11/strictlyvc-january-11-2016/"
+  "url": "https://strictlyvc.com/2016/01/11/strictlyvc-january-11-2016/",
+  "source_url": "http://www.nytimes.com/2016/01/12/business/dealbook/drug-makers-shire-and-baxalta-agree-to-a-31-billion-union.html",
+  "source_name": "NYT"
  },
  {
   "date": "2016-01-08",
@@ -1824,7 +2239,9 @@
   "acquirer": "Apple",
   "price": null,
   "edition": "StrictlyVC: January 8, 2016",
-  "url": "https://strictlyvc.com/2016/01/08/strictlyvc-january-8-2016/"
+  "url": "https://strictlyvc.com/2016/01/08/strictlyvc-january-8-2016/",
+  "source_url": "http://www.wsj.com/article_email/apple-buys-artificial-intelligence-startup-emotient-1452188715-lMyQjAxMTE2ODA0NzkwODc2Wj",
+  "source_name": "WSJ"
  },
  {
   "date": "2016-01-07",
@@ -1833,7 +2250,9 @@
   "acquirer": "Oracle",
   "price": null,
   "edition": "StrictlyVC: January 6, 2016",
-  "url": "https://strictlyvc.com/2016/01/07/strictlyvc-january-6-2016/"
+  "url": "https://strictlyvc.com/2016/01/07/strictlyvc-january-6-2016/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2016-01-04",
@@ -1842,7 +2261,9 @@
   "acquirer": "Alibaba-backed Paytm",
   "price": 8000000,
   "edition": "StrictlyVC: January 4, 2016",
-  "url": "https://strictlyvc.com/2016/01/04/strictlyvc-january-4-2016/"
+  "url": "https://strictlyvc.com/2016/01/04/strictlyvc-january-4-2016/",
+  "source_url": "http://thetechportal.in/2016/01/04/paytm-buys-shifu-for-8-million-to-better-understand-consumer-behaviour-on-its-platforms/",
+  "source_name": "thetechportal.in"
  },
  {
   "date": "2015-12-24",
@@ -1851,7 +2272,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: December 22, 2015",
-  "url": "https://strictlyvc.com/2015/12/24/strictlyvc-december-22-2015/"
+  "url": "https://strictlyvc.com/2015/12/24/strictlyvc-december-22-2015/",
+  "source_url": "http://fortune.com/2015/12/21/microsoft-buys-ray-ozzie-talko/",
+  "source_name": "fortune.com"
  },
  {
   "date": "2015-12-17",
@@ -1860,7 +2283,9 @@
   "acquirer": null,
   "price": 214000000,
   "edition": "New Relic&#8217;s CEO on the Joys of Not Being a &#8220;Unicorn&#8221;",
-  "url": "https://strictlyvc.com/2015/12/17/new-relics-ceo-on-the-joys-of-not-being-a-unicorn/"
+  "url": "https://strictlyvc.com/2015/12/17/new-relics-ceo-on-the-joys-of-not-being-a-unicorn/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-12-16",
@@ -1869,7 +2294,9 @@
   "acquirer": "Salesforce",
   "price": null,
   "edition": "December 15, 2015",
-  "url": "https://strictlyvc.com/2015/12/16/december-15-2015/"
+  "url": "https://strictlyvc.com/2015/12/16/december-15-2015/",
+  "source_url": "http://techcrunch.com/2015/12/14/salesforce-has-acquired-an-ai-startup-called-minhash-to-build-out-its-marketing-analytics/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-12-11",
@@ -1878,7 +2305,20 @@
   "acquirer": "DuPont",
   "price": null,
   "edition": "StrictlyVC: December 11, 2015",
-  "url": "https://strictlyvc.com/2015/12/11/strictlyvc-december-11-2015/"
+  "url": "https://strictlyvc.com/2015/12/11/strictlyvc-december-11-2015/",
+  "source_url": "http://pevc.dowjones.com/Article?an=DJFVW00120151211ebcbawwq1&amp;cid=32135007&amp;ctype=ts&amp;ReturnUrl=http%3a%2f%2fpevc.dowjones.com%2fArticle%3fan%3dDJFVW00120151211ebcbawwq1%26cid%3d32135007%26ctype%3dts",
+  "source_name": "pevc.dowjones.com"
+ },
+ {
+  "date": "2015-12-07",
+  "company": "Teforia",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: December 4, 2015",
+  "url": "https://strictlyvc.com/2015/12/07/strictlyvc-december-4-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-11-21",
@@ -1887,7 +2327,9 @@
   "acquirer": null,
   "price": 400000000,
   "edition": "StrictlyVC: November 19, 2015",
-  "url": "https://strictlyvc.com/2015/11/21/strictlyvc-november-19-2015/"
+  "url": "https://strictlyvc.com/2015/11/21/strictlyvc-november-19-2015/",
+  "source_url": "http://techcrunch.com/2015/11/18/match-prices-its-ipo-at-12-per-share/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-11-17",
@@ -1896,7 +2338,9 @@
   "acquirer": "International",
   "price": 12200000000,
   "edition": "StrictlyVC: November 16, 2015",
-  "url": "https://strictlyvc.com/2015/11/17/strictlyvc-november-16-2015/"
+  "url": "https://strictlyvc.com/2015/11/17/strictlyvc-november-16-2015/",
+  "source_url": "http://www.businessinsider.com/marriott-acquires-starwood-worlds-largest-hotel-company-2015-11",
+  "source_name": "Business Insider"
  },
  {
   "date": "2015-11-12",
@@ -1905,7 +2349,9 @@
   "acquirer": "Blue Coat Systems",
   "price": null,
   "edition": "StrictlyVC: November 10, 2010",
-  "url": "https://strictlyvc.com/2015/11/12/strictlyvc-november-10-2010/"
+  "url": "https://strictlyvc.com/2015/11/12/strictlyvc-november-10-2010/",
+  "source_url": "http://venturebeat.com/2015/11/07/source-blue-coat-is-buying-cloud-security-startup-elastica-for-more-than-300m/",
+  "source_name": "VentureBeat"
  },
  {
   "date": "2015-11-12",
@@ -1914,7 +2360,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: November 11, 2015",
-  "url": "https://strictlyvc.com/2015/11/12/strictlyvc-november-11-2015/"
+  "url": "https://strictlyvc.com/2015/11/12/strictlyvc-november-11-2015/",
+  "source_url": "http://www.informationweek.com/mobile/mobile-applications/google-acquires-photo-video-editing-specialist-fly-labs/d/d-id/1323054",
+  "source_name": "informationweek.com"
  },
  {
   "date": "2015-11-09",
@@ -1923,7 +2371,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: November 9, 2015",
-  "url": "https://strictlyvc.com/2015/11/09/strictlyvc-november-9-2015/"
+  "url": "https://strictlyvc.com/2015/11/09/strictlyvc-november-9-2015/",
+  "source_url": "https://www.crunchbase.com/organization/secure-islands-technologies",
+  "source_name": "crunchbase.com"
  },
  {
   "date": "2015-11-03",
@@ -1932,7 +2382,9 @@
   "acquirer": "Sprinklr",
   "price": null,
   "edition": "StrictlyVC: November 2, 2015",
-  "url": "https://strictlyvc.com/2015/11/03/strictlyvc-november-2-2015/"
+  "url": "https://strictlyvc.com/2015/11/03/strictlyvc-november-2-2015/",
+  "source_url": "http://techcrunch.com/2015/11/02/sprinklr-acquires-booshaka/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-11-01",
@@ -1941,7 +2393,9 @@
   "acquirer": "Porch.com",
   "price": null,
   "edition": "StrictlyVC: October 30, 2015",
-  "url": "https://strictlyvc.com/2015/11/01/strictlyvc-october-30-2015/"
+  "url": "https://strictlyvc.com/2015/11/01/strictlyvc-october-30-2015/",
+  "source_url": "http://techcrunch.com/2015/10/29/porch-acquires-mobile-expert-network-fountain/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-10-28",
@@ -1950,7 +2404,9 @@
   "acquirer": "Cisco",
   "price": 452500000,
   "edition": "StrictlyVC: October 27, 2015",
-  "url": "https://strictlyvc.com/2015/10/28/strictlyvc-october-27-2015/"
+  "url": "https://strictlyvc.com/2015/10/28/strictlyvc-october-27-2015/",
+  "source_url": "http://techcrunch.com/2015/10/27/cisco-beefs-up-security-buys-lancope-for-453m/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-10-23",
@@ -1959,7 +2415,9 @@
   "acquirer": "Ruckus Wireless",
   "price": null,
   "edition": "StrictlyVC: October 22, 2015",
-  "url": "https://strictlyvc.com/2015/10/23/strictlyvc-october-22-2015/"
+  "url": "https://strictlyvc.com/2015/10/23/strictlyvc-october-22-2015/",
+  "source_url": "http://www.wirelessweek.com/news/2015/10/ruckus-acquires-cloudpath-secure-wi-fi-onboarding",
+  "source_name": "wirelessweek.com"
  },
  {
   "date": "2015-10-21",
@@ -1968,7 +2426,9 @@
   "acquirer": "Time Inc",
   "price": 20000000,
   "edition": "StrictlyVC: October 19, 2015",
-  "url": "https://strictlyvc.com/2015/10/21/strictlyvc-october-19-2015/"
+  "url": "https://strictlyvc.com/2015/10/21/strictlyvc-october-19-2015/",
+  "source_url": "http://www.wsj.com/articles/time-inc-buys-hello-giggles-1445212981",
+  "source_name": "WSJ"
  },
  {
   "date": "2015-10-19",
@@ -1977,16 +2437,9 @@
   "acquirer": "Alibaba",
   "price": 3500000000,
   "edition": "StrictlyVC: October 16, 2015",
-  "url": "https://strictlyvc.com/2015/10/19/strictlyvc-october-16-2015/"
- },
- {
-  "date": "2015-10-15",
-  "company": "French",
-  "type": "Acquisition",
-  "acquirer": "Zendesk",
-  "price": 45000000,
-  "edition": "StrictlyVC: October 14, 2015",
-  "url": "https://strictlyvc.com/2015/10/15/strictlyvc-october-14-2015/"
+  "url": "https://strictlyvc.com/2015/10/19/strictlyvc-october-16-2015/",
+  "source_url": "http://techcrunch.com/2015/10/16/alibaba-to-buy-youku-tudou-in-deal-valuing-chinas-youtube-at-4-2b/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-10-15",
@@ -1995,7 +2448,9 @@
   "acquirer": "Google",
   "price": 1180000,
   "edition": "StrictlyVC: October 14, 2015",
-  "url": "https://strictlyvc.com/2015/10/15/strictlyvc-october-14-2015/"
+  "url": "https://strictlyvc.com/2015/10/15/strictlyvc-october-14-2015/",
+  "source_url": "http://techcrunch.com/2015/10/13/google-acquires-divshot-to-join-its-firebase-team-will-shut-down-in-december/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-10-06",
@@ -2004,7 +2459,9 @@
   "acquirer": "Apple",
   "price": null,
   "edition": "StrictlyVC: October 6, 2015",
-  "url": "https://strictlyvc.com/2015/10/06/strictlyvc-october-6-2015/"
+  "url": "https://strictlyvc.com/2015/10/06/strictlyvc-october-6-2015/",
+  "source_url": "http://www.bloomberg.com/news/articles/2015-10-05/apple-acquires-startup-developing-advanced-ai-for-phones",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2015-09-26",
@@ -2013,7 +2470,9 @@
   "acquirer": "FanDuel",
   "price": 25000000,
   "edition": "StrictlyVC: September 25, 2015",
-  "url": "https://strictlyvc.com/2015/09/26/strictlyvc-september-25-2015/"
+  "url": "https://strictlyvc.com/2015/09/26/strictlyvc-september-25-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-09-22",
@@ -2022,7 +2481,9 @@
   "acquirer": "First Data Corporation",
   "price": 6500000,
   "edition": "StrictlyVC: September 21, 2015",
-  "url": "https://strictlyvc.com/2015/09/22/strictlyvc-september-21-2015/"
+  "url": "https://strictlyvc.com/2015/09/22/strictlyvc-september-21-2015/",
+  "source_url": "http://www.bloomberg.com/news/articles/2015-09-09/first-data-said-to-seek-2-5-billion-in-year-s-biggest-u-s-ipo",
+  "source_name": "Bloomberg"
  },
  {
   "date": "2015-09-16",
@@ -2031,7 +2492,9 @@
   "acquirer": "Accenture",
   "price": 60000000,
   "edition": "StrictlyVC: September 16, 2015",
-  "url": "https://strictlyvc.com/2015/09/16/strictlyvc-september-16-2015/"
+  "url": "https://strictlyvc.com/2015/09/16/strictlyvc-september-16-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-09-16",
@@ -2040,7 +2503,9 @@
   "acquirer": "Snapchat",
   "price": null,
   "edition": "StrictlyVC: September 16, 2015",
-  "url": "https://strictlyvc.com/2015/09/16/strictlyvc-september-16-2015/"
+  "url": "https://strictlyvc.com/2015/09/16/strictlyvc-september-16-2015/",
+  "source_url": "http://techcrunch.com/2014/06/04/looksery-launches-on-kickstarter-with-an-app-that-makes-you-look-better-or-just-funnier-on-video-chat/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-09-15",
@@ -2049,7 +2514,9 @@
   "acquirer": "Qualcomm",
   "price": null,
   "edition": "StrictlyVC: September 15, 2015",
-  "url": "https://strictlyvc.com/2015/09/15/strictlyvc-september-15-2015/"
+  "url": "https://strictlyvc.com/2015/09/15/strictlyvc-september-15-2015/",
+  "source_url": "http://www.xconomy.com/san-diego/2015/09/14/qualcomm-buys-capsule-to-unite-health-data-across-hospital-home/",
+  "source_name": "xconomy.com"
  },
  {
   "date": "2015-09-04",
@@ -2058,7 +2525,9 @@
   "acquirer": "AOL",
   "price": 238000000,
   "edition": "StrictlyVC: September 3, 2015",
-  "url": "https://strictlyvc.com/2015/09/04/strictlyvc-september-3-2015/"
+  "url": "https://strictlyvc.com/2015/09/04/strictlyvc-september-3-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-09-04",
@@ -2067,7 +2536,9 @@
   "acquirer": "Amazon",
   "price": 500000000,
   "edition": "StrictlyVC: September 4, 2015",
-  "url": "https://strictlyvc.com/2015/09/04/strictlyvc-september-4-2015/"
+  "url": "https://strictlyvc.com/2015/09/04/strictlyvc-september-4-2015/",
+  "source_url": "http://techcrunch.com/2015/09/03/amazon-acquires-elemental-technologies-for-a-reported-500-million-in-cash",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-09-04",
@@ -2076,16 +2547,9 @@
   "acquirer": "Microsoft",
   "price": null,
   "edition": "StrictlyVC: September 4, 2015",
-  "url": "https://strictlyvc.com/2015/09/04/strictlyvc-september-4-2015/"
- },
- {
-  "date": "2015-08-06",
-  "company": "Reddit",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: August 6, 2015",
-  "url": "https://strictlyvc.com/2015/08/06/strictlyvc-august-6-2015/"
+  "url": "https://strictlyvc.com/2015/09/04/strictlyvc-september-4-2015/",
+  "source_url": "http://techcrunch.com/2015/09/03/microsoft-acquires-volometrix/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-08-04",
@@ -2094,16 +2558,9 @@
   "acquirer": "Battery Ventures",
   "price": 100000000,
   "edition": "StrictlyVC: August 3, 2015",
-  "url": "https://strictlyvc.com/2015/08/04/strictlyvc-august-3-2015/"
- },
- {
-  "date": "2015-08-04",
-  "company": "Cambridge",
-  "type": "Acquisition",
-  "acquirer": "VSCO",
-  "price": null,
-  "edition": "StrictlyVC: August 4, 2015",
-  "url": "https://strictlyvc.com/2015/08/04/strictlyvc-august-4-2015/"
+  "url": "https://strictlyvc.com/2015/08/04/strictlyvc-august-3-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-07-25",
@@ -2112,7 +2569,9 @@
   "acquirer": "IBM",
   "price": null,
   "edition": "StrictlyVC: July 24, 2015",
-  "url": "https://strictlyvc.com/2015/07/25/strictlyvc-july-24-2015/"
+  "url": "https://strictlyvc.com/2015/07/25/strictlyvc-july-24-2015/",
+  "source_url": "http://techcrunch.com/2015/07/23/ibm-acquires-database-as-a-service-startup-compose/#.eov3ne:zoYS",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-07-23",
@@ -2121,7 +2580,9 @@
   "acquirer": "Blackberry",
   "price": null,
   "edition": "StrictlyVC: July 22, 2015",
-  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-22-2015/"
+  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-22-2015/",
+  "source_url": "http://venturebeat.com/2015/07/22/blackberry-acquires-athoc-to-help-improve-crisis-communications-in-enterprises/",
+  "source_name": "VentureBeat"
  },
  {
   "date": "2015-07-23",
@@ -2130,7 +2591,9 @@
   "acquirer": "Accenture",
   "price": null,
   "edition": "StrictlyVC: July 23, 2015",
-  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-23-2015/"
+  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-23-2015/",
+  "source_url": "http://techcrunch.com/2015/07/22/chaotic-moon-sells-to-accenture/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-07-23",
@@ -2139,7 +2602,9 @@
   "acquirer": "Dropbox",
   "price": null,
   "edition": "StrictlyVC: July 23, 2015",
-  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-23-2015/"
+  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-23-2015/",
+  "source_url": "http://techcrunch.com/2015/07/22/dropbox-acquires-clementine-an-enterprise-communication-service/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-07-23",
@@ -2148,7 +2613,9 @@
   "acquirer": "Zillow",
   "price": null,
   "edition": "StrictlyVC: July 23, 2015",
-  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-23-2015/"
+  "url": "https://strictlyvc.com/2015/07/23/strictlyvc-july-23-2015/",
+  "source_url": "http://techcrunch.com/2015/07/22/zillow-acquires-dotloop-an-e-signing-service-for-real-estate-agents/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-07-10",
@@ -2157,7 +2624,9 @@
   "acquirer": "Zealot Networks",
   "price": 100000000,
   "edition": "StrictlyVC: July 9, 2015",
-  "url": "https://strictlyvc.com/2015/07/10/strictlyvc-july-9-2015/"
+  "url": "https://strictlyvc.com/2015/07/10/strictlyvc-july-9-2015/",
+  "source_url": "http://techcrunch.com/2015/07/09/zealot-networks-buys-viralnovas-clickbait-for-100-million/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-07-10",
@@ -2166,16 +2635,9 @@
   "acquirer": "Avast Software",
   "price": null,
   "edition": "StrictlyVC: July 9, 2015",
-  "url": "https://strictlyvc.com/2015/07/10/strictlyvc-july-9-2015/"
- },
- {
-  "date": "2015-07-08",
-  "company": "Oakland",
-  "type": "Acquisition",
-  "acquirer": "Capital One",
-  "price": null,
-  "edition": "StrictlyVC: July 8, 2015",
-  "url": "https://strictlyvc.com/2015/07/08/strictlyvc-july-8-2015/"
+  "url": "https://strictlyvc.com/2015/07/10/strictlyvc-july-9-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-07-06",
@@ -2184,7 +2646,20 @@
   "acquirer": "Allergan",
   "price": null,
   "edition": "StrictlyVC: July 6, 2015",
-  "url": "https://strictlyvc.com/2015/07/06/strictlyvc-july-6-2015/"
+  "url": "https://strictlyvc.com/2015/07/06/strictlyvc-july-6-2015/",
+  "source_url": null,
+  "source_name": null
+ },
+ {
+  "date": "2015-06-24",
+  "company": "Circa",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: June 24, 2015",
+  "url": "https://strictlyvc.com/2015/06/24/strictlyvc-june-24-2015/",
+  "source_url": "https://medium.com/circa/farewell-to-circa-news-7d002150f74b",
+  "source_name": "medium.com"
  },
  {
   "date": "2015-06-16",
@@ -2193,7 +2668,9 @@
   "acquirer": "Zynga",
   "price": null,
   "edition": "StrictlyVC: June 16, 2015",
-  "url": "https://strictlyvc.com/2015/06/16/strictlyvc-june-16-2015/"
+  "url": "https://strictlyvc.com/2015/06/16/strictlyvc-june-16-2015/",
+  "source_url": "http://www.nytimes.com/2015/04/09/technology/mark-pincus-zyngas-founder-returns-as-ceo.html?_r=0",
+  "source_name": "NYT"
  },
  {
   "date": "2015-06-04",
@@ -2202,7 +2679,9 @@
   "acquirer": "Cisco",
   "price": null,
   "edition": "StrictlyVC: June 4, 2015",
-  "url": "https://strictlyvc.com/2015/06/04/strictlyvc-june-4-2015/"
+  "url": "https://strictlyvc.com/2015/06/04/strictlyvc-june-4-2015/",
+  "source_url": "http://www.eweek.com/cloud/cisco-buys-piston-cloud-computing-for-intercloud-initiative.html",
+  "source_name": "eweek.com"
  },
  {
   "date": "2015-06-04",
@@ -2211,7 +2690,9 @@
   "acquirer": "IBM",
   "price": 26600000,
   "edition": "StrictlyVC: June 4, 2015",
-  "url": "https://strictlyvc.com/2015/06/04/strictlyvc-june-4-2015/"
+  "url": "https://strictlyvc.com/2015/06/04/strictlyvc-june-4-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-05-29",
@@ -2220,7 +2701,9 @@
   "acquirer": "Apple",
   "price": null,
   "edition": "StrictlyVC: May 29, 2015",
-  "url": "https://strictlyvc.com/2015/05/29/strictlyvc-may-29-2015/"
+  "url": "https://strictlyvc.com/2015/05/29/strictlyvc-may-29-2015/",
+  "source_url": "http://techcrunch.com/2015/05/28/apple-metaio/#.qlg4nu:peEL",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-05-29",
@@ -2229,7 +2712,9 @@
   "acquirer": "Hewlett-Packard",
   "price": null,
   "edition": "StrictlyVC: May 29, 2015",
-  "url": "https://strictlyvc.com/2015/05/29/strictlyvc-may-29-2015/"
+  "url": "https://strictlyvc.com/2015/05/29/strictlyvc-may-29-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-05-28",
@@ -2238,16 +2723,20 @@
   "acquirer": "CA Technologies",
   "price": 480000000,
   "edition": "StrictlyVC: May 28, 2015",
-  "url": "https://strictlyvc.com/2015/05/28/strictlyvc-may-28-2015/"
+  "url": "https://strictlyvc.com/2015/05/28/strictlyvc-may-28-2015/",
+  "source_url": "http://www.eweek.com/it-management/ca-to-acquire-rally-software-in-480m-agile-devops-play.html",
+  "source_name": "eweek.com"
  },
  {
   "date": "2015-05-27",
-  "company": "Missouri-based FanSided",
+  "company": "FanSided",
   "type": "Acquisition",
   "acquirer": "Time Inc",
   "price": null,
   "edition": "StrictlyVC: May 27, 2015",
-  "url": "https://strictlyvc.com/2015/05/27/strictlyvc-may-27-2015/"
+  "url": "https://strictlyvc.com/2015/05/27/strictlyvc-may-27-2015/",
+  "source_url": "http://www.timeinc.com/about/news/press-release/time-inc-acquires-fansided-a-sports-entertainment-and-lifestyle-digital-network/",
+  "source_name": "timeinc.com"
  },
  {
   "date": "2015-05-19",
@@ -2256,7 +2745,9 @@
   "acquirer": "Verizon",
   "price": null,
   "edition": "AOL President Luke Beatty on What Happens Now",
-  "url": "https://strictlyvc.com/2015/05/19/aol-president-luke-beatty-on-what-happens-now/"
+  "url": "https://strictlyvc.com/2015/05/19/aol-president-luke-beatty-on-what-happens-now/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-05-08",
@@ -2265,7 +2756,9 @@
   "acquirer": "Just Eat",
   "price": 687000000,
   "edition": "StrictlyVC: May 8, 2015",
-  "url": "https://strictlyvc.com/2015/05/08/strictlyvc-may-8-2015/"
+  "url": "https://strictlyvc.com/2015/05/08/strictlyvc-may-8-2015/",
+  "source_url": "http://techcrunch.com/2015/05/08/just-eat-menulog",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-04-30",
@@ -2274,7 +2767,9 @@
   "acquirer": "Amazon",
   "price": null,
   "edition": "StrictlyVC: April 30, 2015",
-  "url": "https://strictlyvc.com/2015/04/30/strictlyvc-april-30-2015/"
+  "url": "https://strictlyvc.com/2015/04/30/strictlyvc-april-30-2015/",
+  "source_url": "http://venturebeat.com/2015/04/29/amazon-pays-20m-50m-for-clusterk-the-startup-that-can-run-apps-on-aws-at-10-of-the-regular-price/",
+  "source_name": "VentureBeat"
  },
  {
   "date": "2015-04-27",
@@ -2283,7 +2778,9 @@
   "acquirer": "Raytheon",
   "price": 1900000000,
   "edition": "StrictlyVC: April 27, 2015",
-  "url": "https://strictlyvc.com/2015/04/27/strictlyvc-april-27-2015/"
+  "url": "https://strictlyvc.com/2015/04/27/strictlyvc-april-27-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-04-08",
@@ -2292,7 +2789,9 @@
   "acquirer": "Singapore Telecommunications",
   "price": 810000000,
   "edition": "StrictlyVC: April 8, 2015",
-  "url": "https://strictlyvc.com/2015/04/08/strictlyvc-april-8-2015/"
+  "url": "https://strictlyvc.com/2015/04/08/strictlyvc-april-8-2015/",
+  "source_url": "http://www.wsj.com/article_email/singtel-to-buy-u-s-cybersecurity-firm-trustwave-for-810-million-1428448299-lMyQjAxMTE1MjA0NzMwNTcxWj",
+  "source_name": "WSJ"
  },
  {
   "date": "2015-03-24",
@@ -2301,7 +2800,9 @@
   "acquirer": "Accusoft",
   "price": null,
   "edition": "StrictlyVC: March 24, 2015",
-  "url": "https://strictlyvc.com/2015/03/24/strictlyvc-march-24-2015/"
+  "url": "https://strictlyvc.com/2015/03/24/strictlyvc-march-24-2015/",
+  "source_url": "http://techcrunch.com/2015/03/23/accusoft-acquires-document-sharing-platform-edocr-in-all-cash-deal/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2015-03-12",
@@ -2310,7 +2811,9 @@
   "acquirer": "Ola",
   "price": null,
   "edition": "StrictlyVC: March 12, 2015",
-  "url": "https://strictlyvc.com/2015/03/12/strictlyvc-march-12-2015/"
+  "url": "https://strictlyvc.com/2015/03/12/strictlyvc-march-12-2015/",
+  "source_url": "http://www.wsj.com/article_email/indias-cab-hailing-firm-ola-close-to-raising-400-million-1426152768-lMyQjAxMTE1MDEyMjMxODI1Wj",
+  "source_name": "WSJ"
  },
  {
   "date": "2015-03-10",
@@ -2319,16 +2822,9 @@
   "acquirer": "Twitter",
   "price": null,
   "edition": "StrictlyVC: March 10, 2015",
-  "url": "https://strictlyvc.com/2015/03/10/strictlyvc-march-10-2015/"
- },
- {
-  "date": "2015-03-03",
-  "company": "Workday",
-  "type": "IPO",
-  "acquirer": null,
-  "price": null,
-  "edition": "Ray Lane Under Oath",
-  "url": "https://strictlyvc.com/2015/03/03/ray-lane-under-oath/"
+  "url": "https://strictlyvc.com/2015/03/10/strictlyvc-march-10-2015/",
+  "source_url": "http://www.businessinsider.com/twitter-acquires-periscope-for-a-sizable-amount-2015-3",
+  "source_name": "Business Insider"
  },
  {
   "date": "2015-03-02",
@@ -2337,7 +2833,9 @@
   "acquirer": "Hewlett-Packard",
   "price": 3000000000,
   "edition": "StrictlyVC: March 2, 2015",
-  "url": "https://strictlyvc.com/2015/03/02/strictlyvc-march-2-2015/"
+  "url": "https://strictlyvc.com/2015/03/02/strictlyvc-march-2-2015/",
+  "source_url": "http://www.zdnet.com/article/hp-confirms-aruba-networks-purchase-eyes-bulked-up-networking-unit/",
+  "source_name": "zdnet.com"
  },
  {
   "date": "2015-02-19",
@@ -2346,7 +2844,9 @@
   "acquirer": "Samsung Electronics",
   "price": null,
   "edition": "StrictlyVC: February 19, 2015",
-  "url": "https://strictlyvc.com/2015/02/19/strictlyvc-february-19-2015/"
+  "url": "https://strictlyvc.com/2015/02/19/strictlyvc-february-19-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-02-13",
@@ -2355,7 +2855,9 @@
   "acquirer": "Expedia",
   "price": 1600000000,
   "edition": "StrictlyVC: February 12, 2015",
-  "url": "https://strictlyvc.com/2015/02/13/strictlyvc-february-12-2015/"
+  "url": "https://strictlyvc.com/2015/02/13/strictlyvc-february-12-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-02-06",
@@ -2364,16 +2866,9 @@
   "acquirer": "Marin Software",
   "price": 18750000,
   "edition": "StrictlyVC: February 6, 2015",
-  "url": "https://strictlyvc.com/2015/02/06/strictlyvc-february-6-2015/"
- },
- {
-  "date": "2015-02-04",
-  "company": "Third Rock Ventures",
-  "type": "IPO",
-  "acquirer": null,
-  "price": 8000000000,
-  "edition": "StrictlyVC: February 4, 2015",
-  "url": "https://strictlyvc.com/2015/02/04/strictlyvc-february-4-2015/"
+  "url": "https://strictlyvc.com/2015/02/06/strictlyvc-february-6-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-01-23",
@@ -2382,7 +2877,9 @@
   "acquirer": "Amazon",
   "price": null,
   "edition": "StrictlyVC: January 23, 2015",
-  "url": "https://strictlyvc.com/2015/01/23/strictlyvc-january-23-2015/"
+  "url": "https://strictlyvc.com/2015/01/23/strictlyvc-january-23-2015/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2015-01-07",
@@ -2391,7 +2888,9 @@
   "acquirer": null,
   "price": null,
   "edition": "Todd Chaffee of IVP: Uber &#8220;Wins This,&#8221; Could Be &#8220;Googlesque&#8221;",
-  "url": "https://strictlyvc.com/2015/01/07/todd-chaffee-ivp-uber-wins-googlesque/"
+  "url": "https://strictlyvc.com/2015/01/07/todd-chaffee-ivp-uber-wins-googlesque/",
+  "source_url": "http://www.wired.com/2014/12/ondeck-ipo/",
+  "source_name": "Wired"
  },
  {
   "date": "2015-01-06",
@@ -2400,7 +2899,9 @@
   "acquirer": "Facebook",
   "price": null,
   "edition": "StrictlyVC: January 6, 2015",
-  "url": "https://strictlyvc.com/2015/01/06/strictlyvc-january-6-2015/"
+  "url": "https://strictlyvc.com/2015/01/06/strictlyvc-january-6-2015/",
+  "source_url": "https://gigaom.com/2015/01/05/facebook-acquires-speech-recognition-iot-startup-wit-ai/",
+  "source_name": "gigaom.com"
  },
  {
   "date": "2014-12-09",
@@ -2409,7 +2910,9 @@
   "acquirer": "IBM",
   "price": null,
   "edition": "Data Detectives Seek Up to $15 Million in Series B Funding",
-  "url": "https://strictlyvc.com/2014/12/09/data-detectives-seek-15-million-series-b-funding/"
+  "url": "https://strictlyvc.com/2014/12/09/data-detectives-seek-15-million-series-b-funding/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-12-05",
@@ -2418,16 +2921,9 @@
   "acquirer": "Connexity Inc",
   "price": null,
   "edition": "StrictlyVC: December 5, 2014",
-  "url": "https://strictlyvc.com/2014/12/05/strictlyvc-december-5-2014/"
- },
- {
-  "date": "2014-11-06",
-  "company": "Supernova",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: November 6, 2014",
-  "url": "https://strictlyvc.com/2014/11/06/strictlyvc-november-6-2014/"
+  "url": "https://strictlyvc.com/2014/12/05/strictlyvc-december-5-2014/",
+  "source_url": "http://techcrunch.com/2014/12/04/connexity-become-shopzilla",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2014-10-22",
@@ -2436,34 +2932,9 @@
   "acquirer": null,
   "price": 75000000,
   "edition": "StrictlyVC: October 22, 2014",
-  "url": "https://strictlyvc.com/2014/10/22/strictlyvc-october-22-2014/"
- },
- {
-  "date": "2014-10-10",
-  "company": "Tel Aviv",
-  "type": "Acquisition",
-  "acquirer": "Microsoft",
-  "price": 200000000,
-  "edition": "StrictlyVC: October 10, 2014",
-  "url": "https://strictlyvc.com/2014/10/10/strictlyvc-october-10-2014/"
- },
- {
-  "date": "2014-10-03",
-  "company": "Korea",
-  "type": "Acquisition",
-  "acquirer": "Kakao",
-  "price": null,
-  "edition": "Made in Japan: Osuke Honda on the Evolving Startup Scene",
-  "url": "https://strictlyvc.com/2014/10/03/made-japan-osuke-honda-evolving-startup-scene/"
- },
- {
-  "date": "2014-09-25",
-  "company": "Adobe",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: September 25, 2014",
-  "url": "https://strictlyvc.com/2014/09/25/strictlyvc-september-25-2014/"
+  "url": "https://strictlyvc.com/2014/10/22/strictlyvc-october-22-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-09-18",
@@ -2472,7 +2943,31 @@
   "acquirer": "Skype",
   "price": 68000000,
   "edition": "StrictlyVC: September 18, 2014",
-  "url": "https://strictlyvc.com/2014/09/18/strictlyvc-september-18-2014/"
+  "url": "https://strictlyvc.com/2014/09/18/strictlyvc-september-18-2014/",
+  "source_url": "http://techcrunch.com/2011/08/23/what-skype-really-paid-for-groupme/",
+  "source_name": "TechCrunch"
+ },
+ {
+  "date": "2014-09-18",
+  "company": "Chorus",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: September 18, 2014",
+  "url": "https://strictlyvc.com/2014/09/18/strictlyvc-september-18-2014/",
+  "source_url": null,
+  "source_name": null
+ },
+ {
+  "date": "2014-09-18",
+  "company": "TechShop",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: September 18, 2014",
+  "url": "https://strictlyvc.com/2014/09/18/strictlyvc-september-18-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-09-16",
@@ -2481,7 +2976,9 @@
   "acquirer": "Apax",
   "price": 1190000000,
   "edition": "StrictlyVC: September 16, 2014",
-  "url": "https://strictlyvc.com/2014/09/16/strictlyvc-september-16-2014/"
+  "url": "https://strictlyvc.com/2014/09/16/strictlyvc-september-16-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-09-09",
@@ -2490,7 +2987,9 @@
   "acquirer": "Rakuten",
   "price": 1000000000,
   "edition": "StrictlyVC: September 9, 2014",
-  "url": "https://strictlyvc.com/2014/09/09/strictlyvc-september-9-2014/"
+  "url": "https://strictlyvc.com/2014/09/09/strictlyvc-september-9-2014/",
+  "source_url": "http://techcrunch.com/2014/09/09/rakuten-buys-ebates-for-1-billion/",
+  "source_name": "TechCrunch"
  },
  {
   "date": "2014-09-08",
@@ -2499,7 +2998,9 @@
   "acquirer": null,
   "price": null,
   "edition": "Investing Internationally? You Might &#8216;Friend&#8217; Nazar Yasin",
-  "url": "https://strictlyvc.com/2014/09/08/investing-internationally-might-friend-nazar-yasin/"
+  "url": "https://strictlyvc.com/2014/09/08/investing-internationally-might-friend-nazar-yasin/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-09-03",
@@ -2508,7 +3009,9 @@
   "acquirer": "Salesforce",
   "price": 2500000000,
   "edition": "StrictlyVC: September 3, 2014",
-  "url": "https://strictlyvc.com/2014/09/03/strictlyvc-september-3-2014/"
+  "url": "https://strictlyvc.com/2014/09/03/strictlyvc-september-3-2014/",
+  "source_url": "http://www.forbes.com/sites/bruceupbin/2013/06/04/salesforce-to-buy-exacttarget-for-2-5-billion/",
+  "source_name": "Forbes"
  },
  {
   "date": "2014-08-25",
@@ -2517,7 +3020,9 @@
   "acquirer": "Google",
   "price": null,
   "edition": "StrictlyVC: August 25, 2014",
-  "url": "https://strictlyvc.com/2014/08/25/strictlyvc-august-25-2014/"
+  "url": "https://strictlyvc.com/2014/08/25/strictlyvc-august-25-2014/",
+  "source_url": "http://geckodesigninc.com/",
+  "source_name": "geckodesigninc.com"
  },
  {
   "date": "2014-08-20",
@@ -2526,7 +3031,9 @@
   "acquirer": null,
   "price": 75000000,
   "edition": "Is Keith Teare Crazy, or Crazy Like a Fox?",
-  "url": "https://strictlyvc.com/2014/08/20/keith-teare-crazy-crazy-like-fox/"
+  "url": "https://strictlyvc.com/2014/08/20/keith-teare-crazy-crazy-like-fox/",
+  "source_url": "http://investing.businessweek.com/research/stocks/people/person.asp?personId=10838749&amp;ticker=AMCC",
+  "source_name": "investing.businessweek.com"
  },
  {
   "date": "2014-07-28",
@@ -2535,7 +3042,9 @@
   "acquirer": "Zillow",
   "price": 3500000000,
   "edition": "StrictlyVC: July 28, 2014",
-  "url": "https://strictlyvc.com/2014/07/28/strictlyvc-july-28-2014/"
+  "url": "https://strictlyvc.com/2014/07/28/strictlyvc-july-28-2014/",
+  "source_url": "http://zillow.mediaroom.com/2014-07-28-Zillow-Announces-Acquisition-of-Trulia-for-3-5-Billion-in-Stock",
+  "source_name": "zillow.mediaroom.com"
  },
  {
   "date": "2014-06-13",
@@ -2544,7 +3053,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: June 13, 2014",
-  "url": "https://strictlyvc.com/2014/06/13/strictlyvc-june-13-2014/"
+  "url": "https://strictlyvc.com/2014/06/13/strictlyvc-june-13-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-05-22",
@@ -2553,7 +3064,9 @@
   "acquirer": "India",
   "price": 300000000,
   "edition": "StrictlyVC: May 22, 2014",
-  "url": "https://strictlyvc.com/2014/05/22/strictlyvc-may-22-2014/"
+  "url": "https://strictlyvc.com/2014/05/22/strictlyvc-may-22-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-05-21",
@@ -2562,16 +3075,9 @@
   "acquirer": "Calysta Energy",
   "price": null,
   "edition": "StrictlyVC: May 21, 2014",
-  "url": "https://strictlyvc.com/2014/05/21/strictlyvc-may-21-2014/"
- },
- {
-  "date": "2014-04-21",
-  "company": "Loom",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": 1400000,
-  "edition": "StrictlyVC: April 21, 2014",
-  "url": "https://strictlyvc.com/2014/04/21/strictlyvc-april-21-2014/"
+  "url": "https://strictlyvc.com/2014/05/21/strictlyvc-may-21-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-04-10",
@@ -2580,7 +3086,9 @@
   "acquirer": "Battery Ventures",
   "price": null,
   "edition": "StrictlyVC: April 10, 2014",
-  "url": "https://strictlyvc.com/2014/04/10/strictlyvc-april-10-2014/"
+  "url": "https://strictlyvc.com/2014/04/10/strictlyvc-april-10-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-04-04",
@@ -2589,7 +3097,9 @@
   "acquirer": "Zynga",
   "price": null,
   "edition": "Orphaned Entrepreneurs",
-  "url": "https://strictlyvc.com/2014/04/04/orphaned-entrepreneurs/"
+  "url": "https://strictlyvc.com/2014/04/04/orphaned-entrepreneurs/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-03-31",
@@ -2598,7 +3108,9 @@
   "acquirer": "Intel",
   "price": null,
   "edition": "StrictlyVC: March 31, 2014",
-  "url": "https://strictlyvc.com/2014/03/31/strictlyvc-march-31-2014/"
+  "url": "https://strictlyvc.com/2014/03/31/strictlyvc-march-31-2014/",
+  "source_url": "http://www.sec.gov/Archives/edgar/data/1603334/000160333414000001/xslFormDX01/primary_doc.xml",
+  "source_name": "sec.gov"
  },
  {
   "date": "2014-03-27",
@@ -2607,7 +3119,20 @@
   "acquirer": "Lithium Technologies",
   "price": 200000000,
   "edition": "StrictlyVC: March 27, 2014",
-  "url": "https://strictlyvc.com/2014/03/27/strictlyvc-march-27-2014/"
+  "url": "https://strictlyvc.com/2014/03/27/strictlyvc-march-27-2014/",
+  "source_url": "http://tech.fortune.cnn.com/2014/03/26/klout-acquired-for-200-million-by-lithium-technologies/",
+  "source_name": "tech.fortune.cnn.com"
+ },
+ {
+  "date": "2014-03-25",
+  "company": "Paul Capital",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: March 25, 2014",
+  "url": "https://strictlyvc.com/2014/03/25/strictlyvc-march-25-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-03-17",
@@ -2616,7 +3141,9 @@
   "acquirer": "Rdio",
   "price": null,
   "edition": "StrictlyVC: March 17, 2014",
-  "url": "https://strictlyvc.com/2014/03/17/strictlyvc-march-17-2014/"
+  "url": "https://strictlyvc.com/2014/03/17/strictlyvc-march-17-2014/",
+  "source_url": "http://www.dealcurry.com/20140314-Rdio-Acquires-Music-Streaming-Service-Dhingana.htm",
+  "source_name": "dealcurry.com"
  },
  {
   "date": "2014-03-12",
@@ -2625,16 +3152,9 @@
   "acquirer": null,
   "price": 670000000,
   "edition": "Foreign Firms Rule the Roost in Israel, Says Local VC",
-  "url": "https://strictlyvc.com/2014/03/12/foreign-firms-rule-roost-israel-says-local-vc/"
- },
- {
-  "date": "2014-03-07",
-  "company": "Yahoo",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: March 7, 2014",
-  "url": "https://strictlyvc.com/2014/03/07/strictlyvc-march-7-2014/"
+  "url": "https://strictlyvc.com/2014/03/12/foreign-firms-rule-roost-israel-says-local-vc/",
+  "source_url": "http://www.cbinsights.com/blog/trends/israel-new-york-exit-comparison",
+  "source_name": "cbinsights.com"
  },
  {
   "date": "2014-02-24",
@@ -2643,7 +3163,9 @@
   "acquirer": "Facebook",
   "price": 19000000000,
   "edition": "StrictlyVC: February 24, 2014",
-  "url": "https://strictlyvc.com/2014/02/24/strictlyvc-february-24-2014/"
+  "url": "https://strictlyvc.com/2014/02/24/strictlyvc-february-24-2014/",
+  "source_url": "http://www.thedailybeast.com/articles/2014/02/22/whatsapp-experiences-massive-outage-days-after-facebook-acquisition-internet-blames-zuckerberg.html",
+  "source_name": "thedailybeast.com"
  },
  {
   "date": "2014-02-21",
@@ -2652,7 +3174,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: February 20, 2014",
-  "url": "https://strictlyvc.com/2014/02/21/strictlyvc-february-20-2014/"
+  "url": "https://strictlyvc.com/2014/02/21/strictlyvc-february-20-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-02-11",
@@ -2661,7 +3185,9 @@
   "acquirer": "Open Road Media",
   "price": null,
   "edition": "StrictlyVC: February 11, 2014",
-  "url": "https://strictlyvc.com/2014/02/11/strictlyvc-february-11-2014/"
+  "url": "https://strictlyvc.com/2014/02/11/strictlyvc-february-11-2014/",
+  "source_url": "http://gigaom.com/2014/02/10/open-road-acquires-15-year-old-ebook-publisher-e-reads/",
+  "source_name": "gigaom.com"
  },
  {
   "date": "2014-01-31",
@@ -2670,7 +3196,9 @@
   "acquirer": "Zynga",
   "price": 527000000,
   "edition": "StrictlyVC: January 31, 2014",
-  "url": "https://strictlyvc.com/2014/01/31/strictlyvc-january-31-2014/"
+  "url": "https://strictlyvc.com/2014/01/31/strictlyvc-january-31-2014/",
+  "source_url": "http://www.macrumors.com/2014/01/30/zynga-acquires-natural-motion/",
+  "source_name": "macrumors.com"
  },
  {
   "date": "2014-01-29",
@@ -2679,7 +3207,9 @@
   "acquirer": "It",
   "price": 10000000,
   "edition": "A Silicon Valley Firm for Startups Eyeing Europe",
-  "url": "https://strictlyvc.com/2014/01/29/silicon-valley-firm-startups-eyeing-europe/"
+  "url": "https://strictlyvc.com/2014/01/29/silicon-valley-firm-startups-eyeing-europe/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-01-28",
@@ -2688,7 +3218,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: January 28, 2014",
-  "url": "https://strictlyvc.com/2014/01/28/strictlyvc-january-28-2014/"
+  "url": "https://strictlyvc.com/2014/01/28/strictlyvc-january-28-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2014-01-16",
@@ -2697,16 +3229,9 @@
   "acquirer": "Boku",
   "price": null,
   "edition": "StrictlyVC: January 16, 2014",
-  "url": "https://strictlyvc.com/2014/01/16/strictlyvc-january-15-2014-2/"
- },
- {
-  "date": "2014-01-16",
-  "company": "Singer Kanye West",
-  "type": "Shutdown",
-  "acquirer": null,
-  "price": null,
-  "edition": "StrictlyVC: January 16, 2014",
-  "url": "https://strictlyvc.com/2014/01/16/strictlyvc-january-15-2014-2/"
+  "url": "https://strictlyvc.com/2014/01/16/strictlyvc-january-15-2014-2/",
+  "source_url": "http://economictimes.indiatimes.com/news/news-by-industry/banking/finance/finance/blume-ventures-to-launch-second-venture-capital-fund/articleshow/28878547.cms",
+  "source_name": "economictimes.indiatimes.com"
  },
  {
   "date": "2014-01-07",
@@ -2715,7 +3240,9 @@
   "acquirer": "AOL",
   "price": 18000000,
   "edition": "StrictlyVC: January 7, 2014",
-  "url": "https://strictlyvc.com/2014/01/07/strictlyvc-january-7-2014/"
+  "url": "https://strictlyvc.com/2014/01/07/strictlyvc-january-7-2014/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-11-27",
@@ -2724,7 +3251,9 @@
   "acquirer": null,
   "price": 20000000,
   "edition": "StrictlyVC: November 27, 2013",
-  "url": "https://strictlyvc.com/2013/11/27/strictlyvc-november-27-2013/"
+  "url": "https://strictlyvc.com/2013/11/27/strictlyvc-november-27-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-11-13",
@@ -2733,7 +3262,9 @@
   "acquirer": null,
   "price": 180000000,
   "edition": "StrictlyVC: November 13, 2013",
-  "url": "https://strictlyvc.com/2013/11/13/strictlyvc-november-13-2013/"
+  "url": "https://strictlyvc.com/2013/11/13/strictlyvc-november-13-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-11-09",
@@ -2742,7 +3273,9 @@
   "acquirer": "Monsanto",
   "price": 1000000000,
   "edition": "Atomico Raises $476.6 Million for Third Fund",
-  "url": "https://strictlyvc.com/2013/11/09/atomico-raises-476-6-million-third-fund/"
+  "url": "https://strictlyvc.com/2013/11/09/atomico-raises-476-6-million-third-fund/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-11-07",
@@ -2751,7 +3284,9 @@
   "acquirer": null,
   "price": 75000000,
   "edition": "StrictlyVC: November 7, 2013",
-  "url": "https://strictlyvc.com/2013/11/07/strictlyvc-november-7-2013/"
+  "url": "https://strictlyvc.com/2013/11/07/strictlyvc-november-7-2013/",
+  "source_url": "http://www.sec.gov/Archives/edgar/data/1348334/000119312513426800/d563790ds1a.htm#rom563790_15",
+  "source_name": "sec.gov"
  },
  {
   "date": "2013-11-05",
@@ -2760,7 +3295,9 @@
   "acquirer": null,
   "price": 800000000,
   "edition": "StrictlyVC: November 5, 2013",
-  "url": "https://strictlyvc.com/2013/11/05/strictlyvc-november-5-2013/"
+  "url": "https://strictlyvc.com/2013/11/05/strictlyvc-november-5-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-10-30",
@@ -2769,7 +3306,9 @@
   "acquirer": "PricewaterhouseCoopers",
   "price": null,
   "edition": "StrictlyVC: October 30, 2013",
-  "url": "https://strictlyvc.com/2013/10/30/strictlyvc-october-30-2013/"
+  "url": "https://strictlyvc.com/2013/10/30/strictlyvc-october-30-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-10-29",
@@ -2778,7 +3317,9 @@
   "acquirer": "NTT",
   "price": 350000000,
   "edition": "StrictlyVC: October 29, 2013",
-  "url": "https://strictlyvc.com/2013/10/29/strictlyvc-october-29-2013/"
+  "url": "https://strictlyvc.com/2013/10/29/strictlyvc-october-29-2013/",
+  "source_url": "http://online.wsj.com/article/PR-CO-20131028-910049.html",
+  "source_name": "online.wsj.com"
  },
  {
   "date": "2013-10-23",
@@ -2787,16 +3328,9 @@
   "acquirer": null,
   "price": 1640000000,
   "edition": "Michael Chasen&#8217;s New &#8220;Billion-Dollar Idea&#8221;",
-  "url": "https://strictlyvc.com/2013/10/23/michael-chasens-new-billion-dollar-idea/"
- },
- {
-  "date": "2013-10-17",
-  "company": "Calif",
-  "type": "Acquisition",
-  "acquirer": "SpendSmart Payments Company",
-  "price": null,
-  "edition": "StrictlyVC: October 17, 2013",
-  "url": "https://strictlyvc.com/2013/10/17/strictlyvc-october-17-2013/"
+  "url": "https://strictlyvc.com/2013/10/23/michael-chasens-new-billion-dollar-idea/",
+  "source_url": "http://www.blackboard.com/",
+  "source_name": "blackboard.com"
  },
  {
   "date": "2013-10-04",
@@ -2805,16 +3339,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: October 4, 2013",
-  "url": "https://strictlyvc.com/2013/10/04/strictlyvc-october-4-2013/"
- },
- {
-  "date": "2013-10-03",
-  "company": "When Twitter",
-  "type": "IPO",
-  "acquirer": null,
-  "price": null,
-  "edition": "The Rise (and Rise) of Old-Fashioned IVP",
-  "url": "https://strictlyvc.com/2013/10/03/rise-old-fashioned-ivp/"
+  "url": "https://strictlyvc.com/2013/10/04/strictlyvc-october-4-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-10-02",
@@ -2823,16 +3350,20 @@
   "acquirer": "Yahoo",
   "price": 2000000,
   "edition": "StrictlyVC: October 2, 2013",
-  "url": "https://strictlyvc.com/2013/10/02/strictlyvc-october-2-2013/"
+  "url": "https://strictlyvc.com/2013/10/02/strictlyvc-october-2-2013/",
+  "source_url": "http://techcrunch.com/2013/10/01/yahoo-hitpost/",
+  "source_name": "TechCrunch"
  },
  {
-  "date": "2013-09-26",
-  "company": "Chicago-based",
-  "type": "Acquisition",
-  "acquirer": "PayPal",
-  "price": 800000000,
-  "edition": "StrictlyVC: September 26, 2013",
-  "url": "https://strictlyvc.com/2013/09/26/strictlyvc-september-26-2013/"
+  "date": "2013-10-01",
+  "company": "Shyp",
+  "type": "Shutdown",
+  "acquirer": null,
+  "price": null,
+  "edition": "StrictlyVC: October 1, 2013",
+  "url": "https://strictlyvc.com/2013/10/01/strictlyvc-october-1-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-09-26",
@@ -2841,7 +3372,9 @@
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: September 26, 2013",
-  "url": "https://strictlyvc.com/2013/09/26/strictlyvc-september-26-2013/"
+  "url": "https://strictlyvc.com/2013/09/26/strictlyvc-september-26-2013/",
+  "source_url": null,
+  "source_name": null
  },
  {
   "date": "2013-09-18",
@@ -2850,15 +3383,19 @@
   "acquirer": "IAC",
   "price": null,
   "edition": "StrictlyVC: September 18, 2013",
-  "url": "https://strictlyvc.com/2013/09/18/strictlyvc-september-18-2013/"
+  "url": "https://strictlyvc.com/2013/09/18/strictlyvc-september-18-2013/",
+  "source_url": "http://clicks.aweber.com/y/ct/?l=OZP2k&amp;m=3bYPd4rPZ2WQLDC&amp;b=aEotXQ34h4fdwUudlmbICw",
+  "source_name": "clicks.aweber.com"
  },
  {
   "date": "2013-09-16",
-  "company": "Essential Reads When Twitter",
+  "company": "When Twitter",
   "type": "IPO",
   "acquirer": null,
   "price": null,
   "edition": "StrictlyVC: September 16, 2013",
-  "url": "https://strictlyvc.com/2013/09/16/strictlyvc-september-16-2013/"
+  "url": "https://strictlyvc.com/2013/09/16/strictlyvc-september-16-2013/",
+  "source_url": null,
+  "source_name": null
  }
 ]

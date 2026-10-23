@@ -1,0 +1,6346 @@
+[
+ {
+  "company": "Longeye",
+  "amount": 20000000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "a16z"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/longeye-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hephaestus",
+  "amount": 17200000.0,
+  "date": "2026-10-21",
+  "stage": "Venture",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "CiRi Ventures with participation from Prescience Ventures",
+   "Teampact Ventures",
+   "Climate Capital",
+   "Unruly Capital",
+   "Prescience Ventures",
+   "Teampact Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/hephaestus-raises-17-2m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sinopia Biosciences",
+  "amount": 2500000.0,
+  "date": "2026-10-21",
+  "stage": "Grant",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "SB-0110"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sinopia-biosciences-receives-2-5m-nih-grant.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mojo Vision",
+  "amount": 24400000.0,
+  "date": "2026-10-21",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/mojo-vision-raises-24-4m-in-government-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Onto",
+  "amount": 1000000.0,
+  "date": "2026-10-21",
+  "stage": "Pre-Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Stargazer Fund",
+   "with participation from White Venture Capital",
+   "White Venture Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/onto-raises-1m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mach9",
+  "amount": 34000000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "First Round Capital",
+   "Bessemer Venture Partners with participation from Prudence",
+   "Quiet Capital",
+   "Prudence",
+   "Quiet Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/mach9-raises-34m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hive",
+  "amount": 27000000.0,
+  "date": "2026-10-21",
+  "stage": "Series B",
+  "sector": "SaaS / Enterprise",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/hive-raises-27m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Blacksmith",
+  "amount": 66000000.0,
+  "date": "2026-10-21",
+  "stage": "Series C",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "Sequoia Capital with participation from Premji Invest",
+   "Peak XV Partners",
+   "GV",
+   "Y Combinator",
+   "Premji Invest",
+   "Peak XV Partners"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/blacksmith-raises-66m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "CapitalOS",
+  "amount": 21900000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "LGVP with participation from WEX Venture Capital",
+   "Group11",
+   "Great North Ventures",
+   "Night Capital",
+   "WEX Venture Capital",
+   "Group11"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/capitalos-raises-21-9m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Azoma",
+  "amount": 11500000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Puma Growth Partners with participation from dunnhumby",
+   "Twin Path",
+   "MaRS IAF",
+   "Rank Ventures",
+   "Ignite Ventures",
+   "angels from Google DeepMind"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/azoma-raises-11-5m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Firstwork",
+  "amount": 15000000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Earlybird Venture Capital with participation from Legion VC",
+   "Deel Ventures",
+   "Gradient",
+   "Y Combinator",
+   "Legion VC",
+   "Deel Ventures"
+  ],
+  "desc": "NYC-based provider of an applied AI platform for frontline workforce operations",
+  "url": "https://www.finsmes.com/2026/10/firstwork-raises-15m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Geneticure",
+  "amount": 1000000.0,
+  "date": "2026-10-21",
+  "stage": "Venture",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/geneticure-receives-1m-investment-from-xcellerant-ventures.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vectorial",
+  "amount": 3000000.0,
+  "date": "2026-10-21",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/vectorial-raises-3m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Peak Energy",
+  "amount": 108000000.0,
+  "date": "2026-10-21",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Infinite Capital",
+   "Eclipse",
+   "Xora Innovation",
+   "LG Technology Ventures",
+   "Maverick Silicon",
+   "Infinite Capital"
+  ],
+  "desc": "Sacramento",
+  "url": "https://www.finsmes.com/2026/10/peak-energy-raises-108m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Opply",
+  "amount": 7500000.0,
+  "date": "2026-10-21",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Chalfen Ventures with participation from Index Ventures",
+   "Anthemis",
+   "Entrepreneurs First",
+   "In This Together",
+   "Ventures Together",
+   "Index Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/opply-raises-7-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Arctic Therapeutics",
+  "amount": 21500000.0,
+  "date": "2026-10-21",
+  "stage": "Undisclosed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Pekron",
+   "Sanos Group",
+   "Kaldbakur",
+   "Landv\u00e6ttir"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/arctic-therapeutics-raises-21-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "TraceWeave",
+  "amount": 2100000.0,
+  "date": "2026-10-21",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Mirae Asset Capital with participation from NAVER D2SF",
+   "NAVER D2SF"
+  ],
+  "desc": "post-Transformer architecture designed to enable complex AI agents on resource-constrained devi",
+  "url": "https://www.finsmes.com/2026/10/traceweave-raises-2-1m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Photon Bridge",
+  "amount": 10000000.0,
+  "date": "2026-10-21",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Amadeus APEX Technology Fund",
+   "Faber",
+   "Brabant Development Agency",
+   "existing investors Innovation Industries",
+   "Faber",
+   "Brabant Development Agency"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/photon-bridge-raises-10m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Otter.ai",
+  "amount": 320000000.0,
+  "date": "2026-10-21",
+  "stage": "Growth",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "Mountain View",
+  "url": "https://www.finsmes.com/2026/10/otter-ai-raises-320m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Qualitate",
+  "amount": 25000000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Crew Capital",
+   "existing investors IA Ventures",
+   "Crew Capital"
+  ],
+  "desc": "NYC-based provider of a continuous intelligence system for primary research",
+  "url": "https://www.finsmes.com/2026/10/qualitate-raises-25m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ASI",
+  "amount": 325000000.0,
+  "date": "2026-10-21",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Meritech Capital",
+   "Craft Ventures",
+   "Energy Impact Partners",
+   "a16z",
+   "affiliates of Citadel Securities",
+   "Meritech Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/asi-raises-325m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Arda Industries",
+  "amount": 232000000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Altimeter",
+   "Accel",
+   "Khosla Ventures with participation from XYZ Venture Capital",
+   "8VC",
+   "SVAngel",
+   "Felicis"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/arda-industries-raises-232m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Electric Plant Company",
+  "amount": 11200000.0,
+  "date": "2026-10-21",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Onto Ventures",
+   "Climactic with participation from Ponderosa",
+   "Endeavor Catalyst",
+   "Ludlow",
+   "Michigan Rise",
+   "The Fund"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/electric-plant-company-raises-11-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Pigment",
+  "amount": 250000000.0,
+  "date": "2026-10-21",
+  "stage": "Series E",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "existing investors including Greenoaks",
+   "ICONIQ",
+   "IVP",
+   "Meritech",
+   "a planned investment from NVIDIA",
+   "WIL"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/pigment-raises-250m-in-series-e-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mural",
+  "amount": 15000000.0,
+  "date": "2026-10-21",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Tether with participation from North Island Ventures",
+   "North Island Ventures"
+  ],
+  "desc": "NYC-based provider of a compliant system of record for fintechs and platforms",
+  "url": "https://www.finsmes.com/2026/10/mural-raises-15m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vrtx",
+  "amount": 3600000.0,
+  "date": "2026-10-20",
+  "stage": "Pre-Seed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/vrtx-raises-3-6m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "CapQuest",
+  "amount": 1000000.0,
+  "date": "2026-10-20",
+  "stage": "Pre-Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Oraseya Capital",
+   "AMKM Family Office"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/capquest-closes-1m-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ArtMaster",
+  "amount": 2400000.0,
+  "date": "2026-10-20",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Factorial Capital with participation from Reflex Capital",
+   "Moises",
+   "Robert Kyncl",
+   "Jaroslav Beck",
+   "Nir Zicherman",
+   "Grant Davis"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/artmaster-raises-2-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "PataBid",
+  "amount": 2000000.0,
+  "date": "2026-10-20",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Graphite Ventures",
+   "with participation from Sprout Fund",
+   "Bluesky Equities",
+   "Inverted Ventures",
+   "previous angel investors",
+   "Sprout Fund"
+  ],
+  "desc": "cloud-native",
+  "url": "https://www.finsmes.com/2026/10/patabid-raises-2m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Firefly",
+  "amount": 20000000.0,
+  "date": "2026-10-20",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Definition Capital with participation from BoxGroup",
+   "Susa Ventures",
+   "BoxGroup",
+   "Susa Ventures"
+  ],
+  "desc": "NYC-based provider of a physical AI platform for safety",
+  "url": "https://www.finsmes.com/2026/10/firefly-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Reliable Robotics",
+  "amount": 115000000.0,
+  "date": "2026-10-20",
+  "stage": "Series D",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Nimble Partners with participation from Silicon Valley Bank",
+   "Gideon Capital",
+   "RockCreek",
+   "Geek Ventures",
+   "Gold Hill Capital",
+   "Sparkwave Capital"
+  ],
+  "desc": "Mountain View",
+  "url": "https://www.finsmes.com/2026/10/reliable-robotics-raises-115m-in-new-capital.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "AuxoAI",
+  "amount": 20700000.0,
+  "date": "2026-10-20",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "NTTVC with participation from George Still Jr",
+   "George Still Jr"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/auxoai-raises-20-7m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Atombeam",
+  "amount": 18300000.0,
+  "date": "2026-10-20",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "commercial production software that compacts and encrypts machine data in one pass to multiply bandwidth and reduce ne",
+  "url": "https://www.finsmes.com/2026/10/atombeam-raises-18-3m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rosie",
+  "amount": 7000000.0,
+  "date": "2026-10-20",
+  "stage": "Venture",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [
+   "Graham",
+   "Walker",
+   "Marketplace Capital",
+   "Ingeborg Investments",
+   "Precursor Ventures",
+   "Mother Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/rosie-raises-7m-across-two-rounds.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Viva Finance",
+  "amount": 150000000.0,
+  "date": "2026-10-20",
+  "stage": "Growth",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/viva-finance-closes-150m-credit-facility.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Veckta",
+  "amount": 11000000.0,
+  "date": "2026-10-20",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "VoLo Earth Ventures",
+   "Cove Fund",
+   "Catalyst by Wellstar",
+   "Engage",
+   "Emerald Bay Ventures",
+   "She\u2019s Independent Investments"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/veckta-raises-11m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Asymptote Labs",
+  "amount": 5500000.0,
+  "date": "2026-10-20",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "1984 Ventures",
+   "South Park Commons",
+   "Lytical Ventures",
+   "1984 Ventures",
+   "South Park Commons"
+  ],
+  "desc": "NYC-based provider of runtime infrastructure for AI agents",
+  "url": "https://www.finsmes.com/2026/10/asymptote-labs-raises-5-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Daytona",
+  "amount": 60000000.0,
+  "date": "2026-10-20",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "FirstMark with participation from Patrick Collison",
+   "Adam D\u2019Angelo",
+   "Brendan Foody",
+   "Tobi L\u00fctke",
+   "Olivier Pomel",
+   "Aravind Srinivas"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/daytona-raises-60m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ScribeUp",
+  "amount": 13000000.0,
+  "date": "2026-10-20",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Curql with participation from Mucker Capital",
+   "Service Ventures",
+   "Mucker Capital",
+   "Service Ventures"
+  ],
+  "desc": "Los Angeles",
+  "url": "https://www.finsmes.com/2026/10/scribeup-raises-13m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ABM Respiratory Care",
+  "amount": 20000000.0,
+  "date": "2026-10-20",
+  "stage": "Growth",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/abm-respiratory-care-receives-20m-in-growth-capital-commitment.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vinyl Health",
+  "amount": 2000000.0,
+  "date": "2026-10-20",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/vinyl-health-receives-2m-investment-from-healthx-ventures.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "IMIO",
+  "amount": 12000000.0,
+  "date": "2026-10-20",
+  "stage": "Venture",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Starshot Capital",
+   "Grow Together Fund",
+   "Earth Foundry",
+   "Serra Ventures",
+   "Chipotle\u2019s Cultivate Next venture fund",
+   "Starshot Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/imio-raises-12m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Stellios Technologies",
+  "amount": 5000000.0,
+  "date": "2026-10-20",
+  "stage": "Pre-Seed",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [],
+  "desc": "El Segundo",
+  "url": "https://www.finsmes.com/2026/10/stellios-technologies-raises-5m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Paidax",
+  "amount": 1000000.0,
+  "date": "2026-10-20",
+  "stage": "Growth",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/paidax-raises-1m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Different",
+  "amount": 48000000.0,
+  "date": "2026-10-20",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Together Fund",
+   "Haystack Ventures",
+   "MXV Capital",
+   "Firebolt Ventures",
+   "Lightspeed Venture Partners",
+   "Together Fund"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/different-raises-48m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Town",
+  "amount": 108000000.0,
+  "date": "2026-10-20",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Forerunner Ventures",
+   "Menlo Ventures with participation from a16z",
+   "First Round Capital",
+   "Better Tomorrow Ventures",
+   "Precedent",
+   "a16z"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/town-raises-108m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tenstorrent",
+  "amount": 1500000000.0,
+  "date": "2026-10-20",
+  "stage": "Series E",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Trace Capital",
+   "Innovation X with participation from Agostinelli Group",
+   "ARK Invest",
+   "Brett Barna",
+   "Cadence Ventures",
+   "Eclipse"
+  ],
+  "desc": "Santa Clara",
+  "url": "https://www.finsmes.com/2026/10/tenstorrent-raises-1-5-billion.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Blackwall",
+  "amount": 100000000.0,
+  "date": "2026-10-20",
+  "stage": "Series C",
+  "sector": "Cybersecurity",
+  "location": "",
+  "investors": [
+   "AVP with participation from Dawn Capital",
+   "MMC Ventures",
+   "Tera Ventures",
+   "Dawn Capital",
+   "MMC Ventures",
+   "Tera Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/blackwall-raises-100m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Kodama Systems",
+  "amount": 7000000.0,
+  "date": "2026-10-20",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Konvoy Ventures",
+   "NYA Ventures",
+   "Breakthrough Energy Ventures",
+   "Congruent Ventures",
+   "Dangerous Ventures",
+   "M1C"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/kodama-systems-raises-7m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Prolific Machines Holds Initial Closing of $50M in Series B2 Funding",
+  "amount": 50000000.0,
+  "date": "2026-10-20",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Atoms & Bits",
+   "Nant Capital",
+   "with participation from Breakthrough Energy Ventures",
+   "Mayfield",
+   "SOSV",
+   "Ki Tua Fund"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/prolific-machines-raises-50m-in-series-b2-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tolan",
+  "amount": 30000000.0,
+  "date": "2026-10-20",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/tolan-raises-30m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "XRlabs",
+  "amount": 8400000.0,
+  "date": "2026-10-20",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Playground Global with participation from Eka Ventures",
+   "Eka Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/xrlabs-raises-8-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sunlight AI",
+  "amount": 17400000.0,
+  "date": "2026-10-20",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Basis Set Ventures with participation from Sofeon Ventures",
+   "Social Leverage",
+   "Actions Capital",
+   "Overlook Ventures",
+   "Early Light Ventures",
+   "Chris Hubbell"
+  ],
+  "desc": "NYC- and Miami",
+  "url": "https://www.finsmes.com/2026/10/sunlight-ai-raises-17-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "HapWare",
+  "amount": 1500000.0,
+  "date": "2026-10-20",
+  "stage": "Pre-Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Mines Venture Fund",
+   "Avesta Fund",
+   "The Pitch Fund",
+   "among others",
+   "Sidecut Ventures",
+   "Mines Venture Fund"
+  ],
+  "desc": "haptic wristband that gives people who are blind",
+  "url": "https://www.finsmes.com/2026/10/hapware-raises-1-5m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Dream Labs",
+  "amount": 90000000.0,
+  "date": "2026-10-20",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "B Capital with participation from Kindred Ventures",
+   "Kindred Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/dream-labs-raises-90m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Antheia",
+  "amount": 80000000.0,
+  "date": "2026-10-19",
+  "stage": "Strategic",
+  "sector": "Cybersecurity",
+  "location": "",
+  "investors": [],
+  "desc": "Menlo Park",
+  "url": "https://www.finsmes.com/2026/10/antheia-receives-80m-conditional-loan-commitment.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Prism Data Tecnologies",
+  "amount": 20000000.0,
+  "date": "2026-10-19",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Story Ventures",
+   "with participation from FINTOP Capital",
+   "Core Innovation Capital",
+   "Obvious Ventures",
+   "1st & Main Growth Partners",
+   "Mana Ventures"
+  ],
+  "desc": "NYC-based developer of cash flow analytics and automated credit risk underwriting software",
+  "url": "https://www.finsmes.com/2026/10/prism-data-tecnologies-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ZAP Surgical Systems",
+  "amount": 36000000.0,
+  "date": "2026-10-19",
+  "stage": "Undisclosed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Catalio Capital Management",
+   "with participation from Baheal",
+   "Baheal"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/zap-surgical-systems-raises-36m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "High Lander",
+  "amount": 30000000.0,
+  "date": "2026-10-19",
+  "stage": "Undisclosed",
+  "sector": "Cybersecurity",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/high-lander-closes-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Neonomics",
+  "amount": 4000000.0,
+  "date": "2026-10-19",
+  "stage": "Undisclosed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/neonomics-raises-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Epicrispr Biotechnologies",
+  "amount": 8000000.0,
+  "date": "2026-10-19",
+  "stage": "Grant",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/epicrispr-biotechnologies-receives-8m-in-grant.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Miracly",
+  "amount": 2000000.0,
+  "date": "2026-10-19",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Beenext Ventures",
+   "Lotus",
+   "with participation from a Swedish family office",
+   "existing investors including Stefan Lindeberg",
+   "Alex Bouaziz",
+   "Thomas Ekman"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/miracly-raises-2m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Arosa AI",
+  "amount": 500000.0,
+  "date": "2026-10-19",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Taryag Capital (comprising $100K in cash investment",
+   "$400K in AI credits)"
+  ],
+  "desc": "NYC-based provider of a conversational platform for real estate development research and planning",
+  "url": "https://www.finsmes.com/2026/10/arosa-ai-raises-500k-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vessla",
+  "amount": 3300000.0,
+  "date": "2026-10-19",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Seedcamp",
+   "with participation from Inception Fund",
+   "Tiny VC",
+   "tech operators from Lovable",
+   "OpenAI",
+   "founders including Lukas Saari"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/vessla-raises-3-3m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Origin",
+  "amount": 20000000.0,
+  "date": "2026-10-19",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Accel",
+   "Zacua Ventures with participation from Unilazer Ventures",
+   "Schema Ventures",
+   "Z21",
+   "ISAI",
+   "Imad Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/origin-raises-20m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Banaraswala",
+  "amount": 2000000.0,
+  "date": "2026-10-19",
+  "stage": "Seed",
+  "sector": "Cybersecurity",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/banaraswala-raises-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Doris Labs",
+  "amount": 600000.0,
+  "date": "2026-10-19",
+  "stage": "Pre-Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Fuel Ventures with participation from Manchester Angels",
+   "other angel investors",
+   "Manchester Angels",
+   "other angel investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/doris-labs-raises-600k-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Even Healthcare",
+  "amount": 50000000.0,
+  "date": "2026-10-19",
+  "stage": "Series B",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Khosla Ventures with participation from Alpha Wave",
+   "Founders Fund",
+   "8VC",
+   "Alpha Wave",
+   "Founders Fund",
+   "8VC"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/even-healthcare-raises-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Holyvolt",
+  "amount": 45000000.0,
+  "date": "2026-10-19",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "existing investor Fifth Wall"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/holyvolt-raises-45m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Solvera",
+  "amount": 6300000.0,
+  "date": "2026-10-19",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Seedcamp with participation from Construct Venture",
+   "Inception Fund",
+   "Momentum",
+   "Obos Ventures",
+   "PSV Tech",
+   "Sondo"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/solvera-raises-6-3m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Salmon Group",
+  "amount": 140000000.0,
+  "date": "2026-10-19",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/salmon-group-raises-140m-in-additional-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Estuary Biotherapeutics",
+  "amount": 93000000.0,
+  "date": "2026-10-19",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Biogen New Ventures",
+   "UPMC Enterprises",
+   "Pivotal bioVenture Partners",
+   "National Kidney Foundation Innovation Fund",
+   "4BIO Capital",
+   "GV"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/estuary-biotherapeutics-raises-93m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Lightsprint",
+  "amount": 6100000.0,
+  "date": "2026-10-19",
+  "stage": "Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "645 Ventures with participation from January Capital",
+   "Rebel Fund",
+   "Fjor",
+   "Sterling Road",
+   "angel investors including Kaz Nejatian",
+   "January Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/lightsprint-raises-6-1m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "RapidCanvas",
+  "amount": 29000000.0,
+  "date": "2026-10-19",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Vertex Ventures SEA",
+   "India with participation from Hitachi Ventures",
+   "alongside existing investors Accel",
+   "Peak XV Partners",
+   "Valley Capital Partners",
+   "Titanium Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/rapidcanvas-raises-29m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Opsin",
+  "amount": 21000000.0,
+  "date": "2026-10-16",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "SYN Ventures",
+   "Race Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/opsin-raises-21m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Zenzap",
+  "amount": 44000000.0,
+  "date": "2026-10-16",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Bessemer Venture Partners",
+   "Lightspeed Venture Partners",
+   "former EY General Manager Yoram Tietz",
+   "former EY General Manager Yoram Tietz"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/zenzap-raises-44m-in-seed-and-series-a-funding-rounds.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Abby Care",
+  "amount": 82000000.0,
+  "date": "2026-10-16",
+  "stage": "Series C",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Transformation Capital",
+   "with participation from CVS Health Ventures",
+   "Frist Cressey Ventures",
+   "Melinda French Gates\u2019 Pivotal Ventures",
+   "alongside existing insider investors Khosla Ventures",
+   "Thrive Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/abby-care-raises-82m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "OMass Therapeutics",
+  "amount": 310000000.0,
+  "date": "2026-10-16",
+  "stage": "Series C",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Bain Capital Life Sciences",
+   "Forbion",
+   "Novo Holdings",
+   "with participation from Janus Henderson Investors",
+   "SV Health Investors",
+   "Jefferson Life Sciences"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/omass-therapeutics-raises-310m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Chariot Claims",
+  "amount": 10000000.0,
+  "date": "2026-10-16",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Silverton Partners",
+   "with participation from Indicator Ventures",
+   "Lightbank",
+   "Neon Fund",
+   "ZVC",
+   "Rosecliff Venture Partners"
+  ],
+  "desc": "NYC-based developer of an AI-powered mass action and consumer protection platform",
+  "url": "https://www.finsmes.com/2026/10/chariot-claims-raises-10m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sunbound",
+  "amount": 24000000.0,
+  "date": "2026-10-16",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "TTV Capital",
+   "with participation from Bling Capital",
+   "Fika Ventures",
+   "Live Oak Bank",
+   "Ziegler Linkage Fund",
+   "Bling Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sunbound-raises-24m-in-series-a-funding-acquires-richter-healthcare-consultants.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "RSYNQ",
+  "amount": 2000000.0,
+  "date": "2026-10-16",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "orchestration and middleware layer designed to connect artificial intelligence with robots",
+  "url": "https://www.finsmes.com/2026/10/rsynq-raises-2m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Matters",
+  "amount": 5000000.0,
+  "date": "2026-10-16",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/matters-raises-5m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Homa",
+  "amount": 5000000.0,
+  "date": "2026-10-16",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Quiet Capital with participation from Restive Ventures",
+   "Cambrian Ventures",
+   "Restive Ventures",
+   "Cambrian Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/homa-raises-5m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Kutlerri.ai",
+  "amount": 4000000.0,
+  "date": "2026-10-16",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/kutlerri-ai-receives-4m-investment.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sharp Performance",
+  "amount": 18000000.0,
+  "date": "2026-10-16",
+  "stage": "Series A",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "a16z",
+   "Commonweal Ventures",
+   "Wolfson Group",
+   "FJ Labs",
+   "the Ford Foundation",
+   "a16z"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sharp-performance-raises-18m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Molagri",
+  "amount": 5800000.0,
+  "date": "2026-10-16",
+  "stage": "Pre-Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Convective Capital with participation from Y Combinator",
+   "Superorganism",
+   "Robinhood Ventures",
+   "Paul Graham",
+   "other angels",
+   "while Julian Capital led the pre-seed round"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/molagri-raises-5-8m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "IPX",
+  "amount": 4000000.0,
+  "date": "2026-10-16",
+  "stage": "Strategic",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Bitsurge Holdings",
+   "strategic investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/ipx-raises-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "North.cloud",
+  "amount": 60000000.0,
+  "date": "2026-10-15",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "PeakSpan Capital",
+   "with participation from Litquidity Ventures",
+   "Companyon Ventures",
+   "Alpaca",
+   "Uncommon Denominator",
+   "Gaingels"
+  ],
+  "desc": "NYC-based provider of an infrastructure spend intelligence and automation platform for cloud",
+  "url": "https://www.finsmes.com/2026/10/north-cloud-raises-60m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Metabolize",
+  "amount": 3200000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Astanor",
+   "with participation from Maia Ventures",
+   "LongGame Venture",
+   "SOSV",
+   "Maia Ventures",
+   "LongGame Venture"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/metabolize-raises-3-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Stand",
+  "amount": 70000000.0,
+  "date": "2026-10-15",
+  "stage": "Series C",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "Saga Ventures with participation from Lowercarbon",
+   "Eclipse",
+   "Equal Ventures",
+   "Inspired Capital",
+   "Neotribe",
+   "Jackson Square Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/stand-raises-70m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Punch",
+  "amount": 2000000.0,
+  "date": "2026-10-15",
+  "stage": "Undisclosed",
+  "sector": "Real Estate",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/punch-raises-2m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Acta Pharmaceuticals",
+  "amount": 24000000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/acta-pharmaceuticals-raises-24m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mueon",
+  "amount": 65000000.0,
+  "date": "2026-10-15",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Maverick Silicon",
+   "with participation from Intel Capital",
+   "Geodesic Alliances Fund",
+   "Oregon Venture Fund",
+   "M-Ventures",
+   "Wellington Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/mueon-raises-65m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sprout Family Closes CAD$3.55M Seed Funding",
+  "amount": 3550000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "BDC Thrive Venture Fund",
+   "with participation from Accelia Capital",
+   "MaRS Investment Accelerator Fund",
+   "StandUp Ventures",
+   "The51",
+   "Accelia Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sprout-family-closes-cad3-55m-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Fission",
+  "amount": 10000000.0,
+  "date": "2026-10-15",
+  "stage": "Series A",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "Pantera Capital",
+   "with participation from Circle Ventures",
+   "Borderless Capital",
+   "Ari Rubenstein",
+   "New Form",
+   "gumi Cryptos Capital"
+  ],
+  "desc": "NYC-based provider of liquidity infrastructure for tokenized investment funds",
+  "url": "https://www.finsmes.com/2026/10/fission-raises-10m-in-seires-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sirona Medical",
+  "amount": 40000000.0,
+  "date": "2026-10-15",
+  "stage": "Series D",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Avidity Partners",
+   "with participation from 8VC",
+   "GreatPoint Ventures",
+   "KLT Holdings",
+   "other new",
+   "8VC"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sirona-medical-raises-40m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Otter Health",
+  "amount": 8000000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Fika Ventures",
+   "Evidenced",
+   "with participation from Slow Ventures",
+   "Metrodora",
+   "CoFound Partners",
+   "Layout Ventures"
+  ],
+  "desc": "Washington",
+  "url": "https://www.finsmes.com/2026/10/otter-health-raises-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "CarbonAI",
+  "amount": 12000000.0,
+  "date": "2026-10-15",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Bling Capital",
+   "Max Ventures",
+   "Timber Grove Ventures",
+   "Bling Capital",
+   "Max Ventures"
+  ],
+  "desc": "NYC-based provider of an agentic AI platform for commercial real estate (CRE) lending",
+  "url": "https://www.finsmes.com/2026/10/carbonai-raises-12m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Parallel Loop",
+  "amount": 6600000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "3one4 Capital",
+   "with participation from tech angels",
+   "tech angels"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/parallel-loop-raises-6-6m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Shamrock AI",
+  "amount": 5000000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Endiya Partners",
+   "with participation from Capria Ventures",
+   "Capria Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/shamrock-ai-raises-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Zippy",
+  "amount": 20000000.0,
+  "date": "2026-10-15",
+  "stage": "Series C",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/zippy-raises-20m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rabot Energy",
+  "amount": 50000000.0,
+  "date": "2026-10-15",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Endeit Capital",
+   "DeepTech & Climate Fonds",
+   "High-Tech Gr\u00fcnderfonds",
+   "Bosch Ventures",
+   "CNI",
+   "Acurio Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/rabot-energy-raises-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mana Battery",
+  "amount": 10150000.0,
+  "date": "2026-10-15",
+  "stage": "Venture",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Voyager Ventures",
+   "with participation from Union Square Ventures",
+   "Buff Gold Ventures",
+   "Union Square Ventures",
+   "Buff Gold Ventures"
+  ],
+  "desc": "Broomfield",
+  "url": "https://www.finsmes.com/2026/10/mana-battery-raises-10-15m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Allara",
+  "amount": 30000000.0,
+  "date": "2026-10-15",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of an integrated virtual care platform for women\u2019s hormonal",
+  "url": "https://www.finsmes.com/2026/10/allara-raises-30m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ICON",
+  "amount": 200000000.0,
+  "date": "2026-10-15",
+  "stage": "Series D",
+  "sector": "Real Estate",
+  "location": "",
+  "investors": [
+   "Baillie Gifford",
+   "funds managed by BlackRock",
+   "with participation from Capital Factory",
+   "CAZ Investments",
+   "Moderne Ventures",
+   "Moonshots Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/icon-raises-200m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "EZ Bombs",
+  "amount": 25000000.0,
+  "date": "2026-10-15",
+  "stage": "Series A",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [
+   "CAVU Consumer Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/ez-bombs-raises-25m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Forgepoint",
+  "amount": 9800000.0,
+  "date": "2026-10-15",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Primary Venture Partners",
+   "a16z speedrun",
+   "with participation from angel investors"
+  ],
+  "desc": "NYC-based provider of an AI inside sales rep platform built for manufacturing",
+  "url": "https://www.finsmes.com/2026/10/forgepoint-raises-9-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Fragment",
+  "amount": 12000000.0,
+  "date": "2026-10-15",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Firstmark with participation from BoxGroup",
+   "BoxGroup"
+  ],
+  "desc": "NYC-based provider of an AI-enabled financial infrastructure platform",
+  "url": "https://www.finsmes.com/2026/10/fragment-raises-12m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Harmonic Security",
+  "amount": 50000000.0,
+  "date": "2026-10-15",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/harmonic-security-raises-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Labelbox",
+  "amount": 100000000.0,
+  "date": "2026-10-15",
+  "stage": "Series E",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Infinitum Partners with participation from Wipro Ventures",
+   "a16z",
+   "B Capital",
+   "Tau Ventures",
+   "Snowpoint Ventures",
+   "Wipro Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/labelbox-raises-100m-in-series-e-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sonilo",
+  "amount": 11000000.0,
+  "date": "2026-10-14",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "B Capital with participation from Redpoint",
+   "Redpoint"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/sonilo-raises-11m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Marklo",
+  "amount": 5000000.0,
+  "date": "2026-10-14",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Forerunner",
+   "with participation from Freestyle Capital",
+   "Freestyle Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/marklo-raises-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Othello",
+  "amount": 8000000.0,
+  "date": "2026-10-14",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of an applied AI lab building AI models for live sales calls",
+  "url": "https://www.finsmes.com/2026/10/othello-raises-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Altay Therapeutics",
+  "amount": 37000000.0,
+  "date": "2026-10-14",
+  "stage": "Series A",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Sound Bioventures",
+   "HealthCap",
+   "Biogen New Ventures",
+   "Pappas Capital",
+   "Global BioAccess Fund",
+   "new investors including Fountain Healthcare Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/altay-therapeutics-closes-37m-series-a-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Zaria Systems",
+  "amount": 5200000.0,
+  "date": "2026-10-14",
+  "stage": "Seed",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "Lightspeed Venture Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/zaria-systems-raises-5-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Evolutionary Operating System",
+  "amount": 9000000.0,
+  "date": "2026-10-14",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Uncork Capital",
+   "Field Ventures",
+   "with participation from Crosslink Capital",
+   "Utopia Capital Management",
+   "Sandwith Ventures",
+   "Crosslink Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/evolutionary-operating-system-raises-9m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Salience Labs",
+  "amount": 125000000.0,
+  "date": "2026-10-14",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Bullhound Capital with participation from AMD Ventures",
+   "Intel Capital",
+   "SBI Group",
+   "Hudson River Trading",
+   "British Business Bank",
+   "Applied Ventures LLC"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/salience-labs-raises-125m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tamr",
+  "amount": 21000000.0,
+  "date": "2026-10-14",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Volition Capital with participation from existing investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/tamr-raises-21m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "CodeWall",
+  "amount": 4000000.0,
+  "date": "2026-10-14",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Osney Capital with participation from InReach Ventures",
+   "Antler",
+   "InReach Ventures",
+   "Antler"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/codewall-raises-4m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Giraffe Bio",
+  "amount": 6400000.0,
+  "date": "2026-10-14",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Twynam",
+   "Air Capital",
+   "Baruch Future Ventures",
+   "SOSV",
+   "BHP Ventures",
+   "Twynam"
+  ],
+  "desc": "Buenos Aires",
+  "url": "https://www.finsmes.com/2026/10/giraffe-bio-raises-6-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Duvo",
+  "amount": 32000000.0,
+  "date": "2026-10-14",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Balderton Capital with participation from Index Ventures",
+   "Northzone",
+   "Credo Ventures",
+   "Index Ventures",
+   "Northzone",
+   "Credo Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/duvo-raises-32m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Eudaemon Technologies",
+  "amount": 4500000.0,
+  "date": "2026-10-14",
+  "stage": "Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/eudaemon-technologies-raises-4-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Scimplify",
+  "amount": 25000000.0,
+  "date": "2026-10-14",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Hitachi Ventures with participation from Henkel",
+   "Teknor Apex",
+   "Accel",
+   "3one4 Capital",
+   "Bertelsmann India",
+   "Omnivore"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/scimplify-raises-25m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Reach Security",
+  "amount": 50000000.0,
+  "date": "2026-10-14",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "In-Q-Tel",
+   "M12",
+   "Microsoft\u2019s Venture Fund",
+   "Ballistic Ventures",
+   "In-Q-Tel",
+   "M12"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/reach-security-raises-over-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Evolution Metals & Technologies Corp. Reaffirms $400 Million to $460 Million FY2027 Revenue Guidance, Unveils Eight Sintered Magnet Grades Covering an Estimated 75% of Global NdFeB Revenue, and Moves to Answer U.S. Army Call for Rare Earth Magnets",
+  "amount": 400000000.0,
+  "date": "2026-10-14",
+  "stage": "Undisclosed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "N42SH",
+   "now in commercial production at EM&T\u2019s operations in Pohang",
+   "South Korea"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/evolution-metals-technologies-corp-reaffirms-400-million-to-460-million-fy2027-revenue-guidance-unveils-eight-sintered-magnet-grades-covering-an-estimated-75-of-global-ndfeb-revenue-and-mov.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "HydRegen",
+  "amount": 8000000.0,
+  "date": "2026-10-14",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Genoa Ventures",
+   "with participation from Clean Growth Fund",
+   "First Imagine! Ventures",
+   "Oxford Technology Management",
+   "Headington Holdings",
+   "Oxonian"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/hydregen-raises-8m-in-first-close-of-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Suki",
+  "amount": 90000000.0,
+  "date": "2026-10-14",
+  "stage": "Series E",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "new investors Healthier Capital",
+   "Crosslink Capital",
+   "Hercules Capital",
+   "including Venrock",
+   "Flare Capital Partners",
+   "Hedosophia"
+  ],
+  "desc": "Redwood City",
+  "url": "https://www.finsmes.com/2026/10/suki-raises-90m-in-series-e-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "LearnUpon",
+  "amount": 50000000.0,
+  "date": "2026-10-14",
+  "stage": "Growth",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/learnupon-receives-50m-growth-financing-facility.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Scanntech",
+  "amount": 180000000.0,
+  "date": "2026-10-14",
+  "stage": "Series F",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "L Catterton",
+   "Partners Group with participation from Bradesco",
+   "SPX",
+   "existing shareholders including Warburg Pincus",
+   "Hindiana",
+   "IFC"
+  ],
+  "desc": "Montevideo",
+  "url": "https://www.finsmes.com/2026/10/scanntech-raises-180m-in-series-f-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Affinity Labs",
+  "amount": 2000000.0,
+  "date": "2026-10-14",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Fuel Ventures",
+   "alongside Antler",
+   "Innovate UK"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/affinity-labs-raises-2m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Scuba",
+  "amount": 34000000.0,
+  "date": "2026-10-14",
+  "stage": "Pre-Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of a shared context engine for teams and their agents",
+  "url": "https://www.finsmes.com/2026/10/scuba-raises-34m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Albert",
+  "amount": 55000000.0,
+  "date": "2026-10-14",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "TCV with participation from new investors Delta-v Capital",
+   "Socium Ventures",
+   "HighSage Ventures",
+   "Coral Capital",
+   "Legion VC",
+   "as well as existing investors Coatue"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/albert-raises-55m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mdia",
+  "amount": 3000000.0,
+  "date": "2026-10-14",
+  "stage": "Undisclosed",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/mdia-receives-3m-investment.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Collective X Health",
+  "amount": 3200000.0,
+  "date": "2026-10-14",
+  "stage": "Pre-Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Council Capital",
+   "Anthemis Female Innovators Lab Fund",
+   "with participation from SoGal Ventures",
+   "Emerson Collective",
+   "Muse Capital",
+   "Segal Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/collective-x-health-raises-3-2m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mogul",
+  "amount": 15500000.0,
+  "date": "2026-10-14",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Draper Associates with participation from Draper Dragon",
+   "Avalanche Blizzard Fund",
+   "LAUNCH",
+   "Venture Togethers",
+   "Gaingels",
+   "Stephen Sullivan"
+  ],
+  "desc": "Washington",
+  "url": "https://www.finsmes.com/2026/10/mogul-raises-15-5m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Aatmunn",
+  "amount": 8000000.0,
+  "date": "2026-10-14",
+  "stage": "Growth",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "unified data layer and industrial intelligence platform for the frontline",
+  "url": "https://www.finsmes.com/2026/10/aatmunn-raises-up-to-8m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Harbor",
+  "amount": 10000000.0,
+  "date": "2026-10-13",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Base10 Partners",
+   "Abstract",
+   "8VC",
+   "with participation from NFX",
+   "Restive",
+   "Innovation Endeavors"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/harbor-raises-10m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Causa Prima",
+  "amount": 20000000.0,
+  "date": "2026-10-13",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Base10 Partners",
+   "with participation from QED Investors",
+   "FJLabs",
+   "Creandum",
+   "Kfund",
+   "Borusan Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/causa-prima-raises-20m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Intellivisa",
+  "amount": 3000000.0,
+  "date": "2026-10-13",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Mu Ventures",
+   "Incisive Ventures",
+   "with participation from Uncommon Denominator",
+   "Recursive Ventures",
+   "P2S: AltaIR Capital",
+   "Smart Partnership Capital"
+  ],
+  "desc": "Wilmington",
+  "url": "https://www.finsmes.com/2026/10/intellivisa-raises-3m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Brellium",
+  "amount": 23000000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Left Lane Capital",
+   "Digital Health Venture Partners"
+  ],
+  "desc": "NYC-based AI-powered clinical compliance platform",
+  "url": "https://www.finsmes.com/2026/10/brellium-raises-23m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Souffl\u00e9 Therapeutics",
+  "amount": 135000000.0,
+  "date": "2026-10-13",
+  "stage": "Series B",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "BB Biotech",
+   "Fidelity Management & Research Company",
+   "Balyasny Asset Management",
+   "a Leading Sovereign Wealth Fund",
+   "Amgen Ventures",
+   "ARCH Venture Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/souffle-therapeutics-raises-135m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Garage Beer",
+  "amount": 20000000.0,
+  "date": "2026-10-13",
+  "stage": "Growth",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/garage-beer-receives-20m-in-credit-facility.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sensydia",
+  "amount": 6000000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Orlando Health Ventures"
+  ],
+  "desc": "Los Angeles",
+  "url": "https://www.finsmes.com/2026/10/sensydia-raises-6m-in-initial-closing-of-new-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Dapta",
+  "amount": 6000000.0,
+  "date": "2026-10-13",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Chingona Ventures with participation from Crew Capital",
+   "Broom Ventures",
+   "Cometa VC",
+   "500 Global",
+   "Fen Ventures",
+   "Crew Capital"
+  ],
+  "desc": "Scottsdale",
+  "url": "https://www.finsmes.com/2026/10/dapta-raises-6m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Switched Source",
+  "amount": 17000000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Cubit Capital with participation from ABB",
+   "Emerald Technology Ventures",
+   "Red Cedar Ventures",
+   "Southern States",
+   "Southwire Company",
+   "other strategic investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/switched-source-raises-over-17m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sainaptic",
+  "amount": 1310000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Cornerstone VC",
+   "Ufi Ventures",
+   "with participation from Elm Venture Partners",
+   "Brighteye Ventures",
+   "Elm Venture Partners",
+   "Brighteye Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sainaptic-raises-approx-1-31m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sava Technologies",
+  "amount": 36000000.0,
+  "date": "2026-10-13",
+  "stage": "Series B",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Ascensia with participation from Balderton Capital",
+   "Norrsken VC",
+   "Simplyhealth Ventures",
+   "JamJar Investments",
+   "Pentland Ventures",
+   "Balderton Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sava-raises-36m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ubitium",
+  "amount": 14000000.0,
+  "date": "2026-10-13",
+  "stage": "Seed",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "Ibex Investors",
+   "with participation from OpenOcean",
+   "existing investors including KBC Focus Fund",
+   "Runa Capital",
+   "Inflection",
+   "Florian Seibel"
+  ],
+  "desc": "Dusseldorf",
+  "url": "https://www.finsmes.com/2026/10/ubitium-raises-14m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Klarent",
+  "amount": 8000000.0,
+  "date": "2026-10-13",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Mosaic Ventures with participation from Moonfire Ventures",
+   "J\u00fcrgen Galler",
+   "Harris Barton",
+   "AngelInvest Ventures",
+   "Moonfire Ventures",
+   "J\u00fcrgen Galler"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/klarent-raises-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Monopulse",
+  "amount": 2200000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Coinvest Capital",
+   "with participation from Plug",
+   "Play Ventures",
+   "a 68-investor angel syndicate via NGL Ventures",
+   "Plug",
+   "Play Ventures"
+  ],
+  "desc": "Kongens Lyngby",
+  "url": "https://www.finsmes.com/2026/10/monopulse-raises-over-2-2m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Loops",
+  "amount": 3500000.0,
+  "date": "2026-10-13",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "a16z",
+   "with participation from NTT Docomo",
+   "Connecticut Innovations",
+   "Alumni Ventures",
+   "Monday Capital",
+   "NTT Docomo"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/loops-raises-3-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mistlabs",
+  "amount": 26000000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Luminous Ventures",
+   "Huaqin Technology"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/mistlabs-raises-26m-in-pre-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "HyLight",
+  "amount": 14500000.0,
+  "date": "2026-10-13",
+  "stage": "Venture",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Rubio Impact Ventures",
+   "DRW",
+   "Teampact Ventures",
+   "Y Combinator",
+   "Ring Capital"
+  ],
+  "desc": "Br\u00e9tigny-sur-Orge",
+  "url": "https://www.finsmes.com/2026/10/hylight-raises-14-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Subeca",
+  "amount": 3000000.0,
+  "date": "2026-10-13",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Burnt Island Ventures with participation from Cycle H2O",
+   "SUEZ",
+   "additional investors",
+   "Cycle H2O",
+   "SUEZ",
+   "additional investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/subeca-raises-3m-in-series-a-2-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "NEU Battery Materials",
+  "amount": 7600000.0,
+  "date": "2026-10-13",
+  "stage": "Undisclosed",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Shift4Good",
+   "SGInnovate",
+   "with participation from Lotus Singapore Group",
+   "M7 Holdings",
+   "Paragon Ventures I",
+   "Lotus Singapore Group"
+  ],
+  "desc": "Singapore-based provider of a patented electrochemical redox targeting technology for recycling lithium iron phosphate (",
+  "url": "https://www.finsmes.com/2026/10/neu-battery-materials-raises-7-6m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "BioConsortia",
+  "amount": 15000000.0,
+  "date": "2026-10-12",
+  "stage": "Undisclosed",
+  "sector": "SaaS / Enterprise",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/bioconsortia-raises-15m-in-funding-3.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hello Robot Receives Nearly $3M Grant",
+  "amount": 3000000.0,
+  "date": "2026-10-12",
+  "stage": "Grant",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/hello-robot-raises-nearly-3m-in-grant-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sonilo",
+  "amount": 11000000.0,
+  "date": "2026-10-12",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "B Capital",
+   "with additional venture participation from Redpoint",
+   "Redpoint"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/sonilo-raises-11m-in-first-funding-round.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Phinity Labs",
+  "amount": 5200000.0,
+  "date": "2026-10-12",
+  "stage": "Pre-Seed",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "Uncork Capital",
+   "with participation from Moxxie",
+   "angel investors including Google Chief Scientist Jeff Dean",
+   "Moxxie",
+   "angel investors including Google Chief Scientist Jeff Dean"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/phinity-labs-raises-5-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Verso",
+  "amount": 6000000.0,
+  "date": "2026-10-12",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Angular Ventures",
+   "with participation from 100in",
+   "Kima Ventures",
+   "Olympe Capital",
+   "Sharpstone Capital",
+   "a group of business angels"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/verso-raises-6m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Scarlet",
+  "amount": 50000000.0,
+  "date": "2026-10-12",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Headline with participation from Notion Capital",
+   "Atomico",
+   "Creandum",
+   "Kindred Capital",
+   "Entrepreneurs First",
+   "Notion Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/scarlet-raises-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ultra Robotics",
+  "amount": 50000000.0,
+  "date": "2026-10-12",
+  "stage": "Series A",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "Framework Ventures",
+   "with participation from previous investor Y Combinator",
+   "previous investor Y Combinator"
+  ],
+  "desc": "NYC-based automated warehouse robotics startup",
+  "url": "https://www.finsmes.com/2026/10/ultra-robotics-raises-50m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "TypeSafe AI",
+  "amount": 870000000.0,
+  "date": "2026-10-12",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "a16z",
+   "with participation from Sequoia Capital",
+   "existing investor DCVC",
+   "a group of elite technology angel investors",
+   "Sequoia Capital",
+   "existing investor DCVC"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/typesafe-ai-raises-870m-in-series-a-funding-at-7-5-billion-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "The Dough Therapy",
+  "amount": 625000.0,
+  "date": "2026-10-12",
+  "stage": "Seed",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "Michigan Capital Advisors Ltd",
+   "Equiglobe Investment Pvt"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/the-dough-therapy-raises-625k-in-seed-funding-at-4-16m-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Skopos Bio",
+  "amount": 12000000.0,
+  "date": "2026-10-12",
+  "stage": "Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/skopos-bio-raises-12m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "CureMeAbroad",
+  "amount": 1100000.0,
+  "date": "2026-10-12",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "SteerX Ventures",
+   "with participation from existing investor AIRA",
+   "existing investor AIRA"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/curemeabroad-raises-1-1m-in-pre-seed-funding-round.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Credfix",
+  "amount": 1660000.0,
+  "date": "2026-10-12",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Tanglin Venture Partners",
+   "with additional participation from Stargazer",
+   "Stargazer"
+  ],
+  "desc": "Neytra call shield",
+  "url": "https://www.finsmes.com/2026/10/credfix-raises-1-66m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "TailBlaze Longevity",
+  "amount": 300000.0,
+  "date": "2026-10-12",
+  "stage": "Pre-Seed",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "US-based venture capital firm Comma Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/tailblaze-longevity-raises-300k-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Konst",
+  "amount": 30000000.0,
+  "date": "2026-10-12",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Pegatron Venture Capital",
+   "other corporate investors",
+   "M Mobility",
+   "Pegatron Venture Capital",
+   "other corporate investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/konst-raises-30m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Kapta Space",
+  "amount": 24000000.0,
+  "date": "2026-10-12",
+  "stage": "Series A",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Washington Harbour Partners",
+   "Bison Ventures",
+   "with participation from MetaVC",
+   "MYDA Capital",
+   "Entrada Ventures",
+   "Aurelia Foundry"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/kapta-space-raises-24m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Gudea",
+  "amount": 7000000.0,
+  "date": "2026-10-12",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Mudita Ventures",
+   "Collide Capital"
+  ],
+  "desc": "Minneapolis",
+  "url": "https://www.finsmes.com/2026/10/gudea-raises-7m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Jaca",
+  "amount": 1000000.0,
+  "date": "2026-10-12",
+  "stage": "Strategic",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [],
+  "desc": "Delray Beach",
+  "url": "https://www.finsmes.com/2026/10/jaca-receives-1m-investment.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Oxide Computer Company",
+  "amount": 445000000.0,
+  "date": "2026-10-12",
+  "stage": "Series D",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "Riot Ventures",
+   "Jane Street",
+   "Atreides Management",
+   "AMD Ventures",
+   "among others",
+   "US Innovative Technology Fund"
+  ],
+  "desc": "Emeryville",
+  "url": "https://www.finsmes.com/2026/10/oxide-computer-company-raises-445m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sabi",
+  "amount": 50000000.0,
+  "date": "2026-10-12",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Khosla Ventures with participation from Accel",
+   "Initialized Capital",
+   "Kevin Weil",
+   "DST Global",
+   "Collaborative Fund",
+   "Ascend"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/sabi-raises-50m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Wiremind",
+  "amount": 35000000.0,
+  "date": "2026-10-09",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "CEO Colin Girault-Matz",
+   "CTO Charles Pierre",
+   "Wiremind develops advanced AI-driven software",
+   "including its flagship revenue management platform CAYZN",
+   "its inventory",
+   "distribution system PAXONE"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/wiremind-raises-35m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Matchpoint Therapeutics",
+  "amount": 150000000.0,
+  "date": "2026-10-09",
+  "stage": "Series B",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Nextech Invest",
+   "Norwest",
+   "with participation from new investors Invus",
+   "BB Biotech",
+   "T1D Fund",
+   "BOLD Longevity Growth"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/matchpoint-therapeutics-raises-150m-in-series-b-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "PsiQuantum Receives Conditional $150M Loan Commitment from the U.S. Department of War",
+  "amount": 150000000.0,
+  "date": "2026-10-09",
+  "stage": "Strategic",
+  "sector": "Other",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/psiquantum-receives-conditional-150m-loan-commitment-from-the-u-s-department-of-war.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "OllyGarden",
+  "amount": 4000000.0,
+  "date": "2026-10-09",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/ollygarden-raises-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Medical Microinstruments",
+  "amount": 125000000.0,
+  "date": "2026-10-09",
+  "stage": "Series D",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "existing investor BioStar Capital",
+   "with participation from new investors S3 Ventures",
+   "Angelini Ventures",
+   "an undisclosed strategic corporate investor",
+   "new investors S3 Ventures",
+   "Angelini Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/medical-microinstruments-raises-125m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Meticulou",
+  "amount": 15000000.0,
+  "date": "2026-10-09",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Chemistry with participation from Menlo Ventures",
+   "angel investors Lachy Groom",
+   "Jason Warner",
+   "Arash Ferdowsi",
+   "Scott Belsky",
+   "Guillermo Rauch"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/meticulou-raises-15m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Welltory",
+  "amount": 2000000.0,
+  "date": "2026-10-09",
+  "stage": "Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "Redwood City",
+  "url": "https://www.finsmes.com/2026/10/welltory-raises-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rebel Audio",
+  "amount": 10000000.0,
+  "date": "2026-10-09",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "HardScope",
+   "with participation from Launch TN",
+   "Capital Midwest",
+   "Rich Marder",
+   "Joe McCann",
+   "Julie Gauthier"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/rebel-audio-raises-10m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hone",
+  "amount": 60000000.0,
+  "date": "2026-10-09",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Benchmark",
+   "co-led by Index Ventures",
+   "with participation from Elad Gil",
+   "Hanabi",
+   "Definition",
+   "Diffusion"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/hone-raises-60m-in-funding-at-285m-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Zeroset",
+  "amount": 5200000.0,
+  "date": "2026-10-09",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Gradient",
+   "2048 Ventures",
+   "with participation from Leblon Capital",
+   "Leblon Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/zeroset-raises-5-2m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Phantom GI",
+  "amount": 5000000.0,
+  "date": "2026-10-09",
+  "stage": "Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Pitango Healthcare",
+   "with participation from RAD Biomed",
+   "RUNI Ventures",
+   "RAD Biomed",
+   "RUNI Ventures"
+  ],
+  "desc": "alternative to surgical ostomy that enables minimally invasive ostomy creation",
+  "url": "https://www.finsmes.com/2026/10/phantom-gi-raises-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Arena",
+  "amount": 200000000.0,
+  "date": "2026-10-09",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Lightspeed Venture Partners",
+   "Khosla Ventures",
+   "with participation from Salesforce Ventures",
+   "01 Advisors",
+   "Dell Technologies Capital",
+   "Endeavor Catalyst"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/arena-raises-200m-in-series-b-funding-at-3-1b-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Voltus",
+  "amount": 225000000.0,
+  "date": "2026-10-09",
+  "stage": "Series D",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Generation Investment Management",
+   "Activate Capital",
+   "Vitol",
+   "with participation from Broadscale Group",
+   "Climate Investment",
+   "NGP"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/voltus-raises-225m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "UniSieve",
+  "amount": 9000000.0,
+  "date": "2026-10-09",
+  "stage": "Series A",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "the Orano Venture Fund",
+   "managed by Supernova Invest",
+   "with participation from Amadeus APEX Technology Fund",
+   "Founderful",
+   "Z\u00fcrcher Kantonalbank",
+   "Guenat Holding"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/unisieve-raises-9m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "byteXL",
+  "amount": 9000000.0,
+  "date": "2026-10-08",
+  "stage": "Undisclosed",
+  "sector": "EdTech",
+  "location": "",
+  "investors": [
+   "Elevar Equity",
+   "with participation from existing investors Kalaari Capital",
+   "the Michael & Susan Dell Foundation",
+   "existing investors Kalaari Capital",
+   "the Michael & Susan Dell Foundation"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/bytexl-raises-9m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "TrueLayer",
+  "amount": 27000000.0,
+  "date": "2026-10-08",
+  "stage": "Venture",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "CDP Venture Capital",
+   "alongside a consortium of existing"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/truelayer-raises-27m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Oratomic",
+  "amount": 775000000.0,
+  "date": "2026-10-08",
+  "stage": "Venture",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "ARCH Venture Partners",
+   "Spark Capital",
+   "Khosla Ventures",
+   "Index Ventures",
+   "General Catalyst",
+   "Bezos Expeditions"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/oratomic-raises-775m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Stord",
+  "amount": 400000000.0,
+  "date": "2026-10-08",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/stord-receives-400m-credit-facility.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Fortastra",
+  "amount": 30000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "Cybersecurity",
+  "location": "",
+  "investors": [
+   "First In with participation from Upfront Ventures",
+   "Space Capital",
+   "Rsquared",
+   "Side Door Ventures",
+   "ATX Ventures",
+   "Upfront Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/fortastra-raises-30m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Veir",
+  "amount": 110000000.0,
+  "date": "2026-10-08",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Matter Venture Partners",
+   "Tyche Partners",
+   "with participation from LG Technology Ventures",
+   "Gates Frontier",
+   "Sabanci Climate Ventures",
+   "Hui Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/veir-raises-110m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Outro",
+  "amount": 7000000.0,
+  "date": "2026-10-08",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of an integrated deprescribing platform helping people safely discontinue psychiatric medications",
+  "url": "https://www.finsmes.com/2026/10/outro-raises-7m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Pivot Energy",
+  "amount": 173000000.0,
+  "date": "2026-10-08",
+  "stage": "Undisclosed",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/pivot-energy-closes-173m-term-loan-facility.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Peppermint Raises",
+  "amount": 4700000.0,
+  "date": "2026-10-08",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Moxxie with participation from Homebrew",
+   "Better Tomorrow Ventures",
+   "Layout Ventures",
+   "Digital Health Venture Partners",
+   "Night Capital",
+   "Benjamin Mann"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/peppermint-raises-raises-4-7m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vinci Pharmaceuticals",
+  "amount": 8000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Dynagrow Capital",
+   "with participation from MintPharma Capital",
+   "MintPharma Capital"
+  ],
+  "desc": "Avon-by-the-Sea",
+  "url": "https://www.finsmes.com/2026/10/vinci-pharmaceuticals-raises-over-8m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vocca",
+  "amount": 20000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Norrsken VC with participation from Heal Capital",
+   "Speedinvest",
+   "Firstminute Capital",
+   "Heal Capital",
+   "Speedinvest",
+   "Firstminute Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/vocca-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Gallatin AI",
+  "amount": 50000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "El Segundo",
+  "url": "https://www.finsmes.com/2026/10/gallatin-ai-raises-50m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rein Security",
+  "amount": 25000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Glilot Capital",
+   "Sienna Venture Capital",
+   "with participation from Corner Ventures",
+   "Atlacle",
+   "RNP Capital Advisors",
+   "Corner Ventures"
+  ],
+  "desc": "NYC- and Tel Aviv",
+  "url": "https://www.finsmes.com/2026/10/rein-security-raises-25m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "IMMIX",
+  "amount": 3500000.0,
+  "date": "2026-10-08",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/immix-raises-3-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Universal Quantum",
+  "amount": 100000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "DCVC",
+   "Firgun Ventures",
+   "with participation from EDBI",
+   "Artal",
+   "Integral GlobalTech",
+   "Main Sequence"
+  ],
+  "desc": "Haywards Heath",
+  "url": "https://www.finsmes.com/2026/10/universal-quantum-raises-over-100m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Atomic Machines",
+  "amount": 250000000.0,
+  "date": "2026-10-08",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "Emeryville",
+  "url": "https://www.finsmes.com/2026/10/atomic-machines-raises-250m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "NeoFleet Capital",
+  "amount": 4000000.0,
+  "date": "2026-10-08",
+  "stage": "Pre-Seed",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/neofleet-capital-raises-4m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "AblePay Health",
+  "amount": 20000000.0,
+  "date": "2026-10-08",
+  "stage": "Series A",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "F-Prime with participation from A1 Health Ventures",
+   "A1 Health Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/ablepay-health-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Agentiq",
+  "amount": 4000000.0,
+  "date": "2026-10-07",
+  "stage": "Undisclosed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "defy"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/agentiq-raises-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Healthleap",
+  "amount": 38000000.0,
+  "date": "2026-10-07",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/healthleap-raises-38m-in-seed-and-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ampersand",
+  "amount": 15000000.0,
+  "date": "2026-10-07",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Bessemer Venture Partners with participation from Matrix",
+   "Flex Capital",
+   "Yelp",
+   "Tenacity Capital",
+   "CTO Fund",
+   "Mana Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/ampersand-raises-15m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Parallel Systems",
+  "amount": 100000000.0,
+  "date": "2026-10-07",
+  "stage": "Series C",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "AVP with participation from Hillspire",
+   "Agility Global",
+   "Cobalt Capital",
+   "Anthos Capital",
+   "Congruent Ventures",
+   "Riot Capital"
+  ],
+  "desc": "Los Angeles",
+  "url": "https://www.finsmes.com/2026/10/parallel-systems-raises-100m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "TeddyHoldings.AI",
+  "amount": 60000000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of a compliance and client-focused legal services platform",
+  "url": "https://www.finsmes.com/2026/10/teddyholdings-ai-raises-60m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Furientis",
+  "amount": 25000000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Benchmark",
+   "with Chetan Puttagunta joining the board"
+  ],
+  "desc": "Los Angeles",
+  "url": "https://www.finsmes.com/2026/10/furientis-raises-25m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Stuut",
+  "amount": 52500000.0,
+  "date": "2026-10-07",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Insight Partners",
+   "a16z",
+   "M12",
+   "Activant",
+   "a16z",
+   "M12"
+  ],
+  "desc": "NYC-based provider of an AI platform for order-to-cash process automation",
+  "url": "https://www.finsmes.com/2026/10/stuut-raises-52-5m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Eden AI Labs",
+  "amount": 1500000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Gaea Ventures",
+   "with participation from Becker Ventures",
+   "GTM Ventures",
+   "family offices",
+   "Becker Ventures",
+   "GTM Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/eden-ai-labs-raises-1-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "General Medicine",
+  "amount": 120000000.0,
+  "date": "2026-10-07",
+  "stage": "Series B",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "a16z",
+   "with participation from Matrix",
+   "VXI Capital",
+   "Eli Lilly",
+   "Company",
+   "Mercy Health through Granger Management"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/general-medicine-raises-120m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Melius",
+  "amount": 25000000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of a shared creative operating system and agents lab for creative work",
+  "url": "https://www.finsmes.com/2026/10/melius-raises-25m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Noah",
+  "amount": 16000000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/noah-raises-16m-in-seed-extension-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Wally Health",
+  "amount": 25000000.0,
+  "date": "2026-10-07",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Maveron",
+   "with participation from Bling Capital",
+   "Jack Abraham",
+   "Bling Capital",
+   "Jack Abraham"
+  ],
+  "desc": "NYC-based provider of an AI-powered subscription oral care platform",
+  "url": "https://www.finsmes.com/2026/10/wally-health-raises-25m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rivercell",
+  "amount": 25000000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "HV",
+   "with participation from HCVC",
+   "Alven",
+   "Bpifrance Digital Venture",
+   "HCVC",
+   "Alven"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/rivercell-raises-25m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Trmeric Raises",
+  "amount": 6500000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Hitachi Ventures with participation from Schema Ventures",
+   "CerraCap Impact Venture Capital",
+   "FalconX Ventures",
+   "Executive Venture Fund",
+   "Gokul Rajaram",
+   "Yatish Mishra"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/trmeric-raises-raises-6-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ledgebrook",
+  "amount": 200000000.0,
+  "date": "2026-10-07",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Allianz X",
+   "Rockefeller Capital Management",
+   "with participation from existing",
+   "existing"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/ledgebrook-raises-200m-in-primary-equity-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Umia",
+  "amount": 6000000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "Crypto / Web3",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based onchain platform for launching",
+  "url": "https://www.finsmes.com/2026/10/umia-raises-6m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "MintNeuro",
+  "amount": 5000000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "Odyssey Ventures",
+   "with participation from 33East",
+   "JSK Investments",
+   "Alumni Ventures",
+   "Empirical Ventures",
+   "Jumpspace Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/mintneuro-raises-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Netsec",
+  "amount": 10000000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Partech with participation from Primo Capital",
+   "View Different",
+   "Riccardo Zacconi",
+   "Kima Ventures",
+   "Ithaca Investments",
+   "Vento"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/netsec-raises-over-10m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vitalize",
+  "amount": 31000000.0,
+  "date": "2026-10-07",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Oak HC/FT with participation from Norwest",
+   "Norwest"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/vitalize-raises-31m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Navra",
+  "amount": 19000000.0,
+  "date": "2026-10-07",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Ribbit with participation from Baseline",
+   "DCM",
+   "Jump Crypto",
+   "Figure Technology Solutions",
+   "Baseline",
+   "DCM"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/navra-raises-19m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Chiplytics",
+  "amount": 4500000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Scout Ventures",
+   "Waypoint Ventures",
+   "with participation from QKSS",
+   "Industrious Ventures",
+   "Interwoven Ventures",
+   "Seattle Alliance of Angels"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/chiplytics-raises-4-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Aventra Defense Systems",
+  "amount": 17500000.0,
+  "date": "2026-10-07",
+  "stage": "Venture",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "new investors Booz Allen Ventures",
+   "Sands Capital",
+   "Langford Industries",
+   "existing investor Lavrock Ventures",
+   "new investors Booz Allen Ventures",
+   "Sands Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/aventra-defense-systems-raises-17-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Arboretum LifeSciences",
+  "amount": 30000000.0,
+  "date": "2026-10-07",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/arboretum-lifesciences-raises-30m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tensor Machines",
+  "amount": 1500000.0,
+  "date": "2026-10-07",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Omni VC with participation from Reinforced Ventures",
+   "Avesta Fund",
+   "Draper U Ventures",
+   "Reinforced Ventures",
+   "Avesta Fund",
+   "Draper U Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/tensor-machines-raises-1-5m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Cori Clinical",
+  "amount": 4000000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Breega with participation from Enzo",
+   "Heartfelt",
+   "Together Ventures",
+   "Bynd",
+   "Enzo",
+   "Heartfelt"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/cori-clinical-raises-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Guardrail Technologies",
+  "amount": 3000000.0,
+  "date": "2026-10-07",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "strategic angel investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/guardrail-technologies-raises-3m-across-two-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Vinci",
+  "amount": 250000000.0,
+  "date": "2026-10-06",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Advent",
+   "Temasek",
+   "Xora",
+   "with participation from AMD Ventures",
+   "Eclipse",
+   "Khosla Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/vinci-raises-250m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sensible Biotechnologies",
+  "amount": 47000000.0,
+  "date": "2026-10-06",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "Bratislava",
+  "url": "https://www.finsmes.com/2026/10/sensible-biotechnologies-raises-47m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Avarra",
+  "amount": 17000000.0,
+  "date": "2026-10-06",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Duration Ventures",
+   "with participation from Lightspeed Venture Partners",
+   "Draper Associates",
+   "the GTMfund",
+   "Alumni Ventures",
+   "strategic investment from Zoom"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/avarra-raises-17m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Siena",
+  "amount": 17000000.0,
+  "date": "2026-10-06",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "York IE with participation from Joyance Ventures",
+   "Agla\u00e9 Ventures",
+   "Sierra Ventures",
+   "Joyance Ventures",
+   "Agla\u00e9 Ventures",
+   "Sierra Ventures"
+  ],
+  "desc": "NYC-based provider of an AI-driven customer experience platform for consumer brands",
+  "url": "https://www.finsmes.com/2026/10/siena-raises-17m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Nettle",
+  "amount": 4800000.0,
+  "date": "2026-10-06",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "MTech",
+   "with participation from Project A",
+   "SVV",
+   "Portfolio Ventures",
+   "Ventures Together",
+   "Project A"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/nettle-raises-4-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Type One Energy",
+  "amount": 200000000.0,
+  "date": "2026-10-06",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Breakthrough Energy Ventures",
+   "Clutterbuck Capital",
+   "with participation from Lowercarbon Capital",
+   "Siemens Energy Ventures",
+   "SiteGround Capital",
+   "Lowercarbon Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/type-one-energy-raises-200m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Capitolis",
+  "amount": 220000000.0,
+  "date": "2026-10-06",
+  "stage": "Series E",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "Citi with participation from Bank of America",
+   "Nomura",
+   "Tradeweb Markets",
+   "Barclays",
+   "BNP Paribas",
+   "Bank of America"
+  ],
+  "desc": "NYC-based financial technology company",
+  "url": "https://www.finsmes.com/2026/10/capitolis-raises-220m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Pro Shop",
+  "amount": 24000000.0,
+  "date": "2026-10-06",
+  "stage": "Series B",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Arthur M",
+   "new investors Causeway Media Partners",
+   "Ares Sports",
+   "Media",
+   "Entertainment funds",
+   "returning investors including PGA Tour"
+  ],
+  "desc": "Pontre Vedra Beach",
+  "url": "https://www.finsmes.com/2026/10/pro-shop-raises-24m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sant\u00e9",
+  "amount": 15000000.0,
+  "date": "2026-10-06",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "FINTOP with participation from Bonfire Ventures",
+   "Operator Collective",
+   "Y Combinator",
+   "Veridical Ventures",
+   "Bonfire Ventures",
+   "Operator Collective"
+  ],
+  "desc": "NYC-based provider of an AI operating system for wine and spirits retail",
+  "url": "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Torch Systems",
+  "amount": 11500000.0,
+  "date": "2026-10-06",
+  "stage": "Debt",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "Khosla Ventures",
+   "Abstract",
+   "Construct Capital",
+   "Starship Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/torch-systems-raises-11-5m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Authors First",
+  "amount": 10000000.0,
+  "date": "2026-10-06",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Brand Foundry",
+   "founder Robert Hamwee",
+   "with participation from Bolt Ventures",
+   "Andy Mills",
+   "Mike Duggal",
+   "John Kline"
+  ],
+  "desc": "NYC provider of a book-to-screen studio and distribution platform",
+  "url": "https://www.finsmes.com/2026/10/authors-first-raises-over-10m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "It\u2019sugar",
+  "amount": 8000000.0,
+  "date": "2026-10-06",
+  "stage": "Growth",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [],
+  "desc": "Deerfield Beach",
+  "url": "https://www.finsmes.com/2026/10/itsugar-received-8m-revolving-credit-facility-from-second-avenue-capital-partners.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "KymaThera",
+  "amount": 80000000.0,
+  "date": "2026-10-06",
+  "stage": "Series B",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Alta Partners with participation from Venrock",
+   "Foresite Capital",
+   "Venrock",
+   "Foresite Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/kymathera-raises-80m-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Benchmark Energy",
+  "amount": 47500000.0,
+  "date": "2026-10-06",
+  "stage": "Undisclosed",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/benchmark-energy-raises-47-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "pubX",
+  "amount": 5000000.0,
+  "date": "2026-10-06",
+  "stage": "Series A",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "Chicago Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/pubx-raises-5m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Polygrade",
+  "amount": 6300000.0,
+  "date": "2026-10-06",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/polygrade-raises-6-3m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "$10 Million and Counting: Hola Prime Hits Major Trader Payout Milestone",
+  "amount": 10000000.0,
+  "date": "2026-10-06",
+  "stage": "Growth",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/10-million-and-counting-hola-prime-hits-major-trader-payout-milestone.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Project Suppliers",
+  "amount": 1000000.0,
+  "date": "2026-10-06",
+  "stage": "Pre-Seed",
+  "sector": "Real Estate",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/project-suppliers-raises-1m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "WhiteLab Genomics",
+  "amount": 26000000.0,
+  "date": "2026-10-06",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "AVP",
+   "with participation from new investors Yaday Health",
+   "Blast Club",
+   "alongside existing investors Omnes",
+   "Debiopharm",
+   "new investors Yaday Health"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/whitelab-genomics-raises-26m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "RougeTx",
+  "amount": 58000000.0,
+  "date": "2026-10-06",
+  "stage": "Series A",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "BioGeneration Ventures",
+   "Angelini Ventures",
+   "Aurea",
+   "Kurma Partners",
+   "with participation from Epidarex Capital",
+   "Vesalius Biocapital Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/rougetx-raises-58m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Archeon Medical",
+  "amount": 9000000.0,
+  "date": "2026-10-06",
+  "stage": "Series A",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "UI Investissement",
+   "Majycc Innovation Sant\u00e9",
+   "Karot Capital",
+   "Eiffel Investment Group",
+   "UI Investissement",
+   "Majycc Innovation Sant\u00e9"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/archeon-medical-raises-9m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Comparables.ai",
+  "amount": 6000000.0,
+  "date": "2026-10-06",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Pragmatech",
+   "Araya Ventures",
+   "with participation from Purple Ventures",
+   "Gorilla Capital",
+   "hi5 Ventures",
+   "Somersault Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Spiko",
+  "amount": 90000000.0,
+  "date": "2026-10-06",
+  "stage": "Series B",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Bpifrance",
+   "Speedinvest",
+   "Flourish Ventures",
+   "Shapers",
+   "White Star Capital",
+   "Blockwall"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/spiko-raises-90m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hadrian",
+  "amount": 40000000.0,
+  "date": "2026-10-06",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Forgepoint Capital International",
+   "SmartFin with participation from HV Capital",
+   "Motive Partners",
+   "Picus Capital",
+   "Oetker Ventures",
+   "HV Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/hadrian-raises-40m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "SafeWorld",
+  "amount": 12200000.0,
+  "date": "2026-10-05",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/safeworld-raises-12-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Buntar Aerospace",
+  "amount": 16000000.0,
+  "date": "2026-10-05",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Freedom Fund",
+   "Iron Wolf",
+   "Autonomy Capital",
+   "Gardar",
+   "Iron Wolf",
+   "Autonomy Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/buntar-aerospace-raises-16m-in-fudging.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "UpSmith",
+  "amount": 10000000.0,
+  "date": "2026-10-05",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "SemperVirens with participation from Hannah Grey Ventures",
+   "Asymmetric Capital Partners",
+   "CIV",
+   "Synetro Group",
+   "WaterStone Impact Fund",
+   "Sandwith Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/upsmith-raises-10m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Clockwork.io",
+  "amount": 31000000.0,
+  "date": "2026-10-05",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Premji Invest",
+   "Wing Venture Capital",
+   "Seligman Ventures",
+   "with participation from NEA",
+   "e& Capital",
+   "NEA"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/clockwork-io-raises-31m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Valon",
+  "amount": 150000000.0,
+  "date": "2026-10-05",
+  "stage": "Series D",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC- and San Francisco",
+  "url": "https://www.finsmes.com/2026/10/valon-raises-150m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Consano Bio",
+  "amount": 15000000.0,
+  "date": "2026-10-05",
+  "stage": "Undisclosed",
+  "sector": "Other",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/consano-bio-raises-over-15m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "SignSplit",
+  "amount": 400000000.0,
+  "date": "2026-10-05",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "W Group"
+  ],
+  "desc": "Wilmington",
+  "url": "https://www.finsmes.com/2026/10/signsplit-raises-400m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Living Optics",
+  "amount": 20000000.0,
+  "date": "2026-10-05",
+  "stage": "Venture",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "BRV Capital Management",
+   "with participation from Lockheed Martin Ventures",
+   "Applied Ventures",
+   "Lam Capital",
+   "GK Goh",
+   "British Business Bank"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/living-optics-raises-20m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Lambda",
+  "amount": 1000000000.0,
+  "date": "2026-10-05",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/lambda-closes-1-billion-senior-secured-fixed-rate-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Supabase",
+  "amount": 150000000.0,
+  "date": "2026-10-05",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "GIC with participation from CapitalG",
+   "IronArc",
+   "SquarePeg",
+   "CapitalG",
+   "IronArc",
+   "SquarePeg"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/supabase-raises-150m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Promenaut",
+  "amount": 8900000.0,
+  "date": "2026-10-02",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/promenaut-raises-8-9m-in-total-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "NexBank Capital",
+  "amount": 150000000.0,
+  "date": "2026-10-02",
+  "stage": "Undisclosed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/nexbank-capital-raises-150m-in-new-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "NorthStar Medical Technologies Receives Up to $185M Growth Financing",
+  "amount": 185000000.0,
+  "date": "2026-10-02",
+  "stage": "Growth",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/northstar-medical-technologies-receives-up-to-185m-growth-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Augmeta",
+  "amount": 3000000.0,
+  "date": "2026-10-02",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Depth Ventures with participation from Next Wave NYC",
+   "scouts from Index Ventures",
+   "Sequoia Capital",
+   "Next Wave NYC",
+   "scouts from Index Ventures",
+   "Sequoia Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/augmeta-raises-3m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "PaleBlueDot AI",
+  "amount": 200000000.0,
+  "date": "2026-10-02",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "ComputeCore with participation from B Capital",
+   "B Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/palebluedot-ai-raises-200m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Parakeet Health",
+  "amount": 10000000.0,
+  "date": "2026-10-02",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "StoryHouse Ventures",
+   "HMC INQ",
+   "Blank Space Ventures",
+   "StoryHouse Ventures",
+   "HMC INQ"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/parakeet-health-raises-10m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "SedMed",
+  "amount": 4000000.0,
+  "date": "2026-10-02",
+  "stage": "Undisclosed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "108 BioCapital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/sedmed-raises-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Walapay",
+  "amount": 4600000.0,
+  "date": "2026-10-01",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Generative Ventures",
+   "with participation from Commerce Ventures",
+   "Polygon",
+   "Verda Ventures",
+   "NGC Ventures",
+   "FGV Capital"
+  ],
+  "desc": "NYC-based provider of a global payments infrastructure for account issuance",
+  "url": "https://www.finsmes.com/2026/10/walapay-raises-4-6m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Reverion",
+  "amount": 175000000.0,
+  "date": "2026-10-01",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Kembara",
+   "with participation from Allianz",
+   "KfW Capital",
+   "Aurum Impact",
+   "Carbon Equity",
+   "Allianz"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/reverion-raises-175m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ArkeaBio",
+  "amount": 7000000.0,
+  "date": "2026-10-01",
+  "stage": "Series A",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Breakthrough Energy Ventures",
+   "AgriZeroNZ"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/arkeabio-raises-7m-in-series-a1-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Homeward",
+  "amount": 120000000.0,
+  "date": "2026-10-01",
+  "stage": "Series D",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "Citi Ventures",
+   "Magnetar",
+   "Harmony Partners",
+   "Norwest",
+   "Adams Street Partners",
+   "LiveOak Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/homeward-raises-120m-in-series-d-funding-and-330m-in-debt-facilities.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Notey",
+  "amount": 3000000.0,
+  "date": "2026-10-01",
+  "stage": "Seed",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [
+   "Tivoli Ventures",
+   "co-led by Malta Venture Capital",
+   "a $1M non-dilutive development grant from Malta Enterprise"
+  ],
+  "desc": "Los Angeles",
+  "url": "https://www.finsmes.com/2026/10/notey-raises-3m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Volantis",
+  "amount": 88000000.0,
+  "date": "2026-10-01",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Lachy Groom",
+   "Abstract Ventures",
+   "with participation from John Doerr",
+   "VXI Capital",
+   "Triatomic",
+   "Susa Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/volantis-raises-88m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "GridStor",
+  "amount": 220000000.0,
+  "date": "2026-10-01",
+  "stage": "Debt",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/gridstor-closes-220m-debt-financing-agreement.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Biotia",
+  "amount": 9000000.0,
+  "date": "2026-10-01",
+  "stage": "Venture",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of clinical metagenomics solutions",
+  "url": "https://www.finsmes.com/2026/10/biotia-raises-9m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "AMP",
+  "amount": 70000000.0,
+  "date": "2026-10-01",
+  "stage": "Debt",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Galvanize"
+  ],
+  "desc": "Louisville",
+  "url": "https://www.finsmes.com/2026/10/amp-receives-70m-in-project-debt-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Armadin",
+  "amount": 255500000.0,
+  "date": "2026-10-01",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "a16z",
+   "Accel",
+   "with participation from Bain Capital Ventures",
+   "Redpoint",
+   "8VC",
+   "Ballistic Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/armadin-raises-255-5m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "TriGemX Bio",
+  "amount": 94000000.0,
+  "date": "2026-10-01",
+  "stage": "Undisclosed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "The Column Group",
+   "TCGX",
+   "Viking Global Investors",
+   "with participation from additional investors",
+   "additional investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/trigemx-bio-raises-94m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "doxx.net",
+  "amount": 38000000.0,
+  "date": "2026-10-01",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "a16z",
+   "Focal",
+   "Animo Ventures",
+   "Focal"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/doxx-net-raises-38m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Aligator",
+  "amount": 1200000.0,
+  "date": "2026-10-01",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "a group of private investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/aligator-raises-1-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Daptic",
+  "amount": 15000000.0,
+  "date": "2026-10-01",
+  "stage": "Series A",
+  "sector": "Legal",
+  "location": "",
+  "investors": [
+   "Canvas Ventures with participation from IA Ventures",
+   "8VC",
+   "IA Ventures",
+   "8VC"
+  ],
+  "desc": "NYC-based provider of a product compliance lifecycle management (PCLM) platform for manufacturers",
+  "url": "https://www.finsmes.com/2026/10/daptic-raises-15m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Osavul",
+  "amount": 10000000.0,
+  "date": "2026-10-01",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "33N Ventures",
+   "with participation from Balnord",
+   "G+D Ventures",
+   "existing investor 42CAP",
+   "Balnord",
+   "G+D Ventures"
+  ],
+  "desc": "Luxembourg-based AI-driven hybrid risk intelligence company",
+  "url": "https://www.finsmes.com/2026/10/osavul-raises-10m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tangent Robotics",
+  "amount": 4500000.0,
+  "date": "2026-10-01",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Fly Ventures",
+   "Toyota Ventures",
+   "with participation from Logos Fund",
+   "Sparked Ventures",
+   "Logos Fund",
+   "Sparked Ventures"
+  ],
+  "desc": "NYC-based provider of a fine motor skill layer for robotic manipulation",
+  "url": "https://www.finsmes.com/2026/10/tangent-robotics-raises-4-5m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Restate",
+  "amount": 20000000.0,
+  "date": "2026-10-01",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Singular with participation from Redpoint Ventures",
+   "Capital One Ventures",
+   "Redpoint Ventures",
+   "Capital One Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/restate-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "AlgoX2",
+  "amount": 10000000.0,
+  "date": "2026-10-01",
+  "stage": "Seed",
+  "sector": "DevTools",
+  "location": "",
+  "investors": [
+   "Bessemer Venture Partners",
+   "Fin Capital with participation from Alumni Ventures",
+   "Somersault Ventures",
+   "Octave",
+   "Motivate VC",
+   "AAL VC"
+  ],
+  "desc": "NYC-based provider of a data streaming operating system",
+  "url": "https://www.finsmes.com/2026/10/algox2-raises-10m-in-seed-extension-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Fortem Technologies",
+  "amount": 50000000.0,
+  "date": "2026-10-01",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Lockheed Martin with participation from Unusual Machines",
+   "other strategic",
+   "institutional investors",
+   "Unusual Machines",
+   "other strategic",
+   "institutional investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/10/fortem-technologies-raises-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "GMI Cloud",
+  "amount": 660000000.0,
+  "date": "2026-10-01",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "CTBC",
+   "NVIDIA",
+   "DSC Investment",
+   "Trend Micro",
+   "KB Investment",
+   "Kyobo Life"
+  ],
+  "desc": "Mountain View",
+  "url": "https://www.finsmes.com/2026/10/gmi-cloud-raises-over-660m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Flow Engineering",
+  "amount": 50000000.0,
+  "date": "2026-10-01",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Antonio Gracias",
+   "Gavin Baker",
+   "with participation from Sequoia Capital",
+   "Human Capital",
+   "Evantic",
+   "SV Angel"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/10/flow-engineering-raises-50m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "CScale",
+  "amount": 145000000.0,
+  "date": "2026-09-30",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Atreides Management",
+   "Valor Equity Partners",
+   "Premji Invest",
+   "with participation from Sutter Hill Ventures",
+   "Maverick Silicon",
+   "NVIDIA"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/cscale-raises-145m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Beltic",
+  "amount": 7300000.0,
+  "date": "2026-09-30",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Norwest",
+   "with participation from Restive Ventures",
+   "Oxford Seed Fund",
+   "Collide Capital",
+   "Restive Ventures",
+   "Oxford Seed Fund"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/beltic-raises-7-3m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ascerta",
+  "amount": 18000000.0,
+  "date": "2026-09-30",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "BGV",
+   "Wipro Ventures",
+   "earlier investors",
+   "Hitachi Ventures",
+   "BGV",
+   "Wipro Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/ascerta-raises-18m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "R1 Therapeutics Extends Series A To $80.5M",
+  "amount": 80500000.0,
+  "date": "2026-09-30",
+  "stage": "Series A",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/r1-therapeutics-extends-series-a-to-80-5m.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Metaview",
+  "amount": 60000000.0,
+  "date": "2026-09-30",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Insight Partners with participation from GV",
+   "Intrepid Growth Partners",
+   "Seedcamp",
+   "Vertex Ventures US",
+   "Plural",
+   "Garuda Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/metaview-raises-60m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Skylight",
+  "amount": 25000000.0,
+  "date": "2026-09-30",
+  "stage": "Undisclosed",
+  "sector": "Other",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/skylight-expands-credit-facility-to-75m.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Miter",
+  "amount": 40000000.0,
+  "date": "2026-09-30",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Coatue",
+   "Bessemer Venture Partners",
+   "Coatue"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/miter-raises-40m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Relay",
+  "amount": 36000000.0,
+  "date": "2026-09-30",
+  "stage": "Growth",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "International Paper with participation from Cerity Partners",
+   "Harmonic Growth Partners",
+   "Thayer Investment Partners",
+   "G2 Venture Partners",
+   "Wind River Ventures",
+   "Cerity Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/relay-raises-36m-in-new-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "PERPTools",
+  "amount": 8000000.0,
+  "date": "2026-09-30",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/perptools-raises-8m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ray Therapeutics",
+  "amount": 8000000.0,
+  "date": "2026-09-30",
+  "stage": "Grant",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/ray-therapeutics-receives-8m-grant.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Varda Space Industries",
+  "amount": 251000000.0,
+  "date": "2026-09-30",
+  "stage": "Series D",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Lux Capital",
+   "Natural Capital with participation from Founders Fund",
+   "Khosla Ventures",
+   "Caffeinated Capital",
+   "General Catalyst",
+   "8090 Industries"
+  ],
+  "desc": "El Segundo",
+  "url": "https://www.finsmes.com/2026/09/varda-space-industries-raises-251m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Quotr",
+  "amount": 4000000.0,
+  "date": "2026-09-30",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "strategic angel investors"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/quotr-raises-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "OuterSignal",
+  "amount": 22000000.0,
+  "date": "2026-09-30",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Long Journey Ventures",
+   "Abstract Ventures with participation from BAM Ventures",
+   "Top Shelf Ventures",
+   "SuperAngel",
+   "BAM Ventures",
+   "Top Shelf Ventures"
+  ],
+  "desc": "NYC-based provider of an agentic customer intelligence platform",
+  "url": "https://www.finsmes.com/2026/09/outersignal-raises-22m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Astrocyte Pharmaceuticals",
+  "amount": 9500000.0,
+  "date": "2026-09-30",
+  "stage": "Series B",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "DeepWork Capital with participation from MintPharma Capital",
+   "Waterstar Capital",
+   "Dynagrow Capital",
+   "Angel Star Ventures",
+   "MintPharma Capital",
+   "Waterstar Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/astrocyte-pharmaceuticals-raises-9-5m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "IPercept Technology",
+  "amount": 16500000.0,
+  "date": "2026-09-30",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Isogon Ventures",
+   "2150",
+   "with follow-on participation from Luminar Ventures",
+   "RunwayFBU",
+   "J12 Ventures",
+   "AI"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/ipercept-technology-raises-16-5m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ortet Launches With $500M Investment Commitment from Thoreau",
+  "amount": 500000000.0,
+  "date": "2026-09-30",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/ortet-launches-with-500m-investment-commitment-from-thoreau.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Jeeves",
+  "amount": 110000000.0,
+  "date": "2026-09-30",
+  "stage": "Undisclosed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "CoinFund",
+   "with participation from AllianceBernstein",
+   "a16z",
+   "Coinbase Ventures",
+   "CRV",
+   "GIC"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/jeeves-raises-110m-in-equity-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Kanurra",
+  "amount": 6500000.0,
+  "date": "2026-09-30",
+  "stage": "Venture",
+  "sector": "Other",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based pharmacy benefit manager",
+  "url": "https://www.finsmes.com/2026/09/kanurra-raises-6-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Dodge AI",
+  "amount": 2650000.0,
+  "date": "2026-09-29",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Accel",
+   "Google\u2019s venture arm",
+   "with participation from New Build Venture Capital",
+   "Antler",
+   "Schema Ventures",
+   "angels from the SAP ecosystem"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/dodge-ai-raises-2-65m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Destro AI",
+  "amount": 8000000.0,
+  "date": "2026-09-29",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Base10 Partners",
+   "Bonfire Ventures",
+   "with participation from CoFound Partners",
+   "CoFound Partners"
+  ],
+  "desc": "NYC-based company building the shared intelligence layer for warehouse robotics",
+  "url": "https://www.finsmes.com/2026/09/destro-ai-raises-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Efficient Computer",
+  "amount": 97000000.0,
+  "date": "2026-09-29",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "TQ Ventures",
+   "with participation from Eclipse",
+   "Union Square Ventures",
+   "Giant Ventures",
+   "Triatomic Capital",
+   "TO Capital"
+  ],
+  "desc": "Pittsburgh",
+  "url": "https://www.finsmes.com/2026/09/efficient-computer-raises-97m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Link Cell Therapies",
+  "amount": 30000000.0,
+  "date": "2026-09-29",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Johnson & Johnson",
+   "through its corporate venture capital organization",
+   "Johnson & Johnson Innovation \u2013 JJDC",
+   "Inc",
+   "founding investors Samsara BioCapital",
+   "Sheatree Capital"
+  ],
+  "desc": "South San Francisco",
+  "url": "https://www.finsmes.com/2026/09/link-cell-therapies-raises-30m-upsizes-series-a-to-90m.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tiny Health",
+  "amount": 33000000.0,
+  "date": "2026-09-29",
+  "stage": "Series B",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "B Capital",
+   "with participation from existing investors Spero Ventures",
+   "The Venture City",
+   "Overwater Ventures",
+   "new investors Black Opal Ventures",
+   "Denver Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/tiny-health-raises-33m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Something & Nothing",
+  "amount": 6400000.0,
+  "date": "2026-09-29",
+  "stage": "Venture",
+  "sector": "Consumer",
+  "location": "",
+  "investors": [
+   "including Rianta Capital",
+   "ACF Investors",
+   "The Source Ventures",
+   "will join the board",
+   "all existing institutional investors",
+   "including Rianta Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/something-nothing-raises-6-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ai3Bio",
+  "amount": 48000000.0,
+  "date": "2026-09-29",
+  "stage": "Series A",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "founding investors UPMC Enterprises",
+   "Ziff Capital Partners",
+   "with support from Cockrell Interests",
+   "Tanis Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/ai3bio-raises-48m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "RemoteThreat",
+  "amount": 7000000.0,
+  "date": "2026-09-29",
+  "stage": "Pre-Seed",
+  "sector": "Cybersecurity",
+  "location": "",
+  "investors": [
+   "Osage University Partners",
+   "DataTribe"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/remotethreat-raises-7m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "MoneyStack",
+  "amount": 1000000.0,
+  "date": "2026-09-29",
+  "stage": "Undisclosed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Cistern Capital",
+   "O\u2019Shaughnessy Ventures",
+   "Sidecut Ventures",
+   "Gaingels",
+   "the American Heart Association\u2019s Social Impact Funds",
+   "O\u2019Shaughnessy Ventures"
+  ],
+  "desc": "Pittsburgh",
+  "url": "https://www.finsmes.com/2026/09/moneystack-raises-1m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Reco",
+  "amount": 55000000.0,
+  "date": "2026-09-29",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "Altamonte Springs",
+  "url": "https://www.finsmes.com/2026/09/reco-raises-55m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Elio Mortgage",
+  "amount": 5100000.0,
+  "date": "2026-09-29",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Motive Partners",
+   "Social Leverage",
+   "with Jeff Horing",
+   "co-founder",
+   "managing director of Insight Partners",
+   "participating as an angel investor"
+  ],
+  "desc": "NYC-based AI-native mortgage company",
+  "url": "https://www.finsmes.com/2026/09/elio-mortgage-raises-5-1m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hertha Metals",
+  "amount": 133650000.0,
+  "date": "2026-09-29",
+  "stage": "Series A",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Khosla Ventures",
+   "Doerr Capital",
+   "with participation from CEV",
+   "Pear Ventures",
+   "Gates Frontier",
+   "Niterra SUISO no MORI Fund"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/hertha-metals-raises-133-65m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rig Security",
+  "amount": 12000000.0,
+  "date": "2026-09-29",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Ten Eleven Ventures",
+   "Brightmind Partners",
+   "with participation from the CrowdStrike Falcon Fund",
+   "additional backing from cybersecurity founders",
+   "executives",
+   "including Wiz Co-Founder Ami Luttwak"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/rig-security-raises-12m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Atomic",
+  "amount": 12500000.0,
+  "date": "2026-09-29",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Klass Capital",
+   "Madrona"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/atomic-raises-12-5m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Menos AI",
+  "amount": 5100000.0,
+  "date": "2026-09-29",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "returning investor Copper Sky Capital",
+   "with participation from Alpha Square Group",
+   "Alpha Square Group"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/menos-ai-raises-5-1m-in-pre-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Cotierra",
+  "amount": 3000000.0,
+  "date": "2026-09-29",
+  "stage": "Venture",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "PINC",
+   "the venture arm of international food",
+   "beverage company Paulig",
+   "Carbon Removal Partners",
+   "with participation from Z\u00fcrcher Kantonalbank",
+   "Carbon Drawdown Initiative"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/cotierra-raises-3m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Blue Fire AI",
+  "amount": 9000000.0,
+  "date": "2026-09-29",
+  "stage": "Strategic",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/blue-fire-ai-closes-9m-funding-round.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Feather",
+  "amount": 7600000.0,
+  "date": "2026-09-28",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Gradient Ventures",
+   "with participation from Builder Capital",
+   "Geometry",
+   "Seed Innovation",
+   "Virgo VC",
+   "Builder Capital"
+  ],
+  "desc": "East Palo Alto",
+  "url": "https://www.finsmes.com/2026/09/feather-raises-7-6m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Outmarket AI",
+  "amount": 34500000.0,
+  "date": "2026-09-28",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "SignalFire",
+   "with participation from Fika Ventures",
+   "Permanent Capital Ventures",
+   "TTV Capital",
+   "Dash Fund",
+   "Fika Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/outmarket-ai-raises-34-5m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "F2",
+  "amount": 5000000.0,
+  "date": "2026-09-28",
+  "stage": "Strategic",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "NYC-based provider of an agentic operating system for global credit",
+  "url": "https://www.finsmes.com/2026/09/f2-receives-5m-investment-from-golub-capital.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Presto Phoenix",
+  "amount": 10000000.0,
+  "date": "2026-09-28",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/presto-phoenix-raises-10m-in-funding-2.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Instinct",
+  "amount": 1000000000.0,
+  "date": "2026-09-28",
+  "stage": "Series C",
+  "sector": "Other",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/instinct-raises-1-billion-in-series-c-funding-at-10-billion-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mona",
+  "amount": 3500000.0,
+  "date": "2026-09-28",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Sandberg Bernthal Venture Partners",
+   "with participation from Alumni Ventures",
+   "Wisdom Ventures",
+   "angels including former Google CEO Eric Schmidt",
+   "Alumni Ventures",
+   "Wisdom Ventures"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/mona-raises-3-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "HiringCafe",
+  "amount": 6800000.0,
+  "date": "2026-09-28",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Spark Capital",
+   "with participation from Nonfiction Capital",
+   "Silicon Gardens",
+   "angel investors from ZipRecruiter",
+   "Indeed",
+   "Nonfiction Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/hiringcafe-raises-6-8m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "SiMa.ai",
+  "amount": 150000000.0,
+  "date": "2026-09-28",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Fidelity Management & Research Company",
+   "Amplify",
+   "with participation from Alter Venture Partners",
+   "Dell Technologies Capital",
+   "Maverick Capital",
+   "+ND Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/sima-ai-raises-150m-in-series-c-reaches-1-45b-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Daedal Systems",
+  "amount": 4035000.0,
+  "date": "2026-09-28",
+  "stage": "Venture",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "OMERS Ventures with participation from Garage Capital",
+   "Panache Ventures",
+   "Ripple Ventures",
+   "MaRS Investment Accelerator Fund",
+   "a group of angel investors",
+   "Garage Capital"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/daedal-systems-raises-us4-035m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rivet",
+  "amount": 10500000.0,
+  "date": "2026-09-28",
+  "stage": "Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/meanttobe-rivet-raises-10-5m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Nscale",
+  "amount": 3360000000.0,
+  "date": "2026-09-28",
+  "stage": "Undisclosed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Third Point with participation from NVIDIA",
+   "funds managed by Apollo",
+   "Citadel",
+   "Hudson Bay Capital",
+   "Abu Dhabi Investment Council",
+   "8090 Industries"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/nscale-raises-3-36-billion-via-convertible-loan-notes.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Overlord Labs",
+  "amount": 4350000.0,
+  "date": "2026-09-28",
+  "stage": "Seed",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Band of Angels with participation from Foothill Ventures",
+   "Unlock Pacific Ventures",
+   "NuFund Venture Group",
+   "Sand Hill Angels",
+   "Castle Fund",
+   "Foothill Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/overlord-labs-raises-4-35m-seed-extension-brings-total-funding-to-10m.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Terasi",
+  "amount": 11000000.0,
+  "date": "2026-09-25",
+  "stage": "Series A",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "the NATO Innovation Fund",
+   "JOIN Capital",
+   "with participation from In-Q-Tel",
+   "D3",
+   "Navigare Ventures",
+   "Almi Invest"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/terasi-raises-11m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "O-ID",
+  "amount": 1200000.0,
+  "date": "2026-09-25",
+  "stage": "Pre-Seed",
+  "sector": "Other",
+  "location": "",
+  "investors": [
+   "Tawani Ventures with participation from Hustle Fund",
+   "Techstars",
+   "Hustle Fund",
+   "Techstars"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/o-id-raises-1-2m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Everest Biolabs",
+  "amount": 2100000.0,
+  "date": "2026-09-25",
+  "stage": "Grant",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/everest-biolabs-receives-2-1m-grant.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "50skills",
+  "amount": 6000000.0,
+  "date": "2026-09-25",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Frumtak Ventures",
+   "Swiss Post Ventures",
+   "Avant",
+   "DRD Investments"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/50skills-raises-6m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Axio BioPharma",
+  "amount": 2400000.0,
+  "date": "2026-09-25",
+  "stage": "Pre-Seed",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [],
+  "desc": "platform that connects manufacturing information across pharma com",
+  "url": "https://www.finsmes.com/2026/09/axio-biopharma-raises-2-4m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Solcoa Industries",
+  "amount": 75000000.0,
+  "date": "2026-09-25",
+  "stage": "Venture",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Bain Capital Ventures",
+   "with participation from Gigascale Capital",
+   "Long Journey",
+   "Felicis",
+   "Dylan Field",
+   "prominent leaders across defense"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/solcoa-industries-raises-75m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mesa Quantum",
+  "amount": 11800000.0,
+  "date": "2026-09-25",
+  "stage": "Undisclosed",
+  "sector": "Robotics / Hardware",
+  "location": "",
+  "investors": [
+   "Playground Global"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/mesa-quantum-raises-11-8m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Redefine Surgery Closes Pre-Seed Funding Round; Brings Total Funding To $10M",
+  "amount": 10000000.0,
+  "date": "2026-09-25",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/redefine-surgery-closes-pre-seed-funding-round-brings-total-funding-to-10m.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Trebellar",
+  "amount": 18000000.0,
+  "date": "2026-09-24",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Blossom Capital",
+   "with participation from Haystack",
+   "Alt Capital",
+   "1Flourish",
+   "Bynd",
+   "Haystack"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/trebellar-raises-18m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ando",
+  "amount": 20000000.0,
+  "date": "2026-09-24",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Accel",
+   "Index Ventures",
+   "Emergence Capital",
+   "with participation from Contrary Capital",
+   "Contrary Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/ando-raises-20m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Scholar Education",
+  "amount": 2000000.0,
+  "date": "2026-09-24",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "OneSixOne Ventures",
+   "with participation from other investors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/scholar-education-raises-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Frontline Gig",
+  "amount": 250000.0,
+  "date": "2026-09-24",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/frontline-gig-receives-250k-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "BigHat Biosciences",
+  "amount": 75000000.0,
+  "date": "2026-09-24",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "LG Technology Ventures",
+   "Sigmas Group",
+   "existing investors including 8VC",
+   "Alexandria Venture Investments",
+   "Amgen Ventures",
+   "a16z"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/bighat-biosciences-raises-75m-in-series-c-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "PicoJool",
+  "amount": 27500000.0,
+  "date": "2026-09-24",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Socratic Partners",
+   "with participation from Hudson River Trading",
+   "joining existing investor Playground Global",
+   "Hudson River Trading",
+   "joining existing investor Playground Global"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/picojool-raises-27-5m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Precision Neuroscience",
+  "amount": 250000000.0,
+  "date": "2026-09-24",
+  "stage": "Series D",
+  "sector": "Health / Bio",
+  "location": "",
+  "investors": [
+   "Pershing Square Inc",
+   "the Duquesne Family Office",
+   "B Capital",
+   "ARK Invest",
+   "Invus",
+   "Mubadala Capital"
+  ],
+  "desc": "NYC-based brain\u2013computer interface (BCI) technology company",
+  "url": "https://www.finsmes.com/2026/09/precision-neuroscience-closes-250m-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "ByteAsk",
+  "amount": 1000000.0,
+  "date": "2026-09-24",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Y Combinator",
+   "Entrepreneur First",
+   "with participation from angel investors"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/byteask-raises-1m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Crux Analytics",
+  "amount": 2200000.0,
+  "date": "2026-09-24",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Castle Creek Launchpad",
+   "with participation from Chartway Ventures",
+   "One Washington Financial",
+   "Curql",
+   "Chartway Ventures",
+   "One Washington Financial"
+  ],
+  "desc": "NYC-based provider of a sales execution platform",
+  "url": "https://www.finsmes.com/2026/09/crux-analytics-raises-2-2m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Axya",
+  "amount": 17000000.0,
+  "date": "2026-09-24",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "McRock Capital",
+   "with participation from Yamaha Motor Ventures",
+   "BDC\u2019s Industrial Innovation Venture Fund",
+   "Real Ventures",
+   "Yamaha Motor Ventures",
+   "BDC\u2019s Industrial Innovation Venture Fund"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/axya-raises-17m-cad-seires-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Prime Minute",
+  "amount": 15000000.0,
+  "date": "2026-09-24",
+  "stage": "Pre-Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Eclipse",
+   "with participation from 8VC",
+   "8VC"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/prime-minute-raises-15m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "IPID",
+  "amount": 16000000.0,
+  "date": "2026-09-24",
+  "stage": "Series A",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [
+   "Foundation Capital",
+   "with participation from Citi",
+   "HSBC",
+   "QED Investors",
+   "Monk\u2019s Hill Ventures",
+   "Quona Capital"
+  ],
+  "desc": "Singapore-based provider of a bank account verification and payment decision intelligence platform",
+  "url": "https://www.finsmes.com/2026/09/ipid-raises-16m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Kontext",
+  "amount": 4000000.0,
+  "date": "2026-09-24",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "42CAP with participation from a16z CSX",
+   "HTGF",
+   "a16z CSX",
+   "HTGF"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/kontext-raises-4m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Basalt Health",
+  "amount": 20000000.0,
+  "date": "2026-09-24",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "NEA",
+   "with participation from Frist Cressey Ventures",
+   "25m Health",
+   "Frist Cressey Ventures",
+   "25m Health"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/basalt-health-raises-20m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Space Labs",
+  "amount": 50000000.0,
+  "date": "2026-09-24",
+  "stage": "Undisclosed",
+  "sector": "Crypto / Web3",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/space-labs-receives-50m-investment.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Rightway",
+  "amount": 155000000.0,
+  "date": "2026-09-24",
+  "stage": "Series E",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Francisco Partners",
+   "with participation from Thrive Capital",
+   "Khosla Ventures",
+   "Thrive Capital",
+   "Khosla Ventures"
+  ],
+  "desc": "NYC-based provider of a pharmacy benefit management and care navigation platform",
+  "url": "https://www.finsmes.com/2026/09/rightway-raises-155m-in-series-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Island",
+  "amount": 400000000.0,
+  "date": "2026-09-24",
+  "stage": "Series F",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Evolution Equity Partners",
+   "with participation from Prysm Capital",
+   "Sequoia Capital",
+   "Coatue Management",
+   "Cyberstarts",
+   "Insight Partners"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/island-raises-400m-in-series-f-at-6-4-billion-valuation.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Flatkey and Realest AI",
+  "amount": 10000000.0,
+  "date": "2026-09-24",
+  "stage": "Series A",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/flatkey-and-realest-ai-raise-10m-in-series-a-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "American Supercritical,",
+  "amount": 8000000.0,
+  "date": "2026-09-24",
+  "stage": "Pre-Seed",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "Silent Ventures",
+   "with participation from Riot Ventures",
+   "Harpoon",
+   "Reveille VC",
+   "Hillwood",
+   "Mana Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/american-supercritical-raises-8m-in-pre-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Silk",
+  "amount": 45000000.0,
+  "date": "2026-09-24",
+  "stage": "Growth",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "S Capital VC",
+   "Vintage Investment Partners",
+   "Ibex Investors",
+   "West Coast Equity Partners",
+   "Sequoia Capital",
+   "S Capital VC"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/silk-raises-45m-in-growth-capital-facility-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Bird.com",
+  "amount": 450000000.0,
+  "date": "2026-09-24",
+  "stage": "Debt",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "New York City and Amsterdam",
+  "url": "https://www.finsmes.com/2026/09/bird-com-receives-450m-debt-financing.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Sol",
+  "amount": 4000000.0,
+  "date": "2026-09-24",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/sol-raises-4m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "infiniFi",
+  "amount": 3000000.0,
+  "date": "2026-09-23",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Electric Capital with participation from New Form Capital",
+   "Generative Ventures",
+   "Fasanara Capital",
+   "2Square",
+   "4th Revolution Capital",
+   "DCFGod"
+  ],
+  "desc": "remote provider of an on-chain fractional reserve banking platform",
+  "url": "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Hubble Network",
+  "amount": 200000000.0,
+  "date": "2026-09-23",
+  "stage": "Series C",
+  "sector": "Space / Defense",
+  "location": "",
+  "investors": [
+   "Smith Point Capital with participation from Seraphim",
+   "Carthona Capital",
+   "Earthshot Ventures",
+   "Y Combinator",
+   "RPM Ventures",
+   "Seraphim"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/hubble-network-raises-200m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Ema",
+  "amount": 77000000.0,
+  "date": "2026-09-23",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Creaegis with participation from Accel",
+   "S32",
+   "Prosus",
+   "Accel",
+   "S32",
+   "Prosus"
+  ],
+  "desc": "Mountain View",
+  "url": "https://www.finsmes.com/2026/09/ema-raises-77m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "UltraSight",
+  "amount": 24000000.0,
+  "date": "2026-09-23",
+  "stage": "Series B",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Alive HealthTech Growth Fund",
+   "with participation from Deep Insight",
+   "Star51 Capital",
+   "Connecticut Innovations",
+   "eHealth Ventures",
+   "as well as existing investors Mayo Clinic Ventures"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/ultrasight-raises-24m-in-series-b2-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Enveda",
+  "amount": 311000000.0,
+  "date": "2026-09-23",
+  "stage": "Series E",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "ICONIQ",
+   "Lightspeed",
+   "Surveyor Capital",
+   "accounts advised by T",
+   "Durable Capital Partners",
+   "ICONIQ"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/enveda-raises-311m-in-series-e-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Tekever",
+  "amount": 580000000.0,
+  "date": "2026-09-23",
+  "stage": "Series D",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "UC Investments",
+   "Baillie Gifford with participation from Merlyn Advisors",
+   "Crescent Cove",
+   "Ventura Capital",
+   "Iberis Capital",
+   "Merlyn Advisors"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/tekever-raises-580m-in-series-d-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Mojave Energy Systems",
+  "amount": 19000000.0,
+  "date": "2026-09-23",
+  "stage": "Series B",
+  "sector": "Climate / Energy",
+  "location": "",
+  "investors": [
+   "new investor Fairtree Elevant Ventures",
+   "with investment from new investor River Bay Investments"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/mojave-energy-systems-raises-19m-in-series-b-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Fearn",
+  "amount": 5500000.0,
+  "date": "2026-09-23",
+  "stage": "Venture",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/fearn-raises-5-5m-in-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Soteris",
+  "amount": 8000000.0,
+  "date": "2026-09-23",
+  "stage": "Seed",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Amplify Partners",
+   "DCVC",
+   "the Webb Investment Network",
+   "Overlook Ventures",
+   "Clocktower Ventures",
+   "Foundation Capital"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/soteris-raises-8m-in-seed-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Numeral",
+  "amount": 100000000.0,
+  "date": "2026-09-23",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "Geodesic",
+   "Benchmark",
+   "Mayfield",
+   "FCVC",
+   "Y Combinator",
+   "Uncork"
+  ],
+  "desc": "San Francisco",
+  "url": "https://www.finsmes.com/2026/09/numeral-raises-100m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Basecamp Research",
+  "amount": 140000000.0,
+  "date": "2026-09-23",
+  "stage": "Series C",
+  "sector": "AI / ML",
+  "location": "",
+  "investors": [
+   "S32 with participation from Anthropic\u2019s Anthology Fund",
+   "Catalio Capital Management",
+   "European Tech Collective",
+   "Firebrand River Capital",
+   "Inception Fund",
+   "King Philanthropies"
+  ],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/basecamp-research-raises-140m-in-series-c-funding.html",
+  "source": "Finsmes"
+ },
+ {
+  "company": "Metycle",
+  "amount": 150000000.0,
+  "date": "2026-09-23",
+  "stage": "Undisclosed",
+  "sector": "Fintech",
+  "location": "",
+  "investors": [],
+  "desc": "",
+  "url": "https://www.finsmes.com/2026/09/metycle-receives-150m-credit-facility-from-rivonia-road-capital.html",
+  "source": "Finsmes"
+ }
+]

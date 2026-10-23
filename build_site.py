@@ -264,14 +264,14 @@ def stacked_mix_svg():
     for i, yr in enumerate(years):
         cx = L + iw * (i + 0.5) / len(years)
         x = cx - bw / 2
-        acc = 0.0
+        acc_px = 0.0
         for s in sectors:
             v = data[yr].get(s, 0)
             if v <= 0: continue
             h = ih * v / 100
-            y = T + ih - acc - h
+            y = T + ih - acc_px - h
             parts.append(f'<rect x="{x:.0f}" y="{y:.0f}" width="{bw:.0f}" height="{max(h-0.5,0.5):.0f}" fill="{SECTOR_COLORS[s]}"><title>{s} · {yr}: {v}%</title></rect>')
-            acc += v
+            acc_px += h
         lab = f"{yr}*" if yr == 2026 else str(yr)
         parts.append(f'<text x="{cx:.0f}" y="{H-8}" font-size="12.5" font-weight="700" text-anchor="middle" fill="#222">{lab}</text>')
     parts.append("</svg>")
@@ -295,15 +295,17 @@ def trend_lines_svg():
         parts.append(f'<text x="{x:.0f}" y="{H-8}" font-size="12.5" font-weight="700" text-anchor="middle" fill="#222">{yr}</text>')
     default_on = {"AI / ML", "Fintech", "Crypto / Web3", "Cannabis"}
     for s, series in TY["raw_share"].items():
-        pts = []
+        pts, labels = [], []
         for i, yr in enumerate(years):
             x = L + iw * i / (len(years) - 1)
             y = T + ih - ih * float(series[str(yr)]) / ymax
             pts.append(f"{x:.0f},{y:.0f}")
+            labels.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="3" fill="{SECTOR_COLORS[s]}"/>'
+                          f'<text x="{x:.0f}" y="{y-8:.0f}" font-size="10.5" font-weight="700" text-anchor="middle" fill="{SECTOR_COLORS[s]}">{series[str(yr)]}%</text>')
         last_y = T + ih - ih * float(series[str(years[-1])]) / ymax
         disp = "" if s in default_on else ' style="display:none"'
         parts.append(f'<g class="tline" data-sector="{s}"{disp}><polyline points="{" ".join(pts)}" fill="none" stroke="{SECTOR_COLORS[s]}" stroke-width="2.4"/>'
-                     f'<circle cx="{pts[-1].split(",")[0]}" cy="{last_y:.0f}" r="3.6" fill="{SECTOR_COLORS[s]}"/>'
+                     f'{"".join(labels)}'
                      f'<text x="{float(pts[-1].split(",")[0])+9:.0f}" y="{last_y+4:.0f}" font-size="12" font-weight="700" fill="{SECTOR_COLORS[s]}">{s} · {series[str(years[-1])]}%</text></g>')
     parts.append("</svg>")
     chips = "".join(

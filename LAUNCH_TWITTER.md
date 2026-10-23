@@ -1,6 +1,6 @@
 # Herd Tracker — Twitter Launch Copy for Deep
 
-> **⚠️ DO NOT POST YET.** There is no live public URL — only a private GitHub repo and a local dashboard file. Replace every `[LINK]` with the real URL once the site is deployed, then post.
+> **⚠️ READY — live URL filled in Oct 23, 2026.
 
 ---
 
@@ -20,7 +20,7 @@ My brother built The Herd Tracker — VC funding rounds, mapped by how hard the 
 
 Cannabis was 27% of VC coverage in 2019. It's 0% now.
 
-[LINK]
+https://amritpd.github.io/herdtracker/
 
 ---
 
@@ -56,7 +56,7 @@ Quantum is the control group: 1–6% of coverage in *every* era. Never the herd 
 **5/**
 It's free, it looks like a finance broadsheet (not another AI dashboard), and the graveyard of dead theses alone is worth the scroll.
 
-The Herd Tracker: [LINK]
+The Herd Tracker: https://amritpd.github.io/herdtracker/
 
 ---
 
@@ -73,4 +73,4 @@ The Herd Tracker: [LINK]
 > cannabis: 27% in 2019 → 0%
 > quantum: 1–6% in every era. never herded, never died.
 >
-> The Herd Tracker — 383 rounds / $28.1B tracked: [LINK]
+> The Herd Tracker — 383 rounds / $28.1B tracked: https://amritpd.github.io/herdtracker/

@@ -1,6 +1,6 @@
 # Herd Tracker — Twitter Launch Copy for Deep
 
-> **⚠️ READY — live URL filled in Oct 23, 2026.
+> **READY TO POST** — live URL filled in Oct 23, 2026: https://amritpd.github.io/herdtracker/
 
 ---
 

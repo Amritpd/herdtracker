@@ -81,7 +81,7 @@ def page(title, desc, active, body, depth=0, extra_head=""):
     <div class="mast-top">Vol. I · No. 1 — The Funding Weather</div>
     <h1>The Herd Tracker</h1>
     <div class="tag"><i>The herd, measured.</i> Every round, every new fund, every stampede — extracted from the newsletters the herd reads about itself.</div>
-    <div class="meta">Window: {WINDOW} · Sources: Finsmes (rounds), TechCrunch, StrictlyVC archive, VCWire · Rule-based extraction (no paid APIs)</div>
+    <div class="meta">Window: {WINDOW} · Sources: Finsmes, EU-Startups, Inc42, e27 (rounds), StrictlyVC archive, VCWire · Rule-based extraction (no paid APIs)</div>
   </header>
   <nav class="sections">{nav}</nav>
 {body}
@@ -113,6 +113,14 @@ def bars(pairs, color="var(--blue)", maxv=None):
 # ---------------- data ----------------
 rounds_raw = json.load(open("rounds.json"))
 funds = json.load(open("funds.json"))
+# Merge region-native extraction (extract_regional.py) when present — dedupe by name
+for extra_file, target, key in (("rounds_regional.json", rounds_raw, "company"),
+                                ("funds_regional.json", funds, "firm")):
+    if os.path.exists(extra_file):
+        have = {x[key].lower() for x in target}
+        for x in json.load(open(extra_file)):
+            if x[key].lower() not in have:
+                target.append(x); have.add(x[key].lower())
 archive = json.load(open("archive.json"))
 try:
     raw_posts = json.load(open("raw/finsmes.json"))

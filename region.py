@@ -126,6 +126,12 @@ def tag_rounds(rounds, raw_posts=None):
     out, stats = [], {"tagged": 0, "by_region": {}}
     for r in rounds:
         r = dict(r)
+        if r.get("region"):  # region-native sources (extract_regional.py) — keep as-is
+            stats["tagged"] += 1
+            stats["by_region"][r["region"]] = stats["by_region"].get(r["region"], 0) + 1
+            r.setdefault("city", r.get("city") or "")
+            out.append(r)
+            continue
         city = city_from_desc(r.get("desc")) or city_from_text(by_link.get(r.get("url", "")))
         r["city"] = city or ""
         r["region"] = CITY_REGION.get(city, "") if city else ""

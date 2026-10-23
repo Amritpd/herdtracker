@@ -4,6 +4,7 @@
 /rounds/
 /fresh-powder/
 /investors/
+/exits/
 /about/
 /methodology/
 /privacy/

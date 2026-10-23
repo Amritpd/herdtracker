@@ -47,6 +47,7 @@ def load_css():
   .subtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
   .note{color:var(--mut);font-size:13px;font-style:italic;margin:10px 0}
   .cow{display:block;margin:2px auto 0;height:150px;width:auto;mix-blend-mode:multiply;border-radius:18px}
+  .tagpill{font-family:"Libre Franklin";font-weight:700;font-size:11.5px;letter-spacing:.8px;text-transform:uppercase;border:1.5px solid var(--ink);padding:3px 9px;border-radius:20px;background:#fdf6d8}
 """
 
 CSS = None
@@ -57,7 +58,8 @@ def page(title, desc, active, body, depth=0, extra_head="", cow=False):
                  ("Regions", f"{p}regions/", "regions"),
                  ("Rounds", f"{p}rounds/", "rounds"),
                  ("Fresh Powder", f"{p}fresh-powder/", "funds"),
-                 ("Investors", f"{p}investors/", "investors")]
+                 ("Investors", f"{p}investors/", "investors"),
+                 ("Exits", f"{p}exits/", "exits")]
     nav = "".join(f'<a href="{href}" class="{"on" if key==active else ""}">{label}</a>'
                   for label, href, key in nav_items)
     COWIMG = f'<img class="cow" src="{p}assets/cow-256.webp" alt="The Herd Tracker cow — our proprietary herd mark">' if cow else ""
@@ -143,6 +145,7 @@ for _r in rounds_raw:
     _cleaned.append(_r)
 rounds_raw = _cleaned
 archive = json.load(open("archive.json"))
+exits = json.load(open("exits.json")) if os.path.exists("exits.json") else []
 try:
     raw_posts = json.load(open("raw/finsmes.json"))
 except FileNotFoundError:
@@ -404,6 +407,44 @@ def investors_page():
   <p style="color:var(--sub);font-size:14.5px;line-height:1.55">Per firm — did they arrive in a thesis wave before its peak, or only at it? The leaderboard this page grows into, once the archive wave peaks are joined with firm timestamps. It's in FEATURES.md, and it's the chart VC Twitter will argue about.</p></div>"""
     return page("Investors", "The most active VC firms this window — rounds, associated dollars, and the road to Early Money vs Herd Money.", "investors", body, depth=1)
 
+# ---------------- exits ----------------
+def exits_page():
+    import collections
+    by_type = collections.Counter(e["type"] for e in exits)
+    priced = [e for e in exits if e["price"]]
+    acq = [e for e in exits if e["type"] == "Acquisition"]
+    acq_priced = [e for e in acq if e["price"]]
+    undisclosed_pct = round(100 * (len(acq) - len(acq_priced)) / max(len(acq), 1))
+    years = sorted({e["date"][:4] for e in exits})
+    yrows = []
+    for y in years:
+        yy = [e for e in exits if e["date"][:4] == y]
+        c = collections.Counter(e["type"] for e in yy)
+        yrows.append(f'<tr><td>{y}</td><td class="amt">{c.get("Acquisition", 0)}</td><td class="amt">{c.get("IPO", 0)}</td><td class="amt">{c.get("Merger", 0)}</td><td class="amt">{c.get("Shutdown", 0)}</td><td class="amt">{len(yy)}</td></tr>')
+    big_paid = sorted(priced, key=lambda e: -e["price"])[:6]
+    paid_rows = [f'<tr><td>{e["date"]}</td><td>{e["company"]}</td><td>{e["type"]}</td><td>{e["acquirer"] or "—"}</td><td class="amt">{money(e["price"])}</td></tr>' for e in big_paid]
+    shut = [e for e in exits if e["type"] == "Shutdown"]
+    shut_rows = [f'<tr><td>{e["date"]}</td><td>{e["company"]}</td><td>Shutdown</td></tr>' for e in shut]
+    sample = exits[:20]
+    sample_rows = [f'<tr><td>{e["date"]}</td><td>{e["company"]}</td><td>{e["type"]}</td><td>{e["acquirer"] or "—"}</td><td class="amt">{money(e["price"]) if e["price"] else "undisclosed"}</td><td><a href="{e["url"]}" target="_blank" rel="noopener">edition</a></td></tr>' for e in sample]
+    body = f"""
+  <h2>The Exit Door <span style="font-size:13px;vertical-align:middle" class="tagpill">Analysis free · Full ledger = Pro</span></h2>
+  <p class="h2sub">Every lifecycle ends somewhere. Raises get announced with confetti; exits are where the money is actually divided. Mined from the StrictlyVC archive mirror (2013–2019 editions): {len(exits)} exit events, classified as they were reported.</p>
+  {kpis([(str(len(exits)), "exit events logged"), (str(by_type.get('Acquisition', 0)), "acquisitions"), (str(by_type.get('IPO', 0)), "IPOs / filings"), (str(by_type.get('Shutdown', 0)), "shutdowns")])}
+  <h2>Exits by Type</h2><div class="panel">{bars([(t, by_type[t]) for t in ("Acquisition", "IPO", "Merger", "Shutdown")])}</div>
+  <p class="note">Mergers barely register ({by_type.get('Merger', 0)}): in startup-land the "merger of equals" is mostly a polite fiction — one side almost always acquired the other. IPOs include filings (some, famously, never priced).</p>
+  <h2>Exits by Year</h2><div class="panel">{table(["Year", "Acquisitions", "IPOs / filings", "Mergers", "Shutdowns", "Total"], yrows)}</div>
+  <h2>Who Got Paid</h2>
+  <p style="line-height:1.65;font-size:15.5px">The cleanest money: an IPO, or an acquisition with a number attached. Only {len(priced)} of {len(exits)} exits in the archive carried a reported figure — and when the figure is good, they print it. The biggest reported paydays in the ledger:</p>
+  <div class="panel">{table(["Date", "Company", "Type", "Acquirer", "Reported $"], paid_rows)}</div>
+  <h2>Who Got Screwed</h2>
+  <p style="line-height:1.65;font-size:15.5px">Two ways to lose. The loud way: shutdown — {len(shut)} in the archive, every dollar of preference stack worthless. The quiet way: an acquisition with <b>undisclosed terms</b> — {undisclosed_pct}% of acquisitions here. Undisclosed occasionally means "too big to say"; far more often it means acqui-hire math, where the team lands softly and the investors' stack does not. The number they won't print is the number that tells the story.</p>
+  <div class="panel">{table(["Date", "Company", "Outcome"], shut_rows)}</div>
+  <h2>Latest in the Ledger</h2><div class="panel">{table(["Date", "Company", "Type", "Acquirer", "Reported $", "Source"], sample_rows)}</div>
+  <div class="panel"><b>The full Exit Ledger is a Pro feature.</b> All {len(exits)} events with per-exit payout classification (paid / soft landing / wiped out), acquirer rollups (which platforms buy the herd, and at what reported prices), and exit-vs-last-round analysis — the survivorship counterweight to everything else on this site. Aggregates and this analysis stay free.</div>
+  <p class="note">Method: rule-based extraction over newsletter text; prices are figures reported in the same item (deal-adjacent numbers can slip in — verify against the linked edition). An exit is de-duplicated per company and type, dated to its first mention.</p>"""
+    return page("Exits", "The Exit Door: acquisitions, IPOs, mergers and shutdowns — who got paid, who got screwed.", "exits", body, depth=1)
+
 # ---------------- utility ----------------
 def utility(slug, title, body_md):
     paras = "".join(f"<p style='line-height:1.65;font-size:15.5px'>{p}</p>" for p in body_md)
@@ -436,6 +477,7 @@ if __name__ == "__main__":
         "rounds/index.html": rounds_page(),
         "fresh-powder/index.html": funds_page(),
         "investors/index.html": investors_page(),
+        "exits/index.html": exits_page(),
         "about/index.html": utility("about", "About", ABOUT),
         "methodology/index.html": utility("methodology", "Methodology & Sources", METHOD),
         "privacy/index.html": utility("privacy", "Privacy Policy", PRIVACY),

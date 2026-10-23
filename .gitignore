@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 backfill.log
 .DS_Store
+
+assets/media-generation-*.json

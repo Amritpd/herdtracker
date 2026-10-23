@@ -11,4 +11,5 @@
 /privacy/
 /terms/
 /contact/
+/404.html
 # Set BASE_URL in build_site.py and regenerate for sitemap.xml once the domain is live.

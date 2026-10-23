@@ -75,6 +75,9 @@ def page(title, desc, active, body, depth=0, extra_head="", cow=False):
 <meta property="og:title" content="{title} — The Herd Tracker">
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
+<meta property="og:image" content="https://amritpd.github.io/herdtracker/assets/herd.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://amritpd.github.io/herdtracker/assets/herd.webp">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,600&family=Libre+Franklin:wght@400;600;700;800&display=swap" rel="stylesheet">
 <!-- AdSense: paste publisher script here after approval (see UPGRADE_PLAN.md) -->
@@ -148,6 +151,7 @@ rounds_raw = _cleaned
 archive = json.load(open("archive.json"))
 exits = json.load(open("exits.json")) if os.path.exists("exits.json") else []
 throughline = json.load(open("throughline.json")) if os.path.exists("throughline.json") else None
+TY = json.load(open("trends_yearly.json")) if os.path.exists("trends_yearly.json") else None
 try:
     raw_posts = json.load(open("raw/finsmes.json"))
 except FileNotFoundError:
@@ -213,6 +217,100 @@ def front_page():
 # ---------------- trends ----------------
 KW_SECTOR = {"Artificial intelligence": "AI / ML", "Fintech": "Fintech",
              "Crypto / blockchain": "Crypto / Web3", "Robotics": "Robotics / Hardware"}
+SECTOR_COLORS = {
+    "AI / ML": "#00598c", "Fintech": "#7a1f2b", "Crypto / Web3": "#a67c00",
+    "Cannabis": "#4a7c59", "Health / Bio": "#5b7fa6", "SaaS / Enterprise": "#333333",
+    "Consumer / E-comm": "#b3541e", "Mobility": "#6b4fa1", "Climate / Energy": "#2e7d6b",
+    "Cybersecurity": "#8c2f39", "Robotics / Hardware": "#595959", "EdTech": "#946b00",
+    "Food / AgTech": "#7d4c29", "PropTech": "#2f5d8a", "Media / Social": "#a03d63",
+    "Quantum": "#1a5276", "Space": "#34495e", "DevTools / Infra": "#707070",
+    "Other sectors": "#ddd6c4",
+}
+ROUND_SECTOR_MAP = {"Consumer": "Consumer / E-comm", "Real Estate": "PropTech",
+                    "DevTools": "DevTools / Infra", "Space / Defense": "Space"}
+
+def mix_stacks():
+    """Return (sectors in display order, {year: {sector: pct}}) incl. a mapped 2026 bar."""
+    years = TY["years"]
+    order = sorted(TY["mix"].keys(), key=lambda s: -sum(TY["mix"][s][str(y)] for y in years))
+    top, rest = order[:11], order[11:]
+    data = {}
+    for y in years:
+        d = {s: TY["mix"][s][str(y)] for s in top}
+        d["Other sectors"] = round(sum(TY["mix"][s][str(y)] for s in rest), 1)
+        data[y] = d
+    mapped = {}
+    for rs, c in TY["rounds2026_by_count"].items():
+        tgt = ROUND_SECTOR_MAP.get(rs, rs)
+        if tgt in SECTOR_COLORS and tgt != "Other sectors":
+            mapped[tgt] = mapped.get(tgt, 0) + c
+    tot = sum(mapped.values()) or 1
+    d26 = {s: round(100 * mapped.get(s, 0) / tot, 1) for s in top}
+    d26["Other sectors"] = round(100 - sum(d26.values()), 1)
+    data[2026] = d26
+    return top + ["Other sectors"], data
+
+def stacked_mix_svg():
+    sectors, data = mix_stacks()
+    years = TY["years"] + [2026]
+    W, H, L, B, T = 1060, 400, 46, 30, 12
+    iw, ih = W - L - 12, H - B - T
+    bw = iw / len(years) * 0.62
+    parts = [f'<svg viewBox="0 0 {W} {H}" style="width:100%;height:auto" role="img" aria-label="Stacked bars: sector mix of VC coverage by year">']
+    for gy in (0, 25, 50, 75, 100):
+        y = T + ih - ih * gy / 100
+        parts.append(f'<line x1="{L}" y1="{y:.0f}" x2="{W-12}" y2="{y:.0f}" stroke="#ddd6c4" stroke-width="1"/>'
+                     f'<text x="{L-6}" y="{y+4:.0f}" font-size="11" text-anchor="end" fill="#666">{gy}%</text>')
+    for i, yr in enumerate(years):
+        cx = L + iw * (i + 0.5) / len(years)
+        x = cx - bw / 2
+        acc = 0.0
+        for s in sectors:
+            v = data[yr].get(s, 0)
+            if v <= 0: continue
+            h = ih * v / 100
+            y = T + ih - acc - h
+            parts.append(f'<rect x="{x:.0f}" y="{y:.0f}" width="{bw:.0f}" height="{max(h-0.5,0.5):.0f}" fill="{SECTOR_COLORS[s]}"><title>{s} · {yr}: {v}%</title></rect>')
+            acc += v
+        lab = f"{yr}*" if yr == 2026 else str(yr)
+        parts.append(f'<text x="{cx:.0f}" y="{H-8}" font-size="12.5" font-weight="700" text-anchor="middle" fill="#222">{lab}</text>')
+    parts.append("</svg>")
+    legend = "".join(
+        f'<span style="display:inline-block;margin:2px 14px 2px 0;font-size:12.5px"><span style="display:inline-block;width:11px;height:11px;background:{SECTOR_COLORS[s]};margin-right:6px"></span>{s} · {data[2019].get(s, 0)}% (2019)</span>'
+        for s in sectors)
+    return "".join(parts), legend
+
+def trend_lines_svg():
+    years = TY["years"]
+    W, H, L, B, T = 1060, 400, 46, 30, 16
+    iw, ih = W - L - 130, H - B - T
+    ymax = 90
+    parts = [f'<svg viewBox="0 0 {W} {H}" style="width:100%;height:auto" role="img" aria-label="Line chart: share of editions mentioning each sector, 2013-2019">']
+    for gy in (0, 30, 60, 90):
+        y = T + ih - ih * gy / ymax
+        parts.append(f'<line x1="{L}" y1="{y:.0f}" x2="{L+iw}" y2="{y:.0f}" stroke="#ddd6c4"/>'
+                     f'<text x="{L-6}" y="{y+4:.0f}" font-size="11" text-anchor="end" fill="#666">{gy}%</text>')
+    for i, yr in enumerate(years):
+        x = L + iw * i / (len(years) - 1)
+        parts.append(f'<text x="{x:.0f}" y="{H-8}" font-size="12.5" font-weight="700" text-anchor="middle" fill="#222">{yr}</text>')
+    default_on = {"AI / ML", "Fintech", "Crypto / Web3", "Cannabis"}
+    for s, series in TY["raw_share"].items():
+        pts = []
+        for i, yr in enumerate(years):
+            x = L + iw * i / (len(years) - 1)
+            y = T + ih - ih * float(series[str(yr)]) / ymax
+            pts.append(f"{x:.0f},{y:.0f}")
+        last_y = T + ih - ih * float(series[str(years[-1])]) / ymax
+        disp = "" if s in default_on else ' style="display:none"'
+        parts.append(f'<g class="tline" data-sector="{s}"{disp}><polyline points="{" ".join(pts)}" fill="none" stroke="{SECTOR_COLORS[s]}" stroke-width="2.4"/>'
+                     f'<circle cx="{pts[-1].split(",")[0]}" cy="{last_y:.0f}" r="3.6" fill="{SECTOR_COLORS[s]}"/>'
+                     f'<text x="{float(pts[-1].split(",")[0])+9:.0f}" y="{last_y+4:.0f}" font-size="12" font-weight="700" fill="{SECTOR_COLORS[s]}">{s} · {series[str(years[-1])]}%</text></g>')
+    parts.append("</svg>")
+    chips = "".join(
+        f'<button class="subtab {"on" if s in default_on else ""}" data-line="{s}" onclick="toggleLine(this)">{s}</button>'
+        for s in TY["raw_share"].keys())
+    return "".join(parts), chips
+
 def trends_page():
     kw = archive["keywords"]
     wave_blocks = []
@@ -239,7 +337,7 @@ def trends_page():
         hype.append(f'<tr><td>{name}</td><td>{k["p2026"]}%</td><td>{dshare:.0f}%</td><td>{verdict}</td></tr>')
     hype.append(f'<tr><td>Cannabis</td><td>0%</td><td>0%</td><td>gone — 27% of coverage at its 2019 peak</td></tr>')
     sector_bars = bars(sorted(sector_tot.items(), key=lambda kv: -kv[1])[:8])
-    body = f"""
+    waves_body = f"""
   <h2>Thesis Waves — The Herd, Over Time</h2>
   <p class="h2sub">Share of VC newsletter coverage by thesis, at era checkpoints: 2014 · 2017 · 2019 (StrictlyVC mirror, 1,238 editions) · 2026 (current pipeline).</p>
   <div class="panel">{''.join(wave_blocks)}
@@ -260,6 +358,40 @@ def trends_page():
     <li><b>2018–20 — the science project.</b> Cap tables were sovereign wealth, intelligence-community money (In-Q-Tel) and strategics. Generalist VC was absent.</li>
     <li><b>The pattern to sell:</b> knowing when a thesis peaked is worth money to anyone about to pitch into one. The archive is a graveyard with dates on the tombstones.</li>
   </ul></div>"""
+    mix_svg, mix_legend = stacked_mix_svg()
+    lines_svg, line_chips = trend_lines_svg()
+    ed_note = " · ".join(f"{y}: {TY['editions'][str(y)]} editions" for y in TY["years"])
+    body = f"""
+  <h2>Trends — The Herd, Over Time</h2>
+  <p class="h2sub">Three views of the same stampede: the full sector mix for every year of the archive, sector trend lines with time on the axis, and the original checkpoint analysis.</p>
+  <div class="subtabs">
+    <button class="subtab on" onclick="showTrend('mix', this)">Sector Mix — All Years</button>
+    <button class="subtab" onclick="showTrend('lines', this)">Trend Lines</button>
+    <button class="subtab" onclick="showTrend('waves', this)">Waves &amp; Archive</button>
+  </div>
+  <div id="trend-mix">
+    <div class="panel">{mix_svg}<div style="margin-top:8px">{mix_legend}</div></div>
+    <p class="note">Each bar is 100% of that year's sector-tagged coverage mentions (StrictlyVC mirror), so the mix shows where attention lived, not raw volume. *2026 is a different instrument — sector share of this window's {TY['rounds_total']} extracted rounds, mapped onto the same sector names — shown hatched by position, not blended into the series. 2013 is Sep–Dec only; archive coverage thins in 2018–19 ({ed_note}), so late years are indicative, not census.</p>
+  </div>
+  <div id="trend-lines" style="display:none">
+    <div class="subtabs">{line_chips}</div>
+    <div class="panel">{lines_svg}</div>
+    <p class="note">Share of each year's editions mentioning the sector (an edition can mention several, so lines don't sum to 100). Crypto's 2018 spike is real in this corpus — that year's editions carried near-daily crypto coverage. Toggle sectors to compare trajectories: risers, fallers, and the flat line named Quantum.</p>
+  </div>
+  <div id="trend-waves" style="display:none">{waves_body}</div>
+  <script>
+  function showTrend(name, btn){{
+    ['mix','lines','waves'].forEach(n => document.getElementById('trend-' + n).style.display = n === name ? '' : 'none');
+    btn.parentElement.querySelectorAll('.subtab').forEach(b => b.classList.toggle('on', b === btn));
+  }}
+  function toggleLine(btn){{
+    const s = btn.getAttribute('data-line');
+    document.querySelectorAll('.tline').forEach(g => {{
+      if (g.getAttribute('data-sector') === s) g.style.display = g.style.display === 'none' ? '' : 'none';
+    }});
+    btn.classList.toggle('on');
+  }}
+  </script>"""
     return page("Trends", "Thesis waves since 2014: AI, fintech's crest, cannabis 27% to 0%, and the quantum control group.", "trends", body, depth=1)
 
 # ---------------- regions ----------------
@@ -527,6 +659,13 @@ if __name__ == "__main__":
         "privacy/index.html": utility("privacy", "Privacy Policy", PRIVACY),
         "terms/index.html": utility("terms", "Terms", TERMS),
         "contact/index.html": utility("contact", "Contact", CONTACT),
+        "404.html": page("404 — Left the Herd", "This page has left the herd.", "", """
+  <div style="text-align:center;padding:26px 0">
+    <img src="/herdtracker/assets/cow-256.webp" alt="The Herd Tracker cow" style="height:150px;border-radius:18px;mix-blend-mode:multiply">
+    <h2>This page has left the herd.</h2>
+    <p style="font-size:15.5px;line-height:1.65">It either never existed, or it exited — in which case it is in <a href="/herdtracker/exits/">The Exit Door</a>, probably with undisclosed terms.</p>
+    <p><a href="/herdtracker/">← Back to the Front Page</a></p>
+  </div>""", depth=0),
     }
     for path, content in pages.items():
         write(path, content)

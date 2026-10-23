@@ -77,6 +77,39 @@ Disrupt Africa) — they need a home. WSJ itself runs regional editions; this fi
 - **Raise alerts** [PRO, M]: bookmarked company/investor/sector/region raises again -> email digest.
 - **Follow a region edition** [FREE email / PRO alerts, S]: subscribe to Americas/Europe/APAC/MEA digest only.
 
+## 6. Insights added Oct 23 (second pass — the ones not in the original list)
+Ranked by impact. All computable from data in hand + Form D layer; none need paid data.
+
+- **Hype Gap Index** [PRO, M]: coverage share (Archive keyword %) vs dollars share (rounds $)
+  per sector. Over-covered/under-funded = hype; under-covered/heavily funded = quiet money.
+  Only possible because we hold BOTH datasets. Signature insight.
+- **Rest-of-Market Index** [FREE, S]: headline totals minus the top 10 rounds. When 5 mega
+  AI rounds are 60% of "$ raised," everyone else is in a drought — this number says so.
+  Publish next to every headline total, permanently.
+- **Early Money vs Herd Money** [PRO, M]: per firm — does it first appear in a thesis wave
+  BEFORE the peak (early/smart) or only AT the peak (tourist)? Leaderboard of firms timed
+  against cluster peaks. Nobody free publishes this; it's pure timestamp math.
+- **Raise Window Radar** [PRO, M]: companies 18-30 months since last raise (the window where
+  follow-ons statistically happen) by sector/region. Founders benchmark against it;
+  B2B buyers sell into it; funds source from it.
+- **Graduation Rate** [PRO, L]: % of a seed cohort reaching Series A within 24 months,
+  by sector/region/vintage. "Is the seed->A bridge broken in your sector?" — the metric
+  founders actually lose sleep over.
+- **Stealth Raises (Form D scoops)** [PRO, M]: EDGAR Form D filed with NO press announcement.
+  Newsletters can't see these (they live on announcements). Ground-truth layer = exclusives.
+- **Extension / Bridge Index** [FREE chart, S]: share of rounds that are extensions/bridges
+  over time. Rising = ecosystem distress before any headline admits it. A stress barometer.
+- **Deployment Pace + Use-It-Or-Lose-It** [PRO, S-M]: per Fresh Powder fund — time from close
+  to first visible deals, and funds entering year 3-4 of their investment period that must
+  deploy. Turns the fund table into a targeting calendar.
+- **Same Thesis, New Costume** [FREE/PRO, M]: paired buzzword succession — term A dies as
+  near-synonym term B rises (web3 -> AI agents). Stronger than single-term déjà vu.
+- **Capital Flow Matrix** [PRO, M]: investor domicile region x company region. Where money
+  sleeps vs where it lands (US funds -> APAC startups, etc.). Needs investor-HQ dictionary
+  for top firms — a one-time static mapping.
+- **Fundable Benchmark Cards** [ONE-TIME pack fuel, S]: per sector x region — median round,
+  typical stage sizes, most common leads this quarter. Auto-generated dossier content.
+
 ## Suggested build order
 1. Foundation: region tags + investor cleanup + currency (unblocks everything; also fixes known data bugs)
 2. Wire Tier A regional sources (AlleyWatch, Pulse 2.0, EU-Startups, Inc42, e27) — editions need volume

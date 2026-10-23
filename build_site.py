@@ -46,7 +46,7 @@ def load_css():
     font-size:13.5px;font-weight:700;padding:6px 14px;cursor:pointer;color:var(--sub)}
   .subtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
   .note{color:var(--mut);font-size:13px;font-style:italic;margin:10px 0}
-  .cow{display:block;margin:2px auto 0;height:96px;width:auto;mix-blend-mode:multiply}
+  .cow{display:block;margin:2px auto 0;height:150px;width:auto;mix-blend-mode:multiply;border-radius:18px}
 """
 
 CSS = None
@@ -125,6 +125,23 @@ for extra_file, target, key in (("rounds_regional.json", rounds_raw, "company"),
         for x in json.load(open(extra_file)):
             if x[key].lower() not in have:
                 target.append(x); have.add(x[key].lower())
+def sanitize_company(name):
+    """Drop editorial roundup articles misparsed as companies; strip descriptor prefixes."""
+    n = name.strip()
+    if (n.startswith("From ") and " To " in n) or "— Indian Startups" in n or n.endswith("Startups That Raised"):
+        return None
+    n = re.sub(r"^(D2C Brand|Fintech|Healthtech|Edtech Startup)\s+", "", n)
+    m = re.match(r"^.+?-Owned\s+(.+)$", n)
+    if m: n = m.group(1)
+    return n
+
+_cleaned = []
+for _r in rounds_raw:
+    _n = sanitize_company(_r["company"])
+    if _n is None: continue
+    _r["company"] = _n
+    _cleaned.append(_r)
+rounds_raw = _cleaned
 archive = json.load(open("archive.json"))
 try:
     raw_posts = json.load(open("raw/finsmes.json"))
@@ -262,9 +279,12 @@ def region_block(name, subset):
         sec[r["sector"]] = sec.get(r["sector"], 0) + (r["amount"] or 0)
     big = sorted(subset, key=lambda r: r["amount"] or 0, reverse=True)[:5]
     rows = [f'<tr><td><a href="{r["url"]}" target="_blank" rel="noopener">{r["company"]}</a></td><td class="amt">{money(r["amount"])}</td><td>{r["stage"]}</td><td>{r["city"].title() if r["city"] else ""}</td></tr>' for r in big]
+    by_date = sorted(subset, key=lambda r: r["date"], reverse=True)
+    allrows = [f'<tr><td>{r["date"]}</td><td><a href="{r["url"]}" target="_blank" rel="noopener">{r["company"]}</a></td><td class="amt">{money(r["amount"])}</td><td>{r["stage"]}</td><td>{r["sector"]}</td><td>{r["city"].title() if r["city"] else ""}</td></tr>' for r in by_date]
     return f"""{kpis([(str(len(subset)), "tagged rounds"), (money(total), "total raised"), (money(med), "median round")])}
   <h2>Top Sectors — {name}</h2><div class="panel">{bars(sorted(sec.items(), key=lambda kv: -kv[1])[:6])}</div>
-  <h2>Biggest Rounds — {name}</h2><div class="panel">{table(["Company", "Amount", "Stage", "City"], rows)}</div>"""
+  <h2>Biggest Rounds — {name}</h2><div class="panel">{table(["Company", "Amount", "Stage", "City"], rows)}</div>
+  <h2>All Rounds — {name} ({len(subset)})</h2><div class="panel">{table(["Date", "Company", "Amount", "Stage", "Sector", "City"], allrows)}</div>"""
 
 INDIA_HUBS = {"mumbai", "bengaluru", "bangalore", "delhi", "new delhi", "hyderabad", "chennai", "pune", "gurugram", "gurgaon", "noida", "kolkata", "ahmedabad", "jaipur", "kochi", "indore"}
 

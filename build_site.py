@@ -412,3 +412,8 @@ if __name__ == "__main__":
         urls = "".join(f"<url><loc>{BASE_URL}/" + p.replace("index.html", "") + "</loc></url>" for p in pages)
         write("sitemap.xml", f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>')
     print(f"\n{len(pages)} pages · window {WINDOW} · region coverage {rstats}")
+    # GitHub Pages branch deploy only serves /(root) or /docs — mirror site/ into docs/
+    import shutil
+    if os.path.exists("docs"): shutil.rmtree("docs")
+    shutil.copytree(OUT, "docs")
+    print("mirrored site/ -> docs/ for GitHub Pages")

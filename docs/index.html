@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Front Page — The Herd Tracker</title>
+<meta name="description" content="VC funding rounds, new funds and thesis stampedes — measured weekly.">
+<meta property="og:title" content="Front Page — The Herd Tracker">
+<meta property="og:description" content="VC funding rounds, new funds and thesis stampedes — measured weekly.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,600&family=Libre+Franklin:wght@400;600;700;800&display=swap" rel="stylesheet">
+<!-- AdSense: paste publisher script here after approval (see UPGRADE_PLAN.md) -->
+<style>
+  :root{--bg:#f7f5f0;--panel:#ffffff;--panel2:#efece4;--ink:#111111;--sub:#4a4a44;--mut:#7d7a6f;
+        --teal:#00598c;--amber:#9c2b2e;--red:#9c2b2e;--blue:#00598c;--bord:#d8d3c6}
+  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:'Libre Franklin','Franklin Gothic Medium','Helvetica Neue',Arial,sans-serif}
+  .wrap{max-width:1180px;margin:0 auto;padding:28px 20px 60px}
+  header{text-align:center;border-top:3px solid var(--ink);border-bottom:4px double var(--ink);
+    padding:14px 0 16px;margin-bottom:22px}
+  .mast-top{font-size:12px;letter-spacing:2.5px;text-transform:uppercase;color:var(--sub)}
+  .kick{color:var(--ink);font-weight:700;letter-spacing:2.5px;font-size:13px}
+  h1{font-family:'Playfair Display',Georgia,'Times New Roman',serif;font-weight:900;
+     font-size:66px;margin:8px 0 6px;letter-spacing:-.5px}
+  h1 .thin{color:var(--ink);font-weight:700;font-style:italic}
+  .tag{color:var(--sub);font-size:17.5px;font-family:Georgia,'Times New Roman',serif}
+  .meta{color:var(--mut);font-size:12.5px;margin-top:10px;letter-spacing:.4px;text-transform:uppercase}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0;margin:22px 0;
+    border:1px solid var(--bord);background:var(--panel)}
+  .kpi{padding:18px 20px;border-right:1px solid var(--bord)}
+  .kpi:last-child{border-right:none}
+  .kpi .v{font-size:34px;font-weight:900;font-family:'Playfair Display',Georgia,serif;font-variant-numeric:tabular-nums}
+  .kpi .l{color:var(--sub);font-size:12.5px;margin-top:3px;text-transform:uppercase;letter-spacing:1px}
+  h2{font-size:18px;margin:38px 0 6px;text-transform:uppercase;letter-spacing:1.6px;
+     border-bottom:2px solid var(--ink);padding-bottom:7px;font-weight:800}
+  .h2sub{color:var(--sub);margin:8px 0 14px;font-size:15px;font-family:Georgia,serif;font-style:italic}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:820px){.grid2{grid-template-columns:1fr}.kpi{border-right:none;border-bottom:1px solid var(--bord)}}
+  .panel{background:var(--panel);border:1px solid var(--bord);border-radius:3px;padding:20px}
+  .sig{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+  .sig .panel{border-top:3px solid var(--ink);border-left:1px solid var(--bord)}
+  .sig .big{font-size:21px;font-weight:700;line-height:1.3;font-family:'Playfair Display',Georgia,serif}
+  .sig p{color:var(--sub);font-size:14.5px;line-height:1.55;margin:8px 0 0}
+  table{width:100%;border-collapse:collapse;font-size:14.5px;font-variant-numeric:tabular-nums}
+  th{color:var(--mut);text-align:left;font-size:11.5px;letter-spacing:1.2px;text-transform:uppercase;
+     padding:8px;border-bottom:2px solid var(--ink)}
+  td{padding:9px 8px;border-bottom:1px solid #e3dfd2;vertical-align:top}
+  tr:hover td{background:#f6f4ec}
+  .amt{font-weight:700;white-space:nowrap}
+  a{color:#00598c;text-decoration:none} a:hover{text-decoration:underline}
+  .bar-row{display:grid;grid-template-columns:170px 1fr 74px;gap:10px;align-items:center;margin:7px 0;font-size:14px}
+  .bar-track{background:#e9e5d8;border-radius:2px;height:20px;overflow:hidden}
+  .bar-fill{height:100%;border-radius:2px}
+  .bar-val{text-align:right;color:var(--sub);font-size:13px;white-space:nowrap}
+  .ad{border:1px solid #b9b3a1;border-radius:0;color:#8a867a;text-align:center;
+      padding:20px;font-size:11px;letter-spacing:2.5px;margin:26px 0;background:#fff;text-transform:uppercase}
+  .controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+  input,select{background:#fff;color:var(--ink);border:1px solid #b9b3a1;
+    border-radius:3px;padding:10px 12px;font-size:15px;font-family:inherit}
+  input{flex:1;min-width:220px}
+  .scroll{max-height:520px;overflow:auto;border:1px solid var(--bord);background:#fff}
+  .scroll table td,.scroll table th{padding-left:14px}
+  footer{color:var(--mut);font-size:13px;line-height:1.6;margin-top:36px;border-top:1px solid var(--bord);padding-top:16px}
+  .chip{display:inline-block;background:#eef3f7;color:var(--teal);border:1px solid #bcd2e0;
+    border-radius:20px;padding:2px 10px;font-size:12.5px;margin-right:6px}
+  .tabs{display:flex;gap:26px;border-bottom:2px solid var(--ink);margin-bottom:20px}
+  .tabbtn{background:none;border:none;font-family:inherit;font-size:15px;font-weight:700;
+    letter-spacing:1.2px;text-transform:uppercase;padding:10px 2px;cursor:pointer;color:var(--mut);
+    border-bottom:4px solid transparent;margin-bottom:-2px}
+  .tabbtn.on{color:var(--ink);border-bottom-color:var(--amber)}
+  .kw-row{margin:16px 0}
+  .kw-name{font-weight:700;font-size:15px;margin-bottom:5px;font-family:'Playfair Display',Georgia,serif}
+  .kw-line{display:grid;grid-template-columns:40px 1fr 46px;gap:10px;align-items:center;margin:3px 0;font-size:12.5px}
+  .kw-yr{color:var(--mut);font-weight:600}
+  .kw-val{text-align:right;color:var(--sub)}
+  .tl{margin:0;padding-left:18px;line-height:1.65;font-size:15px}
+  .tl li{margin-bottom:9px}
+  .tl b{font-family:'Playfair Display',Georgia,serif}
+
+  nav.sections{display:flex;gap:24px;flex-wrap:wrap;border-bottom:2px solid var(--ink);margin-bottom:20px}
+  nav.sections a{font-size:14.5px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;
+    padding:10px 2px;color:var(--mut);border-bottom:4px solid transparent;margin-bottom:-2px}
+  nav.sections a.on{color:var(--ink);border-bottom-color:var(--amber)}
+  nav.sections a:hover{text-decoration:none;color:var(--ink)}
+  .subtabs{display:flex;gap:20px;flex-wrap:wrap;margin:6px 0 16px}
+  .subtab{background:none;border:1px solid var(--bord);border-radius:20px;font-family:inherit;
+    font-size:13.5px;font-weight:700;padding:6px 14px;cursor:pointer;color:var(--sub)}
+  .subtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .note{color:var(--mut);font-size:13px;font-style:italic;margin:10px 0}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="mast-top">Vol. I · No. 1 — The Funding Weather</div>
+    <h1>The Herd Tracker</h1>
+    <div class="tag"><i>The herd, measured.</i> Every round, every new fund, every stampede — extracted from the newsletters the herd reads about itself.</div>
+    <div class="meta">Window: 2026-09-23 → 2026-10-23 · Sources: Finsmes, EU-Startups, Inc42, e27 (rounds), StrictlyVC archive, VCWire · Rule-based extraction (no paid APIs)</div>
+  </header>
+  <nav class="sections"><a href="index.html" class="on">Front Page</a><a href="trends/" class="">Trends</a><a href="regions/" class="">Regions</a><a href="rounds/" class="">Rounds</a><a href="fresh-powder/" class="">Fresh Powder</a><a href="investors/" class="">Investors</a></nav>
+
+  <div class="kpis"><div class="kpi"><div class="v">433</div><div class="l">rounds tracked</div></div><div class="kpi"><div class="v">$31.36B</div><div class="l">total raised</div></div><div class="kpi"><div class="v">$4.39B</div><div class="l">fresh powder (disclosed)</div></div><div class="kpi"><div class="v">$15.0M</div><div class="l">median round</div></div></div>
+  <h2>Herd Signals</h2>
+  <p class="h2sub">What the herd is doing this window — before it knows it's doing it.</p>
+  <div class="sig">
+    <div class="panel"><div class="big">The Rest-of-Market is 63% of the headline</div>
+    <p>Strip the top 10 rounds ($11.69B) and the "record" $31.36B window is really $19.66B spread across 423 companies. The headline lies; the rest of the market is the market.</p></div>
+    <div class="panel"><div class="big">246 of 433 rounds are AI / ML</div>
+    <p>AI took $19.53B of the window's dollars. See the <a href="trends/">Trends page</a> for how this wave compares to fintech's 2017 crest and cannabis's 2019 peak — and total disappearance.</p></div>
+    <div class="panel"><div class="big">$4.39B of Fresh Powder needs a home</div>
+    <p>12 newly closed funds disclosed sizes this window. Every dollar of it has to be deployed in the next 2–4 years. <a href="fresh-powder/">The full table</a>.</p></div>
+  </div>
+  <h2>Biggest Stampedes</h2>
+  <div class="panel"><table><thead><tr><th>Company</th><th>Amount</th><th>Stage</th><th>Sector</th></tr></thead><tbody><tr><td><a href="https://www.finsmes.com/2026/09/nscale-raises-3-36-billion-via-convertible-loan-notes.html" target="_blank" rel="noopener">Nscale</a></td><td class="amt">$3.36B</td><td>Undisclosed</td><td>AI / ML</td></tr><tr><td><a href="https://www.finsmes.com/2026/10/tenstorrent-raises-1-5-billion.html" target="_blank" rel="noopener">Tenstorrent</a></td><td class="amt">$1.50B</td><td>Series E</td><td>AI / ML</td></tr><tr><td><a href="https://www.finsmes.com/2026/10/lambda-closes-1-billion-senior-secured-fixed-rate-financing.html" target="_blank" rel="noopener">Lambda</a></td><td class="amt">$1.00B</td><td>Undisclosed</td><td>AI / ML</td></tr><tr><td><a href="https://www.finsmes.com/2026/09/instinct-raises-1-billion-in-series-c-funding-at-10-billion-valuation.html" target="_blank" rel="noopener">Instinct</a></td><td class="amt">$1.00B</td><td>Series C</td><td>Other</td></tr><tr><td><a href="https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/" target="_blank" rel="noopener">Jio Platforms</a></td><td class="amt">$977.1M</td><td>Undisclosed</td><td>Other</td></tr><tr><td><a href="https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/" target="_blank" rel="noopener">New unicorn alert! Skeleton Technologies</a></td><td class="amt">$970.9M</td><td>Undisclosed</td><td>AI / ML</td></tr><tr><td><a href="https://www.finsmes.com/2026/10/typesafe-ai-raises-870m-in-series-a-funding-at-7-5-billion-valuation.html" target="_blank" rel="noopener">TypeSafe AI</a></td><td class="amt">$870.0M</td><td>Series A</td><td>AI / ML</td></tr><tr><td><a href="https://www.finsmes.com/2026/10/oratomic-raises-775m-in-total-funding.html" target="_blank" rel="noopener">Oratomic</a></td><td class="amt">$775.0M</td><td>Venture</td><td>DevTools</td></tr></tbody></table></div>
+  <div class="grid2">
+    <div><h2>Fresh Powder — Latest</h2><div class="panel"><table><thead><tr><th>Firm</th><th>Fund</th><th>Size</th><th>Focus</th></tr></thead><tbody><tr><td>Seaya</td><td>New fund (see source)</td><td class="amt">€600 million</td><td>Spanish VC Seaya closes new fund at €600 million in just six months</td></tr><tr><td>BackingMinds</td><td>Fund III (first close)</td><td class="amt">€50M</td><td>Nordic early-stage</td></tr><tr><td>Inovia Capital</td><td>Venture Fund 6 (first close)</td><td class="amt">$200M</td><td>AI-native & frontier tech (Montreal)</td></tr><tr><td>Genesys Capital</td><td>University Seed Fund (2nd close)</td><td class="amt">Undisclosed</td><td>Canadian university life sciences (Toronto)</td></tr><tr><td>Sprints</td><td>Fund V</td><td class="amt">€725M</td><td>European growth-stage tech</td></tr></tbody></table></div></div>
+    <div><h2>Herd Leaderboard</h2><div class="panel"><table><thead><tr><th>Investor</th><th>Rounds</th></tr></thead><tbody><tr><td>a16z</td><td>13</td></tr><tr><td>Khosla Ventures</td><td>10</td></tr><tr><td>Y Combinator</td><td>8</td></tr><tr><td>Accel</td><td>8</td></tr><tr><td>8VC</td><td>7</td></tr><tr><td>B Capital</td><td>7</td></tr><tr><td>Bessemer Venture Partners</td><td>5</td></tr><tr><td>Sequoia Capital</td><td>5</td></tr></tbody></table></div></div>
+  </div>
+  <p class="note">Full slices: <a href="rounds/">every round, filterable</a> · <a href="regions/">regional editions</a> · <a href="investors/">investor leaderboard</a> · <a href="trends/">thesis waves since 2014</a>.</p>
+  <div class="ad">Advertisement — sponsorship enquiries via the Contact page</div>
+  <footer>The Herd Tracker is built from public funding announcements and filings. Facts are extracted and re-summarised with links to sources; full text is never republished.
+  See <a href="methodology/">Methodology &amp; Sources</a> · <a href="about/">About</a> · <a href="privacy/">Privacy</a> · <a href="terms/">Terms</a> · <a href="contact/">Contact</a></footer>
+</div>
+</body>
+</html>

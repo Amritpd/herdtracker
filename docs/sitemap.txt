@@ -1,0 +1,12 @@
+/
+/trends/
+/regions/
+/rounds/
+/fresh-powder/
+/investors/
+/about/
+/methodology/
+/privacy/
+/terms/
+/contact/
+# Set BASE_URL in build_site.py and regenerate for sitemap.xml once the domain is live.
